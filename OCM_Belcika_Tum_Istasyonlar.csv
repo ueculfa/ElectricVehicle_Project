@@ -1,0 +1,1277 @@
+﻿OCM_ID,Istasyon_Adi,Operator,Enlem,Boylam,Sehir,Kullanim_Tipi,Priz_Sayisi
+487420,Château de Herzée,Alfen,50.66208548846933,5.124420002111947,Blehen,"Private - For Staff, Visitors or Customers",1
+487065,Indaver Doel,ChargePoint,51.28543658916294,4.27723912855015,Beveren,Public,14
+487063,Indaver Kallo,ChargePoint,51.28417345651104,4.27873534306309,Beveren,"Private - For Staff, Visitors or Customers",8
+487062,Brugstraat,(Unknown Operator),51.2957443083437,4.5752716290460285,Brecht,Public,4
+487061,Verblijfspark Dennenbad,(Unknown Operator),51.2906962831122,4.534456655619238,Schoten,Public,2
+487060,SPARN Achterbroek,(Unknown Operator),51.39676993576029,4.500964317484318,Kalmthout,Public - Pay At Location,4
+485550,E-Load charging station,(Unknown Operator),50.97676641657543,5.357794051166934,Zonhoven,Public,4
+478964,Kiezelweg,(Unknown Operator),51.13353604157115,4.6920600040843965,Nijlen,Public,1
+478802,Engie,Engie,50.987233838178554,3.528719972001227,Deinze,Public - Membership Required,1
+471280,Mons - Quick Imagix,Electra,50.46070679529009,3.9345446723320947,,Public,1
+470799,Sportpark Krokodiel Middelkerke,E-Flux,51.178543849220176,2.8051373970160967,Middelkerke,Public - Membership Required,16
+470688,FastNed Couvin,FastNed,50.069369010953636,4.504559830812013,Couvin,Public - Pay At Location,1
+470145,Driveco,Drive Eco,50.64852737340274,4.5654809114157615,Court-Saint-Etienne,Public - Membership Required,6
+464539,ThePluginCompany,ThePluginCompany (Belgium),50.65273725684679,4.56564578859161,Court-Saint-Étienne,Public - Membership Required,1
+464079,Royal Keerbergen Golfclub (PowerGo),PowerGo,51.002052307128906,4.668628215789795,Keerbergen,Public - Membership Required,0
+464078,Basic-Fit België HQ Jette (PowerGo),PowerGo,50.88493728637695,4.305558681488037,Jette,Public - Membership Required,0
+464077,Tenniscentrum Alken (PowerGo),PowerGo,50.8782844543457,5.302969932556152,Alken,Public - Membership Required,0
+463058,Adgar Theater Public,Greems (IL),51.22005,4.4156202,Antwerpen,Public - Membership Required,0
+463057,Adgar Plantin,Greems (IL),51.210928,4.418498,Antwerpen,Public - Membership Required,0
+462764,Shell Recharge Gentbrugge ,Shell Recharge Solutions (BE),51.02861878271901,3.767617912659489,Gentbrugge ,Public - Pay At Location,6
+462606,MobilityPlus,MobilityPlus,50.42682967404835,3.8674886830990545,Quaregnon,Public - Pay At Location,4
+462514,Buro Berkovitch,(Unknown Operator),51.08070564958845,3.7771120613590483,Oostakker,Public,1
+462513,Buro Berkovitch,(Unknown Operator),51.08078424849336,3.777107269125054,Oostakker,Public,1
+462110,Korenbloemenstraat,(Unknown Operator),50.8493360363847,4.470932022347142,Halle-Vilvoorde,"Private - For Staff, Visitors or Customers",1
+461510,ENGIE Viano,Engie,50.97761219139596,3.568111390828676,Deinze,Public,2
+461195,King Charge Nives,Last Mile Solutions,49.92713846343261,5.595305297110372,Vaux-sur-Sure,Public,1
+461098,DKE NV,Smappee,50.77978401714873,3.487342871887222,Kluisbergen,Public - Pay At Location,3
+460552,Ecovorm Charging,(Unknown Operator),51.002493908999355,4.002407336404673,Dendermonde,Public,4
+460515,E17,ChargePoint,51.18502221857159,4.2889903439640875,Melsele,Public,6
+460424,Afrit Kalken (Zuid),Circle K,51.07025540779745,3.919183192980654,Kalken,Public,6
+460070,RAMFER-home,(Unknown Operator),51.190172319684024,5.562636449937571,BOCHOLT,Private - Restricted Access,1
+459394,TotalEnergies Antwerpen-Zuid,TotalEnergies (FR),51.215215203811795,4.415074234429881,Antwerpen,Public,1
+458965,Ferme de l'Hosté,(Unknown Operator),50.726414064488296,4.621788196687817,Wavre,"Private - For Staff, Visitors or Customers",1
+457969,TotalEnergies - Vuurtorenplein 5,TotalEnergies (FR),51.10017139411053,2.582411743652216,De PAnne,Public - Membership Required,2
+457968,TotalEnergies - Kapellelaan 10,TotalEnergies (FR),51.098847865366054,2.5815829513380777,De Panne,Public - Membership Required,2
+457967,TotalEnergies,TotalEnergies (FR),51.09795897452494,2.5833900870975413,De Panne,Public - Membership Required,2
+457622,Floralien,(Unknown Operator),51.18674553405535,4.418748584167361,Antwerp,Public - Membership Required,2
+456415,Basic-Fit 2059 Kalmthout (PowerGo),PowerGo,51.38511657714844,4.475798606872559,Kalmthout,Public - Membership Required,0
+456414,Basic-Fit 2074 Ekeren (PowerGo),PowerGo,51.301353454589844,4.4085612297058105,Antwerpen,Public - Membership Required,0
+456407,Basic-Fit 2008 Gent Watersportbaan (PowerGo),PowerGo,51.048194885253906,3.6929073333740234,Gent,Public - Membership Required,0
+456403,Corda Campus (PowerGo),PowerGo,50.95158386230469,5.353017330169678,Hasselt,Public - Membership Required,0
+456400,Basic-Fit 2066 Bilzen (PowerGo),PowerGo,50.860679626464844,5.508841037750244,Bilzen,Public - Membership Required,0
+313035,Tesla Supercharger Zaventem,Tesla (including non-tesla),50.869897,4.501978,,Public - Membership Required,16
+313034,Tesla Supercharger Mons,Tesla (including non-tesla),50.456723,3.940378,,Public - Membership Required,16
+313033,Tesla Supercharger Hasselt,Tesla (including non-tesla),50.951744,5.353198,,Public - Membership Required,12
+313032,Tesla Supercharger Couvin,Tesla (including non-tesla),50.08391,4.524011,,Public - Membership Required,16
+313031,Tesla Supercharger Charleroi,Tesla (including non-tesla),50.452274,4.430456,,Public - Membership Required,12
+313030,Tesla Supercharger Brussels,Tesla (Tesla-only charging),50.878782,4.373321,,Public - Membership Required,8
+312758,Pharmacie Familia,TotalEnergies (FR),50.291475684111845,5.100143922818745,Ciney,Public - Membership Required,16
+312652,OCVS Consulting,(Unknown Operator),50.762834620456914,4.301820493158061,Beersel,Public - Membership Required,1
+312369,Engie Belgium publieke laadpaal,Engie,51.12355856924225,4.4970578614871215,Lint,Public - Membership Required,2
+312329,FALCOMOTIVE CHARGING STATION,(Unknown Operator),50.97933370707119,5.122812487092915,Halen,Public - Membership Required,3
+311836,Bellewaerde Aquapark ,Smappee,50.846560289985376,2.9471100408641178,Ieper,"Private - For Staff, Visitors or Customers",9
+311720,Rue des Pieds d'Alouette,Powerland (BE),50.42687479864057,4.924705260517953,Naninne,Public,8
+311280,Parking Zwarte Hond,Engie,51.37245060538743,4.501907718588086,Kalmthout,Public - Membership Required,1
+308955,Parking Fort 3,Engie,51.187644275360725,4.485325208411922,Borsbeek,Public - Membership Required,4
+308457,Meenseweg 481,(Unknown Operator),50.846421987979056,2.9461344538196386,Ypres,Public,1
+308456,Bellewaerde Park - Ingang Leeuw,MobilityPlus,50.846687120941795,2.9496918019606255,Ieper,"Private - For Staff, Visitors or Customers",10
+308451,Powerland Universal Supercharger - DC public,Powerland (BE),50.25762527643329,4.968385781470545,Sorinnes - Dinant,Public - Membership Required,4
+307857,Q8 ,(Unknown Operator),51.010779676722706,3.167440896195103,Lichtervelde,Public,2
+307333,Hotel Montanus BV,E-Flux,51.20368416185201,3.230367139035394,Brugge,"Private - For Staff, Visitors or Customers",4
+307236,Hotel Montanus BV,E-Flux,51.203488924504626,3.2279850233661023,Brugge,Public,4
+306771,Delhaize Ath - Electra,(Unknown Operator),50.63521582330634,3.78969402596897,ATH,Public,5
+306388,Engie - Oude Molenstraat,Engie,51.17207428450399,4.1549612362276775,Sint-Niklaas,Public - Membership Required,2
+306386,Minderbroedersstraat 7,Engie,51.173028760730034,4.151586386908775,Sint-Niklaas,Public - Membership Required,2
+306170,Gallifortlei 267,TOTAL Be PlugToDrive,51.2260800941464,4.466165552338907,Deurne,Public - Membership Required,4
+306024,Blink Chargepoint,Blink Charging,50.840359212980644,3.6128551502125674,Oudenaarde,Public,2
+305027,Electra charging station ,Electra,51.22654,3.206764,Brugge,Public - Pay At Location,1
+305026,Electra charging station ,Electra,51.209628,3.25504,Brugge,Public - Pay At Location,0
+305025,Electra charging station ,Electra,51.209628,3.25504,Brugge,Public,1
+303755,SBE,MobilityPlus,51.173436036479615,4.142302542951143,Sint-Niklaas,Public,7
+303532,Europark Zuid-Het Metaal,(Unknown Operator),51.15730310375571,4.169391446457695,Sint-Niklaas,Public - Membership Required,20
+301683,Ionity Massenhoven,Ionity,51.20388600000069,4.6472879999998895,Zandhoven,Public,6
+301682,Ionity Waregem,Ionity,50.89835200000056,3.402960999994775,Waregem,Public - Membership Required,5
+301453,Tesla Supercharger Liège,Tesla (including non-tesla),50.67105541300069,5.543365607553483,,Public - Membership Required,16
+300496,Rue Alfred Defuisseaux,(Unknown Operator),50.666666666666664,5.458015839234457,Liège,Public - Membership Required,1
+300495,Chaussée de Bruxelles,(Unknown Operator),50.67222742291736,5.485327042171548,,Public - Membership Required,16
+300480,The Spin,Eranovum (ES),50.223177389748656,4.384404553183913,,Public - Membership Required,6
+300419,Hardtstraße,Optimile,50.29368,6.10464,Sankt Vith,Public,2
+299832,Allego Bertem,Allego BV,50.86169766456234,4.6137055940871505,Bertem,Public - Membership Required,10
+299632,Allego - Hoegaarden - Rommersom,Allego BV,50.779973435362905,4.918990511451284,Hoegaarden,Public - Membership Required,10
+299354,Tangla Hotel Brussels,Eranovum (ES),50.8531415858545,4.449164228063012,Woluwe-Saint-Lambert - Sint-Lambrechts-Woluwe,Public - Membership Required,8
+299068,Karel Van Miertstraat 4,E-Flux,50.885377630942116,4.525419001565837,Kortenberg,Public,8
+299067,Romboutsstraat 3,E-Flux,50.8724966893877,4.463376911272491,Zaventem,Public,1
+298998,DB Services Groot-Bijgaarden AC,(Unknown Operator),50.870844,4.274152,Dilbeek,Public,4
+298997,DB Services Groot-Bijgaarden DC,(Unknown Operator),50.870844,4.274152,Dilbeek,Public,1
+297230,ITAF IT Services,EVBox,51.0932110941194,3.6902456911624597,Gent,Public,7
+297125,Straat,Smappee,51.213604506624165,3.1982003878125624,Brugge,Public,2
+296831,Engie Gravenplein,Engie,51.212420376499466,4.260912806476142,Beveren,Public - Membership Required,4
+296830,Colruyt Beveren Dats 24,Optimile,51.21389381472906,4.252336565189864,Beveren,Public - Membership Required,2
+296078, Baarledorpstraat 55 A,Optimile,51.036415306340274,3.616661705450582,Drongen,Public - Membership Required,10
+290776,Maria van Bourgondiëlaan 33A,(Unknown Operator),51.21254,3.207305,Bruges,Public,1
+290139,Matimo Invest,Optimile,51.06235904429502,3.6965924879454235,Gent,Public,5
+290132,LastMileSolutions - 10 Autobaan - Zedelgem,Last Mile Solutions,51.16118122304687,3.1922820024174143,Zedelgem,Public,2
+289288,Tier Moreau,Ecotap,50.35067931,5.45486687,Durbuy ,"Private - For Staff, Visitors or Customers",6
+289287,Grasdreef 24,Last Mile Solutions,51.17010068923406,3.1934394597020628,Sint-Michiels,Public,2
+289286,Graaf Pierre de Brieylaan,Last Mile Solutions,51.18533748042566,3.1960705126030007,,Public,4
+288947,Allego,Allego BV,51.03352290427543,3.7565638848232084,Gent,Public,6
+288567,Volvo LACOM Leuven,(Unknown Operator),50.84975689568992,4.7191350782881045,Leuven,Public,2
+288009,Fastned Boutersem ,FastNed,50.82537050255482,4.814610563722908,Boutersem,Public,4
+288008,Dalemstraat,(Unknown Operator),50.82472592047753,4.817373695755919,Boutersem ,Public,6
+280104,Total Nivelle ,(Unknown Operator),50.61504677840128,4.3005433687274035,Nivelle ,Public,2
+280074,Gardeniaweg,Allego BV,51.20238360963418,4.514147796554624,Wommelgem,Public - Membership Required,2
+279685,Pleine des Coquerées,(Unknown Operator),50.663059258216094,4.556070339723078,Ottignies-Louvain-la-Neuve,Public,2
+279636,Stationsstraat,(Unknown Operator),50.97588770219224,4.631826541798603,Haacht,Public,2
+279561,Franki foundations,(Unknown Operator),50.70547989362521,4.176237708259237,Tubize,Public,19
+279559,Beneluxpark,Allego BV,50.80124598720528,3.2779346271323675,,Public,1
+279490,Esso E314 Direction Lummen,Allego BV,50.95044527468568,4.791855232695525,Rotselaar,Public,10
+279186,Den Dijk Allego,Allego BV,50.96266811721449,4.639265263466314,Haacht,Public,2
+279185,Den Dijk TotalEnegies,(Unknown Operator),50.962643985775486,4.639370369219364,Haacht,Public,2
+279106,Aan De Engelse Hof,Engie,50.88899137495025,5.657695391946277,Lanaken,Public,2
+279101,Rue Frans Verdonck - Frans Verdonckstraat,(Unknown Operator),50.87731269605496,4.39335110559432,Evere,Public,2
+278696,Rue Hubert Van Hoorde - Hubert Van Hoordestraat,(Unknown Operator),50.87718532811377,4.397365211981196,Evere,Public,2
+278562,Lidl,(Unknown Operator),50.440938638035135,3.846200540043071,Quaregnon,Public,1
+278491,Robert Tavernierlaan,Optimile,51.00198935648018,3.341673228795429,Tielt,Public,4
+274731,Rue de Picardie - Picardiestraat,(Unknown Operator),50.87904145880654,4.397014782304382,Evere,Public,4
+274729,Spar Wespelaar,(Unknown Operator),50.95922887812577,4.6379130878854085,Wespelaar,Public,2
+274677,Cortina N.V.,ChargePoint,50.83171480905444,3.591873616994245,Oudenaarde,Public,30
+274065,Heel Belgium NV - 1 ,(Unknown Operator),51.039785562362,3.597953983820929,Drongen,Public - Membership Required,10
+273636,Gabriëls ,E-Flux,50.92317990845308,3.9486039968976456,Erpe-Mere,Public,3
+273611,Fastned,FastNed,50.92804801816973,3.9580484186810736,Erpe-Mere,Public,8
+273594,Sportcentrum,Allego BV,50.92204949894935,3.26297196194173,Ingelmunster,Public,2
+273589,De Wingerd ,(Unknown Operator),50.88910017889077,4.687138446112272,Leuven,Public,6
+273583,Straatjesgang,(Unknown Operator),50.87730057884613,4.712686902667315,Leuven,Private - Restricted Access,2
+273539,Rijschool Mercator,Last Mile Solutions,50.94002401107346,4.744496663813038,Rotselaar,Public - Membership Required,8
+273487,Soper,Greenflux,50.940243925509634,4.745531632977645,Rotselaar,Public,4
+273486,Q8,Optimile,50.94004721027085,4.746338550033215,Rotselaar,Public,2
+273485,Cibo,Optimile,50.94536192687812,4.64042877663519,Tildonk,"Private - For Staff, Visitors or Customers",4
+273484,Klein Eikeblok 37,Optimile,50.941565422574314,4.650159562177464,Tildonk,Privately Owned - Notice Required,1
+273481,BPB Chemicals,EVBox,50.95431313394673,4.643742496786672,Wespelaar,"Private - For Staff, Visitors or Customers",1
+273480,Poolplus,Optimile,50.95317749374024,4.642843264259113,Wespelaar,Public,1
+273479,Garage Van Calsteren,EVBox,50.95305549426311,4.63971472421963,Wespelaar,Public,2
+273478,Elnor,Last Mile Solutions,50.953779252039425,4.639704901784512,Wespelaar,Public,4
+273412,Carpool parking Holsbeek,Last Mile Solutions,50.933546248186445,4.7432882112573225,Wilsele,Public,1
+273335,Gabriëls,E-Flux,50.93848244880243,4.734304877005798,Rotselaar,Public,1
+273334,Marc Muntenplein,Allego BV,50.938595896831885,4.737205075139855,Rotselaar,Public,2
+273332,ATOS Engineering,(Unknown Operator),50.940795973278796,4.744649050702606,Rotselaar,"Private - For Staff, Visitors or Customers",2
+273230,Kouterstraat,Allego BV,50.943480383218514,4.6457547459594934,Tildonk,Public,2
+273201,Java,Optimile,50.939465035032924,4.745255785165909,Rotselaar,Public,20
+272526,Slabinck NV,(Business Owner at Location),51.18538198655685,3.2248760234400606,Brugge,Public - Membership Required,2
+270946,Q8 Bouillon,ladenetz.de,49.82226231324253,5.086830428876038,Bouillon,Public - Membership Required,2
+270843,B&B Het Kleine Paradijs,(Unknown Operator),51.24174574298385,3.3435102445007203,Moerkerke-Damme,Public,1
+266618,Jean-Baptiste de Ghellincklaan,(Unknown Operator),51.020524413132904,3.677450743241593,,Public - Pay At Location,3
+266614,Jean-Baptiste de Ghellincklaan,(Unknown Operator),51.02087026987476,3.678087839780119,,Public - Pay At Location,14
+266258,"Okay, Ham",(Unknown Operator),51.10533618417904,5.174530272765793,Ham,Public - Membership Required,4
+266021,MaaketHoofdkast,Optimile,51.0760842,3.7174299,Gent,Public,3
+265965,Symo Nv,Optimile,51.21007537841797,3.197077751159668,Brugge,Public,4
+260186,EAV,(Unknown Operator),51.02099,3.68037,Gent,Public,3
+259573,De Nieuwe Lekkerbek parking,Optimile,51.03496480944182,3.3956517988864903,Ruiselede,Public - Membership Required,5
+259214,Centrumstraat,Allego BV,51.09427580180031,3.609540727484273,Lievegem,Public - Membership Required,2
+258478,Hotel Astoria,Optimile,51.03304907388994,3.71692993629199,Gent,Public,4
+258428,Allego Charging station,Allego BV,51.336828422262954,4.526388450409343,Brasschaat,Public - Membership Required,8
+258293,Massenhoven,ChargePoint,51.195519998075724,4.638029351989985,Massenhoven,Public,2
+257044,Silver Service,(Unknown Operator),51.024206464308534,3.682484328835409,Gent (Sint-Denijs-Westrem),Public,2
+256983,Brouwerij Haeseveld,Last Mile Solutions,51.06923184121413,3.797801110990804,Gent,Public,2
+256698,EV - MC Garage,(Business Owner at Location),51.18626122020956,3.2313810068193334,Sint-Michiels (Brugge),Public - Pay At Location,1
+256039,MEET HET Smappee,(Unknown Operator),51.08774488458093,3.66554583508551,Mariakerke,Public,2
+238408,Brugs Bierinstituut,(Unknown Operator),51.22538338321161,3.2289471224879094,Brugge,Public,1
+235562,Avenue Charles De Gaulle,(Unknown Operator),50.46238127136913,4.816621613320556,Floreffe,Public - Membership Required,1
+213067,Rulot Home Décoration,(Unknown Operator),50.473357425698396,5.384478623992607,Tinlot,Public,4
+213066,Parking EcoVoiturage,(Unknown Operator),50.43946310952924,5.45760029559915,Ouffet,Public,2
+212558,BMW Patrick Smets,(Unknown Operator),51.087291761135475,4.6401339908152295,Lier,Public - Membership Required,2
+212427,Oude baan,Alfen,51.14184138933592,4.075539275663289,Sint-Niklaas,Public - Membership Required,1
+212426,HB ENGINEERING,Alfen,51.141804217620745,4.074102258116227,Belsele,Public - Pay At Location,1
+210867,ALPHA_GENT,Optimile,51.0884196,3.6722133,gent,Public,10
+210723,Tentoonstellingslaan,TotalEnergies (FR),51.19112070611558,4.38953851343058,Antwerpen,Public - Membership Required,2
+210722,Beschavingstraat,TotalEnergies (FR),51.19115365326289,4.3959950247669894,,Public - Membership Required,1
+210679,Say Hey,(Unknown Operator),51.136121736520465,3.159579477084094,Zedelgem,Public - Membership Required,4
+210321,Parking De Leest,Allego BV,50.91298267019951,3.2054150278841007,Izegem,Public,2
+210296,Allego Sint-Pietersstraat 2,Allego BV,50.916560109385756,3.214772670088337,Izegem,Public - Membership Required,2
+209961,New-Orleansstraat 10A,Mobib (Belgium),51.081025643634575,3.731438229210994,Gent,Public,2
+208886,Sint-Hubertuslaan ,Allego BV,51.204353851242274,3.1847947232644174,Brugge,Public - Membership Required,1
+208276,DE STER mosterdmakerij,(Unknown Operator),50.892991423892425,4.799401958494059,Lubbeek,Public,2
+205914,Lieven Bauwensstraat,(Unknown Operator),51.215155028885704,3.1945987767160204,Bruges,Public,8
+204410,C-Charge,TotalEnergies (FR),51.043170909711705,5.321480583072798,Heusden-Zolder,Public - Membership Required,2
+195383,Kelderbeemd 1,(Unknown Operator),51.2733602285646,5.079521379439029,Retie,Public,2
+194610,Brecht Oost,FastNed,51.320884338121516,4.585209336126383,Brecht,Public - Pay At Location,1
+194447,IONITY Living Tomorrow Brussels,Ionity,50.90872,4.38627,Vilvoorde,Public,4
+194445,Partago,(Unknown Operator),51.00650849386497,3.7089479788569406,Zwijnaarde,"Private - For Staff, Visitors or Customers",1
+194444,Partago,(Unknown Operator),51.00608386386051,3.707409700823746,Zwijnaarde,"Private - For Staff, Visitors or Customers",1
+194347,Fastned Peuti Oost,Allego BV,50.93608840847094,4.475746778508665,Vilvoorde,Public - Membership Required,8
+194346,Fastned Peutie Oost,Allego BV,50.935893639746894,4.475697974890522,Vilvoorde,Public - Membership Required,2
+194345,Nivelles Total Energies,Allego BV,50.61505986144789,4.301309444104845,Nivelles,Public,2
+194344,Nivelles Allego,Allego BV,50.61478895278995,4.300127130765759,Nivelles,Public,1
+194343,le Roeulx - Luminus,Allego BV,50.48752173728363,4.096386105105125,Le Rœulx,Public,2
+194204,POC De Kepper,(Unknown Operator),50.90405038291087,3.5305175919666,Kruishoutem,Public,2
+194198,August Hermansplein 1 2560 Nijlen,Allego BV,51.16073089798056,4.673637074020462,Nijlen,Public - Membership Required,2
+194187,POC De Kepper,(Unknown Operator),50.904142877910374,3.5305880844040303,Kruishoutem,Public,2
+193554,Publiek Laadstation,(Unknown Operator),50.78567003003667,5.478664814106651,Tongeren,Public,1
+193004,Kielsevest 82,Blue Corner (Belgium),51.198791474550774,4.390913300652983,Antwerpen,Public,2
+192923,Motogroup/Lybover,EVBox,51.232979,3.214966,Brugge,Public,2
+192902,120 Koning Albert I-laan,(Unknown Operator),51.186809421485805,3.208274588714289,Bruges,Public - Membership Required,1
+192655,Mavanis EV Fast Charging station,(Unknown Operator),51.041026905309366,5.3248533032240175,Heusnde-Zolder,Public,9
+192529,Turbel,(Business Owner at Location),50.886048429403274,4.419159851907352,Ville de Bruxelles,Public - Membership Required,8
+191207,Gabriëls Merelbeke,(Unknown Operator),51.00421654355131,3.762750075666247,Merelbeke,Public - Membership Required,2
+191205,Allego - Langehaag 5,Allego BV,50.96079370666749,3.94967140029496,Impe,Public,2
+191057,Provinciaal Domein Puyenbroeck - Parking 2,Blue Corner (Belgium),51.15038428322106,3.899861395599032,Wachtebeke,Public,2
+190925,Fastned Bekkevoort,FastNed,50.95214495831581,4.998071261375259,Bekkevoort,Public - Pay At Location,4
+190918,Parkeerborden Gent,(Unknown Operator),51.06765342097603,3.7479187290143727,Ghent,Public - Membership Required,2
+190491,Kantoor Fintro,Last Mile Solutions,51.06994901203498,3.797783085024605,Gent,Public - Membership Required,2
+190420,Steven Vanalphen,(Business Owner at Location),50.73333340705361,4.290182611337173,Dworp,Public,1
+190419,Natiënlaan,Power Station (BE),51.326966942852266,3.2960367062142097,Knokke-Heist,Public - Membership Required,2
+189628,Proxy Delhaize Ohey,(Unknown Operator),50.442858232051606,5.119707702979383,Ohey,Public,1
+189533,Wisefools,(Unknown Operator),51.06200062474642,3.688562869223915,Ghent,Public,2
+189204,Eskimo,Toka Energy,51.07151682151749,3.7264731688068196,Gent,Public,2
+189203,Eskimo,(Unknown Operator),51.0674323,3.7290991,Gent,Public - Membership Required,2
+189195,Lidl Dison,Lidl,50.601491,5.852578,Dison,Public,1
+188951,Allego carpool parking ,Allego BV,50.893770273644805,4.689312582390812,Leuven,Public,1
+188943,Lidl Lessines,Lidl,50.72253927735301,3.8328772232765687,Lessines,Public,1
+188940,Volkswagen Jennes Leefdaal,Lidl,50.856528664220264,4.597616848912594,Leefdaal,Public,1
+188939,Lidl Tervuren,Lidl,50.83754333804788,4.5409075069953815,,Public,1
+188737,Powerland Ultra Fast EV Charging,(Unknown Operator),50.964484026296276,3.548793892122262,Deinze,Public - Pay At Location,4
+188736,Aarseleweg,Allego BV,51.008154227106104,3.4755971849532443,Deinze,Public - Membership Required,2
+188521,Trafic shop,(Unknown Operator),50.34803443378837,5.488144466553763,Barvaux (Durbuy),Public,2
+188309,Stationsstraat,Allego BV,51.0595245441705,3.5731738212372193,Nevele,Public - Membership Required,1
+185542,Restaurant Foud'O,Greenflux,51.0382,3.69064,Ghent,Public,1
+185541,CountryClub Zwijnaarde,Greenflux,51.00129678611941,3.7204099921156057,Ghent,Public,1
+185540,Brasserie Latem,Greenflux,51.01433803436595,3.648916974620306,Ghent,Public,1
+185539,Restaurant Baarle 90,Greenflux,51.034932251181516,3.619438753470831,Sint-Martens-Latem,Public,1
+176341,Mercure Liege City Centre,Greenflux,50.64849260656419,5.589628851524708,Liège,Public,1
+176340,Mercure Antwerp City South,Greenflux,51.19456859431048,4.40613096560196,Antwerp,Public,1
+176339,Holiday Inn Express Antwerp,Greenflux,51.22940996461682,4.413333166618827,Antwerp,Public,1
+176159,De Moester,(Unknown Operator),51.01884047322761,3.6907246242210476,Sint-Denijs-Westrem,Public,1
+176040,Holiday Inn Gent Expo,Greenflux,51.02597758931259,3.6895645213794523,St-Denijs-Westrem,Public,12
+175613,Ionity Wellin,Ionity,50.078502396823154,5.1319418430578025,Wellin,Public - Pay At Location,6
+175457,Vissendijk,Allego BV,51.017316334693135,4.782049565508373,Begijnendijk,Public - Membership Required,1
+175456,Vorststraat,Allego BV,51.021636717824265,4.9977690917942255,Scherpenheuvel-Zichem,Public - Membership Required,1
+175455,Lidl Tessenderlo,Lidl,51.055601350152926,5.089548034959762,Tessenderlo,Public,1
+175453,Total - Zonhoven,TotalEnergies (FR),51.01149269025072,5.332079683675147,Zonhoven,Public,2
+175452,Total - Zolder,TotalEnergies (FR),51.013169118122704,5.332218704269053,Heusden-Zolder,Public,2
+175442,Rijksweg,FastNed,50.922108127402254,3.1503838981318495,Roeselare,Public - Pay At Location,1
+175441,Lidl charging station,Lidl,50.48949575427764,5.8448264182424055,Spa,Public,1
+175367,42 Petit Coo,(Unknown Operator),50.391124938662074,5.873619833568455,Stavelot,Public,6
+175310,EV Charging Station,Allego BV,50.97668834134416,5.04562437726554,Diest,Public - Membership Required,2
+175308,Allego Charging Station,Allego BV,50.831478776035,4.728899665140943,Haasrode,Public - Membership Required,1
+175307,Allego Charging Station,Allego BV,50.823895751338256,4.701756752681376,Oud-Heverlee,Public - Membership Required,1
+175269,Parkstraat,Allego BV,51.34112290284611,3.2463593531364268,Heist,Public - Membership Required,2
+175202,Rue de Tervaete - Tervaetestraat,Greenflux,50.83096735437525,4.400199179046808,Etterbeek,Public - Membership Required,2
+175085,IONITY Wetteren Zuid,Ionity,50.96948,3.841191,Wetteren,Public,5
+175084,IONITY Wetteren Noord,Ionity,50.970743,3.844233,Wetteren,Public,5
+175081,IONITY Froyennes Sud,Ionity,50.619058,3.341152,Tournai,Public,4
+175080,IONITY Froyennes Nord,Ionity,50.619572,3.338944,Tournai,Public,4
+175079,IONITY Le Roeulx / Thieu Sud,Ionity,50.487357,4.096235,Le Rœulx,Public,4
+175060,IONITY Veurne,Ionity,51.06441,2.673611,Veurne,Public,4
+174967,Acacialaan - Park,Allego BV,51.12579774548877,4.492403306752976,Lint,Public - Membership Required,1
+174555,Siemenslaan,(Unknown Operator),51.00986801713759,5.706031436410967,Dilsen-Stokkem,Public - Membership Required,2
+174498,53 Noorderlaan,Blue Corner (Belgium),51.24692151964234,4.4169230396792045,Antwerp,Public,2
+174454,Value Stay Brussels Expo,(Unknown Operator),50.904484902645834,4.3539184406182585,Grimbergen,Public - Membership Required,1
+174440,Luminus fast charger,(Unknown Operator),50.951517719611246,5.352968380066159,Hasselt,Public - Membership Required,2
+174356,Lange Dreef,Allego BV,51.212738382598104,4.26075432151697,Beveren,Public - Membership Required,1
+174355,Ciamberlanidreef,Allego BV,51.21594743727371,4.252833302381646,Beveren,Public - Membership Required,2
+174344,Proy Delhaize,ORES,50.71270819707371,4.545408723941932,Rixensart,Public - Membership Required,2
+174141,Lidl Harelbeke,Lidl,50.86201483487102,3.320662629758658,Harelbeke,Public,1
+174140,Putte  Bibliotheek,Allego BV,51.057049490466056,4.627921468274735,Putte,Public - Membership Required,1
+174139,Heuvel,Allego BV,51.04708572256621,4.624733994649432,Putte,Public - Membership Required,1
+174138,Putte Gemeenteplein,Allego BV,51.05670591360834,4.62932172252863,Putte,Public - Membership Required,1
+174114,LIDL Putte,Lidl,51.057808669119055,4.637246180280044,Putte,Public,3
+172989,Thon hotel City Centre,(Unknown Operator),50.85571951990869,4.35760303949246,Brussels,Public - Pay At Location,1
+172939,Parking Winkelcentrum Dok Noord,(Unknown Operator),51.06678757314387,3.732699905001141,Ghent,Public,3
+172730,IONITY Tignee,Ionity,50.65546374751514,5.710904768817727,Soumagne,Public - Pay At Location,7
+172679,Lidl Sterrebeek,(Unknown Operator),50.86522267599943,4.5151334299575865,Sterrebeek,"Private - For Staff, Visitors or Customers",2
+172247,Allego Charging Station,Allego BV,50.9597502402236,3.5973567908217774,Nazareth,Public - Membership Required,2
+171673,Trapstraat,Blue Corner (Belgium),51.22961714031513,4.4243655582477,Antwerp,Public - Membership Required,1
+171672,Parking Noordschippersdok,(Unknown Operator),51.23468481366825,4.429338302866995,Antwerp,Public - Membership Required,1
+171656,Hoofd,Blue Corner (Belgium),51.081520112218215,4.366137085318314,Willebroek,Public - Membership Required,1
+171655,Halenstraat,Blue Corner (Belgium),51.227941255229126,4.433485176461772,Antwerp,Public - Membership Required,2
+171654,Albert Heijn,Blue Corner (Belgium),51.20434493686443,4.4822466022714025,Wommelgem,"Private - For Staff, Visitors or Customers",4
+171653,AZ Stuivenberg,Blue Corner (Belgium),51.22266980145088,4.43579733206127,Antwerp,"Private - For Staff, Visitors or Customers",2
+171652,Pothoekstraat,Blue Corner (Belgium),51.22437288598326,4.436675788844809,Antwerp,Public - Membership Required,1
+171244,TC De Krijte,(Unknown Operator),51.078801999706855,3.76852497668267,Gent,Public,2
+170489,Heldenplein,Allego BV,51.34082247433639,3.240844625245245,Knokke-Heist,Public - Membership Required,2
+170416,parking De Nieuwe Dokken,(Business Owner at Location),51.06505870858422,3.7376418086387275,Gent,"Private - For Staff, Visitors or Customers",4
+170415,Kompasplein,(Business Owner at Location),51.06475359492396,3.737834893475224,Gent,Public,4
+170331,Lusthoflaan 82,EVBox,51.080669003978045,3.6954327085151135,Wondelgem,Public,1
+170092,Namur Supercharger,Tesla (Tesla-only charging),50.486021,4.797235,Suarlée,Public - Membership Required,15
+169960,Parking Pentanquehal / Atletiekbaan,Allego BV,51.21072110611573,4.243605616096147,Beveren,Public - Membership Required,2
+169709,Fastned Ostend Airport,FastNed,51.20567171617776,2.8712291838091915,Oostende,Public - Pay At Location,4
+169691,72 Sint-Amandstraat,(Unknown Operator),51.04215943542178,3.7249303845417217,Ghent,Public - Membership Required,1
+169419,Colruyt  Cuesmes,(Unknown Operator),50.436024909634654,3.926099792767104,Cuesmes,Public - Membership Required,2
+167651, Lidl fastcharger - Seraing,(Unknown Operator),50.60760782549215,5.516315235415959,Seraing,Public,1
+167342,Josse Goffinlaan,Greenflux,50.86672727631719,4.307740084236002,,Public - Pay At Location,2
+167341,Charles Malisstraat,Greenflux,50.85480116379736,4.3124042514330085,,Public - Pay At Location,2
+167340,Delaunoystraat,Greenflux,50.85135004858503,4.333306444081131,,Public - Pay At Location,2
+167339,Ulensstraat,Greenflux,50.860842,4.345981,,Public - Pay At Location,2
+167326,Legerlaan,Greenflux,50.83439918520088,4.403022446585624,,Public - Pay At Location,2
+167325,Sint-Pietersplein,Greenflux,50.83701994235315,4.396309600968721,,Public - Pay At Location,2
+167324,Leuvense Steenweg/Leuvensesteenweg,Greenway,50.854123,4.395192,Brussels,Public - Pay At Location,2
+167323,Brand Whitlocklaan,Greenflux,50.84157490671814,4.406427112100118,,Public - Pay At Location,2
+167322,Brand Whitlocklaan,Greenflux,50.84294486222038,4.405607070622864,,Public - Pay At Location,2
+167320,Atomiumlaan,Greenflux,50.89883625168312,4.346897914545252,Brussels,Public - Pay At Location,2
+167260,Voltairelaan,Greenflux,50.86549737283181,4.380433087802658,,Public - Pay At Location,2
+167259,Freesiadreef,Greenflux,50.86474574543277,4.390967730193665,,Public - Pay At Location,2
+167258,Houtweg,Greenflux,50.8819679215006,4.407334569056502,Haren,Public - Pay At Location,2
+167253,Johannalaan,Greenflux,50.814526,4.379008,Brussels,Public - Pay At Location,2
+167252,Franz Merjaystraat,Greenflux,50.8163853806513,4.3508295899611085,,Public - Pay At Location,1
+167251,IJsvogellaan,Greenflux,50.8107141944715,4.400563146250988,,Public - Pay At Location,1
+165115,Engsbergen,Allego BV,51.02951661842371,5.043299298433681,Tessenderlo,Public,1
+165114,Nederhemplein,Allego BV,50.73879763869374,4.243524668868417,Halle,Public,1
+162076,Daillyplein,Greenflux,50.851704854309986,4.387595021354855,,Public - Pay At Location,1
+162075,Square Ambiorix,Greenflux,50.84612302537923,4.383773828263088,Brussels,Public - Pay At Location,1
+162071,Square Frere Orban,Greenflux,50.84380888893287,4.370750173077909,Ville de Bruxelles - Stad Brussel,Public - Pay At Location,1
+161837,Decathlon Luminus,Bilinmiyor,50.877525934363746,4.412303611900256,Haren,Public - Pay At Location,2
+161830,4 Place Georges Brugmann - Georges Brugmannplein,Greenflux,50.81799116111313,4.354968749322779,Ixelles - Elsene,Public - Pay At Location,1
+161821,Carrefour Kraainem,Allego BV,50.848313,4.474353,Flemish Brabant,Public - Pay At Location,1
+161818,Burgemeester Jean Neyberghlaan,Greenflux,50.890088,4.310603,,Public - Pay At Location,2
+161817,Joseph De Heynlaan,Greenflux,50.892566,4.321232,,Public - Pay At Location,2
+161816,Jan Tiebackxstraat,Greenflux,50.886814,4.31827,,Public - Pay At Location,2
+161815,Gaston Biernauxstraat,Greenflux,50.87987,4.320743,,Public - Pay At Location,2
+161814,Jetse laan,Greenflux,50.869341,4.325947,,Public - Pay At Location,2
+161813,Hervormingslaan,Greenflux,50.87536,4.313371,,Public - Pay At Location,2
+161812,Van Overbekelaan,Greenflux,50.875283,4.309151,,Public - Pay At Location,2
+161811,Vandervekenstraat,Greenflux,50.876494,4.301433,,Public - Pay At Location,2
+161810,Koningin Paolaplein,Greenflux,50.875367,4.300393,,Public - Pay At Location,2
+161809,Marie Curiesquare,Greenflux,50.82179,4.284526,,Public - Pay At Location,2
+161808,P+R CERIA/COOVI,Bilinmiyor,50.8159757248508,4.288482120849153,,Public - Pay At Location,9
+161753,Jozef II-straat,Greenflux,50.845232,4.375385,Brussels,Public - Pay At Location,2
+161752,Sint-Gillis,Greenflux,50.825279,4.343912,,Public - Pay At Location,2
+161751,Bernard,Greenflux,50.829666,4.355092,,Public - Pay At Location,2
+161750,Defacqz,Greenflux,50.827861,4.359351,Brussels,Public - Pay At Location,2
+161741,CC Ukkel,Greenflux,50.801138,4.342412,,Public - Pay At Location,2
+161740,Charles Michiels,Greenflux,50.814591,4.404009,,Public - Pay At Location,2
+161739,Eneco @ ACB Delta Volvo,Eneco,50.81809946840181,4.405055102883807,Oudergem,Public,12
+161738,Hankar,Greenflux,50.821724,4.405767,,Public - Pay At Location,2
+161731,Total Cambre,Allego BV,50.80395567655535,4.372467959278538,,Public - Pay At Location,1
+161730,Van Beverlaan,Greenflux,50.78374513139414,4.379035312773681,,Public - Pay At Location,2
+161729,Picard,Greenflux,50.790483,4.375086,,Public - Pay At Location,2
+161728,Souverain,Greenflux,50.80149929067571,4.422681172682587,,Public - Pay At Location,2
+161689,Emile Steenostraat,Greenflux,50.818242,4.429622,,Public - Pay At Location,2
+161688,Waterleliënlaan,Greenflux,50.821161,4.42853,,Public - Pay At Location,2
+161687,Albert Huart,Greenflux,50.838735,4.466569,,Public - Pay At Location,2
+161686,Sportcity,Greenflux,50.83017584924767,4.458753537584698,,Public - Pay At Location,2
+161685,Square Leopold,Greenflux,50.836596,4.415654,,Public - Pay At Location,2
+161682,Terdelt,Greenflux,50.86797626190395,4.390561586143235,Schaerbeek - Schaarbeek,Public - Pay At Location,1
+161681,Atomium,EV-Point,50.892687566136914,4.343913660688145,Brussels,Public - Pay At Location,2
+161676,Cornet,Greenflux,50.837883,4.385536,,Public - Pay At Location,2
+161675,Merode,Greenflux,50.83894185445274,4.398950888289164,,Public - Pay At Location,2
+161674,Lidl Evere,Greenflux,50.856637,4.413934,,Public - Pay At Location,2
+161673,Kerkhof Evere,Greenflux,50.86313859524091,4.421112975720121,,Public - Pay At Location,2
+161667,Aikido Evere,Greenflux,50.871117326635215,4.407366285734042,Evere,Public - Pay At Location,2
+161666,Rue de Genève - Genèvestraat,Greenflux,50.86624741841612,4.403713746724179,Evere,Public - Pay At Location,2
+161663,Lidl,Lidl,49.8501893810498,5.436491526997315,Neufchateau,Public,2
+161661,Lidl,Lidl,49.68436686807925,5.795394698079804,Arlon,Public,2
+161659,Colignon,Greenflux,50.86739551275758,4.373625887187245,Schaerbeek - Schaarbeek,Public - Pay At Location,1
+161657,Paul Deschanellaan,Greenflux,50.85860504123369,4.378742962135107,,Public - Pay At Location,1
+161620,Openbare  gemeenteparking,Allego BV,51.29695876703465,3.0833536159083224,Wenduine ,Public,2
+161142,kazernevest,Allego BV,50.81704307834036,5.182000690742598,Sint-Truiden,Public - Membership Required,4
+157674,IONITY Le Roeulx / Thieu Nord,Ionity,50.491056,4.09575,Le Rœulx,Public,4
+157657,Gent Kastanjestraat 93,Allego BV,51.06071514571525,3.6988404932801586,Gent,Public - Membership Required,1
+157656,Charles de L'Épéeplein,Allego BV,51.0582471287496,3.6946347895551526,Ghent,Public - Membership Required,1
+157654,Gent Karel Waeriplein,Allego BV,51.058757931486014,3.704208571845129,Gent,Public - Membership Required,1
+157426,Onze-Lieve-Vrouwplein,Allego BV,50.86952477366668,5.482124711914935,Limburg,Public,1
+156467,Lidl Meise,Lidl,50.94822999908527,4.3152430895918314,Meise,Public,1
+155253,Interparking Monnaie/Munt,Allego BV,50.8502638893992,4.35352862433092,Ville de Bruxelles - Stad Brussel,Public - Membership Required,2
+155252,Interparking Brouckere,Allego BV,50.85118117906845,4.351153653406072,Ville de Bruxelles - Stad Brussel,Public - Membership Required,1
+155246,Europalaan,Allego BV,50.848632883665914,5.486137111775406,Hoeselt,Public,1
+155245,ZOL Campus Sint-Jan,EV-Point,50.95758070061987,5.51928460416093,Genk,Public,4
+155244,Parking Europalaan,Allego BV,50.96584393027712,5.512063439599842,Limburg,Public - Membership Required,2
+155243,Genk Shopping Center 1,(Unknown Operator),50.965791791507684,5.503676827131585,Limburg,Public,14
+154923,Waterstraat,Allego BV,50.8912421376651,5.525671262947412,Bilzen,Public,2
+154922,Vijverplein,Allego BV,50.93122831432396,5.570598177587726,Zutendaal,Public,2
+154921,Hotel Monte Christo,Allego BV,50.846032973031384,5.489757878654018,Hoeselt,Public,2
+154920,Okay Dats 24,Allego BV,50.84936856388106,5.481896198926734,Hoeselt,Public,2
+154919,Allego Vliermaal,Allego BV,50.83907857899712,5.429848972727314,Kortessem,Public,2
+150107,Place Bosch,(Unknown Operator),50.71352430634059,4.6119094479137175,Wavre,Public,2
+149981,Melis Stokelaan,Blue Corner (Belgium),51.23118215372489,4.385788873741376,Antwerp,Public,2
+149980,Kastanjedreef,Blue Corner (Belgium),51.23533548025071,4.387039888744198,Antwerp,Public,2
+149904,IONITY Bierset,Ionity,50.651866,5.473644,,Public,4
+149653,Best Western Hotel Horizon Ath Lessines,Tesla (Tesla-only charging),50.669343,3.869279,Ghislenghien,Public - Membership Required,2
+149649,B&B Villa Monique,Tesla (Tesla-only charging),51.113389,2.636088,Koksijde,Public - Notice Required,1
+149641,Best Western Plus Hotel & Aparthotel Casteau Resort,Tesla (Tesla-only charging),50.509299,4.002775,Casteau,Public - Membership Required,2
+149574,Parking Desguinlei,Blue Corner (Belgium),51.197617248778585,4.394372952525146,Antwerpen,Public - Membership Required,1
+149461,Duffel Parking Boomgaardstraat,Allego BV,51.09621713427779,4.508529121004699,Duffel,Public,1
+149458,Gemeentehuis Duffel,Allego BV,51.095016698997455,4.506156933562124,Duffel,Public,1
+149205,Remouchamps,Tesla (Tesla-only charging),50.483878,5.700335,Remouchamps,Public - Membership Required,10
+149186,Solar Park,(Business Owner at Location),50.897519,5.457141,Bilzen,Public,1
+148829,Vinoscoop,Blue Corner (Belgium),51.08706442444068,3.6724046735917,Mariakerke,Public,4
+148773,Parking Zwembad,Allego BV,50.91732649996598,3.2068351803524138,West Flanders,Public,2
+148732,Miksebaan Brasschaat,Blue Corner (Belgium),51.28986573686646,4.496340695743584,Brasschaat,"Private - For Staff, Visitors or Customers",2
+148731,Molenweg Brasschaat,Blue Corner (Belgium),51.2914528275179,4.445133440356585,Brasschaat,Public,1
+148730,Rustoordlei kerk Brasschaat,Blue Corner (Belgium),51.3016940168373,4.4710013839489875,Brasschaat,Public,1
+148729,Lage kaart 380 Brasschaat,Blue Corner (Belgium),51.30377744175229,4.485211196676914,Brasschaat,Public,2
+148543,Duffel Merodestraat,Allego BV,51.096710531793406,4.5032284457337255,Duffel,Public,1
+148388,Sint-Martens-Leerne Leernsesteenweg 303,Allego BV,51.01486050680958,3.586902198401617,Deinze,Public,1
+148155,Lidl Beauraing,Lidl,50.11263379707498,4.96377666183696,Beauraing,Public,1
+146327,Kapelsesteenweg 74 Brasschaat,Allego BV,51.273231261885,4.457641144651461,Brasschaat,Public,2
+146231,Mc Donalds Merksem Bredabaan,ThePluginCompany (Belgium),51.2660131793634,4.4619829341312425,Antwerpen,"Private - For Staff, Visitors or Customers",2
+146230,Kapelsesteenweg 104 Brasschaat,Blue Corner (Belgium),51.27627199126607,4.455537706728592,Brasschaat,Public,2
+146226,Parking Heilig-Hart kerk ,Blue Corner (Belgium),51.279790842918345,4.453354347401728,Brasschaat,Public,2
+145901,Borne ORES Dinant gare,ORES,50.26025824502105,4.90911501226833,Dinant,Public,2
+135296,Lidl Muizen Mechelen,Lidl,51.008871,4.509325,Mechelen,Public,2
+135210,Imber,EVBox,51.017361269304445,3.6713545760291026,Sint Denijs Westrem,Public,6
+135146,Lidl Scherpenheuvel,Lidl,50.97845646358991,4.958391321243312,Scherpenheuvel,Public,2
+135121,Taxi rusthalte,Allego BV,51.29034434599839,4.492106998874078,Brasschaat,"Private - For Staff, Visitors or Customers",2
+135119,AZ KLINA,Greenflux,51.297613779334625,4.4888950579281754,Brasschaat,Public,6
+134512,Snowball,EVBox,50.822665686684445,3.311119176727175,Harelbeke,Public,2
+134361, Diksmuidelaan 139 Berchem,Blue Corner (Belgium),51.197342391463934,4.442036336504543,Berchem,Public,2
+134360,Vredestraat 112 Berchem,Blue Corner (Belgium),51.196300608283536,4.425799112029608,Berchem,Public,2
+134359,Marialei 67 Berchem,Blue Corner (Belgium),51.201378880756835,4.422307175231026,Berchem,Public,2
+134358, Transvaalstraat 75 Berchem,Blue Corner (Belgium),51.20541488163434,4.4325107960924015,Berchem,Public,2
+134256,Districtshuis Berchem,Blue Corner (Belgium),51.1949616020556,4.41959851837839,Antwerpen Berchem,Public,2
+133757,Oudstrijdersplein Lint,Allego BV,51.126425496475,4.498309542946,lint,Public,2
+133499, SAN Mazuin Audi - Chaussée de Marche - Namur,(Business Owner at Location),50.4390296,4.91099643497128,Namur,Public,2
+133145,Castel de Pont-à-Lesse,Blue Corner (Belgium),50.2234292670009,4.91156116883894,Dinant,"Private - For Staff, Visitors or Customers",7
+132082,De Kerchove d'Exaerdestraat Buizungen ,Allego BV,50.7435572844994,4.25337248710798,Buizingen,Public,2
+131457,Kalmthout Willy Vandersteenplein 22,Allego BV,51.3647191456632,4.46453430191127,Kalmthout,Public,2
+131456,Kalmthout Statieplein 7,Allego BV,51.390778203164416,4.467043352148494,Kalmthout,Public,2
+131298,D'oude Pastorie ,(Unknown Operator),51.290038005142,4.49300481541536,Brasschaat ,"Private - For Staff, Visitors or Customers",2
+131215,Docks Brussels,(Unknown Operator),50.8798415022593,4.37305384259037,Brussels,Public,4
+131080,B&B la Suite,Tesla (Tesla-only charging),51.212069,3.237977,Brugge,Public - Membership Required,1
+131053,Congres Hotel Liege,Tesla (Tesla-only charging),50.6311265,5.5743027,Liege,Public - Membership Required,3
+130989,The Bakery @ Terhills,Tesla (Tesla-only charging),51.000753,5.707476,Maasmechelen,Public - Membership Required,1
+129957,"Golf de L’empereur, Relais & Country Club",Tesla (Tesla-only charging),50.633684,4.477216,Ways,Public - Membership Required,2
+129906,Castor,Tesla (Tesla-only charging),50.872008,3.342583,Beveren-Leie,Public - Membership Required,1
+129377,Restaurant Nenuphar,EVBox,51.031617988919066,3.6677558456391353,Afsnee,Public - Notice Required,1
+129137,Villa Oosthoek,Tesla (Tesla-only charging),51.352758,3.3233206,Knokke-Heist,Public - Membership Required,2
+128930,Restaurant Nenuphar,EVBox,51.0316337283944,3.66778262439675,Gent,"Private - For Staff, Visitors or Customers",2
+128088,President John F. Kennedylaan,Allego BV,51.1836561682252,3.8320739330743,Gent,"Private - For Staff, Visitors or Customers",2
+128067,Allego Charging Station,Allego BV,51.0972082661004,3.83770012448679,Lochristi,Public,2
+127603,Partago Rodeberg,(Business Owner at Location),51.0681728811477,3.66692406233415,Gent,"Private - For Staff, Visitors or Customers",1
+127052,  Sint Jan Baptistestraat 1 Gent,Allego BV,51.059184913866,3.70394217912622,gent,Public,2
+126279,Zeeschipstraat,EVBox,51.0911463919787,3.7239222539868706,Ghent,Public,2
+125646,Pillows Grand Hotel Place Rouppe,Tesla (Tesla-only charging),50.842436,4.346388,Brussel,Public - Membership Required,2
+125559,Edegem Supercharger,Tesla (Tesla-only charging),51.151101,4.43271,Edegem,Public - Membership Required,18
+125126,WEBA/DECATHLON,Blue Corner (Belgium),51.0733941893294,3.74005103584932,GENT,Public,2
+121559,Wavre Supercharger,Tesla (Tesla-only charging),50.708041,4.598293,Wavre,Public - Membership Required,32
+118735,Parking 't Goorhof,Allego BV,51.2921810680164,4.57901136758494,Sint-Job-in-'t-Goor ,Public,2
+118318,Trumpet House,Tesla (Tesla-only charging),50.9060212,4.7371906,Leuven,Public - Membership Required,1
+117820,Kattevennen,Allego BV,50.95707026602943,5.532747189712154,Genk,"Private - For Staff, Visitors or Customers",2
+117626,Bar Bernard - Brouwerij St Bernardus,EVBox,50.8419011561818,2.637986821808,Watou,Public,1
+115014,Poel,Blue Corner (Belgium),51.0547513,3.71771960000001,GENT,Public,2
+115013,Kruisboogstraat,Allego BV,51.0521678,3.70715399999995,GENT,Public,2
+115012,Jan Verspeyenstraat,Allego BV,51.0588493,3.71141869999997,GENT,Public,2
+115011,Hundelgemsesteenweg,Allego BV,51.0342323,3.73986880000007,GENT,Public,2
+115010,Ham,Allego BV,51.0574168,3.73316009999996,GENT,Public,2
+115009,Emile Moysonlaan,Allego BV,51.0477215,3.74764470000002,GENT,Public,2
+115008,De Pintelaan,Allego BV,51.0299948,3.72923809999998,GENT,Public,2
+115007,Wijmakker,(Unknown Operator),51.0530379,3.75556449999999,GENT,Public,2
+115006,Visserij,Allego BV,51.0485791,3.73804680000001,GENT,Public,2
+115005,Vincent Evrardlaan ,Blue Corner (Belgium),51.04538,3.75374439999996,GENT,Public,2
+115004,Tuinwijklaan,Allego BV,51.0318077,3.70719669999994,Gent,Public,2
+115002,Rerum-Novarumplein,Allego BV,51.0222655,3.71890429999996,Gent,Public,2
+115001,Louis de Smetstraat,Allego BV,51.0409882,3.74443399999996,Gent,Public,2
+115000,Koning Albertbrug,Allego BV,51.042868,3.71101479999993,Gent,Public,2
+114763,Battmobiel Wolterslaan,Allego BV,51.049494,3.74551369999995,GENT,Public,2
+114762,Battmobiel Visserij,Allego BV,51.0430902,3.73996109999996,GENT,Public,2
+114761,Battmobiel Visitatiestraat,Allego BV,51.06807299999999,3.749459999999999,GENT,Public,2
+114760,Battmobiel Sint-Pietersaalststraat,Allego BV,51.0295079,3.7174493,GENT,Public,2
+114759,Battmobiel Prooststraat,Allego BV,51.0545952,3.73641859999998,GENT,Public,2
+114758,Battmobiel Prinsenhof,Allego BV,51.0590522,3.71604720000005,GENT,Public,2
+114757,Battmobiel Ottergemsesteenweg,Allego BV,51.0272988,3.73303920000001,GENT,Public,2
+114756,Battmobiel Muinklaan,Blue Corner (Belgium),51.0431454,3.73170430000005,GENT,Public,2
+114755,Battmobiel Cambio Minnemeers,Allego BV,51.0598699,3.72860300000002,GENT,Public,2
+114754,Battmobiel Meulesteedsesteenweg,Allego BV,51.0852643,3.72699349999994,GENT,Public,2
+114753,Battmobiel Leeuwstraat,Allego BV,51.038962219244326,3.7331308805207755,GENT,Public,2
+114752,Battmobiel Lange Violettestraat ,Allego BV,51.0451546,3.73570029999996,GENT,Public,2
+114751,Battmobiel Krommewal,Allego BV,51.059193,3.72695479999993,GENT,Public,2
+114750,Battmobiel Kollebloemstraat,Allego BV,51.0775507209716,3.68109981478881,GENT,Public,2
+114749,Battmobiel Kerkstraat,Allego BV,51.0439761,3.74945120000007,GENT,Public,2
+114748,Battmobiel Jozef Plateaustraat,Allego BV,51.046143,3.72485900000004,GENT,Public,2
+114747,Battmobiel Frère-Orbanlaan,Allego BV,51.0438417,3.7341907,GENT,Public,2
+114746,Battmobiel Hoogstraat ,Allego BV,51.05452717065572,3.715359972994861,GENT,Public,2
+114745,Battmobiel Frederik Burvenichstraat,Allego BV,51.0398084,3.75133270000003,GENT,Public,2
+114744,Battmobiel Ferdinand Lousbergskaai,Allego BV,51.047665,3.73943850000001,GENT,Public,2
+114743,Battmobiel Duifhuisstraat,Allego BV,51.0405343,3.70146390000002,GENT,Public,2
+114742,Doornzelestraat 86,Allego BV,51.0642243,3.73332640000001,GENT,Public,2
+114741,Battmobiel Dendermondsesteenweg,Allego BV,50.9277763,4.18115809999995,GENT,Public,2
+114740,Battmobiel Coupure Rechts,Allego BV,51.0471007,3.71903359999999,GENT,"Private - For Staff, Visitors or Customers",2
+114739,Battmobiel Brugsesteenweg ,Allego BV,51.0667558,3.68753229999993,GENT,"Private - For Staff, Visitors or Customers",2
+114738,Battmobiel Blauwstraat ,(Unknown Operator),51.0858787,3.70612989999995,GENT,"Private - For Staff, Visitors or Customers",2
+114737,Battmobiel Bij Sint-Jozef,Allego BV,51.0774563,3.7293191,GENT,Public,2
+114736,Battmobiel Partago Poperingestraat ,Allego BV,51.074091,3.70900219999999,GENT,Public,2
+114735,Kleemburg,Allego BV,51.0416907,3.74818329999994,GENT,"Private - For Staff, Visitors or Customers",2
+114597,Hannekestraat,Allego BV,51.2390095044931,5.11199630213015,Dessel,Public - Membership Required,2
+114539,Battmobiel Partago Kastanjestraat,Allego BV,51.06089034867321,3.6984305576773977,GENT,Public,2
+114538,Karel Lodewijk Ledeganckstraat,Allego BV,51.03679229999999,3.7249130999999807,GENT,Public,2
+114537,Johannes Schrantstraat,Allego BV,51.05413937886465,3.7016527460358475,GENT,Public,2
+114536,Gentbruggeplein,Allego BV,51.0448482,3.7592440999999326,GENT,Public,2
+114535,Fratersplein,Allego BV,51.0618568,3.7245361999999886,GENT,Public,2
+114534,François Bernardstraat ,Allego BV,51.0416782,3.73050360000002,GENT,Public,2
+114533,Congreslaan,Allego BV,51.0324,3.7153670999999804,GENT,Public,2
+114532,Brugsesteenweg P+R,Allego BV,51.0765822,3.6783894000000146,GENT,Public,2
+114531,Partago Kasteellaan,Allego BV,51.0500985,3.74005529999999,Gent,Public,2
+114530,Battmobiel Partago Anjelierstraat,Allego BV,51.072564,3.712547099999938,Gent,Public - Membership Required,2
+114529,Achterdries,Allego BV,51.0426661,3.767298100000062,Gent,Public,2
+114471,Partago Heernisplein,Allego BV,51.0521499215375,3.74837229632566,Ghent,Public,2
+114470,Partago Biekorfstraat,Allego BV,51.057118613795,3.74267413169991,Ghent,Public,2
+114468,Dendermondsesteenweg 135,Allego BV,51.0542978042039,3.74300877829591,Ghent,Public,2
+114249,BattMobiel Gentstraat,Allego BV,51.0971752228057,3.7622450576721,Oostakker,Public - Membership Required,1
+114006,Naxhelet,Tesla (Tesla-only charging),50.539489,5.193979,Wanze,Public - Membership Required,2
+113882,Manufacture de Malmedy,Tesla (Tesla-only charging),50.412583,6.057064,Malmedy,Public - Membership Required,1
+113767,The Whiksy Lodge,Tesla (Tesla-only charging),49.9970132,4.6554111,Viroinval,Public - Membership Required,1
+113656,GeoSolutions,(Unknown Operator),51.1474135119448,4.43618638518069,Edegem,"Private - For Staff, Visitors or Customers",1
+113412,Lidl Boncelles,Lidl,50.5637471639391,5.5485222488507,Liège,Public,2
+113371, Ingang van natuurreservaat Bourgoyen,Allego BV,51.0672764131217,3.68195974827119,Gent,Public,2
+112289,Stora Enso Langerbrugge NV,Shell Recharge Solutions (BE),51.1089321497595,3.7360137722352,Gent,Public,10
+109255,Memlinc Palace Hotel,Tesla (Tesla-only charging),51.354136,3.299234,,Public - Membership Required,2
+109221,Bierkasteel,Tesla (Tesla-only charging),50.9271506,3.2178679,Emelgem,Public - Membership Required,3
+109123,Grill-Restaurant Het Tomme Goed,Tesla (Tesla-only charging),51.0122415,3.3435441,Tielt,Public - Membership Required,2
+109114,"Hotel*** - Brasserie - Restaurant ""le Fournil""",Tesla (Tesla-only charging),50.007296,5.159746,Redu-Libin,Public - Membership Required,1
+108900,Hotel Kronacker,Tesla (Tesla-only charging),50.8074772,4.9336839,Tienen,Public - Membership Required,1
+108859,Brugge Supercharger,Tesla (Tesla-only charging),51.16987,3.19676,Brugge,Public - Membership Required,8
+108774,B&B Koto,Tesla (Tesla-only charging),51.206252,4.400062,Antwerpen,Public - Membership Required,1
+108619,Oostende Diksmuidestraat 2,Allego BV,51.2157057961336,2.87753866812136,Oostende,"Private - For Staff, Visitors or Customers",2
+108589,Carplug,EVBox,50.8919334,4.2625589,Asse,Public,1
+108342,Corner of Vengerstraat and Bierbeekstraat in free public car park,Allego BV,50.8600364861854,4.76249095352944,Bierbeek,Public,1
+107987,Hamont Market,Allego BV,51.2511975314127,5.54505224008517,HAMONT-ACHEL,Public,2
+107385,Parking Jabbeke,Allego BV,51.18834689212459,3.105068796061687,Jabbeke,Public,1
+107369,Parking Jabbeke,Allego BV,51.1845262986619,3.10815198058924,Jabbeke,Public,1
+107196,Canadalaan 152 Antwerpen,Blue Corner (Belgium),51.24990804045626,4.421972761953953,Antwerpen,Public,2
+107173,Parking Decathlon Antwerpen,Bilinmiyor,51.2471729346786,4.4186004645569,Antwerpen,Public,2
+107146,Partago HQ,(Unknown Operator),51.05653354102563,3.7017229829783673,Gent,Public,2
+106898,Parking kerk Bonheiden,Allego BV,51.023139551493095,4.5482891914364245,Bonheiden,Public - Membership Required,2
+106897,Parking Douaneplein,Allego BV,51.02738249999999,4.491297400000008,Mechelen,Public - Membership Required,2
+105562,The Huggy's Bar - Awans,Tesla (Tesla-only charging),50.679804,5.47072,Awans,Public - Membership Required,1
+104979,Chateau Beausaint Luxe B&B,Tesla (Tesla-only charging),50.170048,5.550099,Beausaint,Public - Membership Required,1
+104467,Grand Hotel Belle Vue,Tesla (Tesla-only charging),51.273332,3.033043,De Haan,Public - Membership Required,1
+104436,Thon Hotel Brussels Airport,Tesla (Tesla-only charging),50.884647,4.443637,Diegem,Public - Membership Required,2
+104424,Witte Paard Hotels en Events,Tesla (Tesla-only charging),51.315424,3.130263,Blankenberge,Public - Membership Required,2
+104400,Stanhope Hotel By Thon,Tesla (Tesla-only charging),50.839762,4.367453,Brussels,Public - Membership Required,1
+104392,Thon Residence Parnasse,Tesla (Tesla-only charging),50.837279,4.371562,Brussels,Public - Membership Required,1
+104379,Thon Residence Florence,Tesla (Tesla-only charging),50.830013,4.360693,Brussels,Public - Membership Required,1
+104349,Danny Moors BVBA,(Unknown Operator),50.86788872,5.53077248,Bilzen,Public - Pay At Location,1
+103887,Parking kasteeltje Hof Mertens,Blue Corner (Belgium),51.27702848957283,4.4192591913670185,Antwerpen Ekeren,Public - Membership Required,2
+103716,Salons Denotter,Tesla (Tesla-only charging),51.136122,3.15927,Zedelgem,Public - Membership Required,2
+103697,B&B Gezellehof,Tesla (Tesla-only charging),51.018599,3.38021,Tielt-Kanegem,Public - Membership Required,1
+103683,Domaine du Vieux Moulin,Tesla (Tesla-only charging),50.141362,5.16268,Eprave,Public - Membership Required,1
+103519,Ferienhof A&b,Tesla (Tesla-only charging),50.396799,6.290556,Büllingen,Public - Membership Required,1
+102148,Wesertalsperre,(Business Owner at Location),50.620862029818085,6.091514256046366,Eupen,Public,2
+102035,Culinair,Tesla (Tesla-only charging),50.793104,3.205599,Lauwe,Public - Membership Required,1
+101717,Dierick Dental care,Shell Recharge Solutions (BE),51.2879481630704,4.44738218220903,Kapellen,"Private - For Staff, Visitors or Customers",2
+101581,Gemeentelijk sportcentrum Kapellen,Allego BV,51.31729418820164,4.432673559350974,Kapellen,Public,2
+101564,Banden Donckers,EVBox,51.26655126150833,4.463630318641663,Schoten,Public,2
+101522,Médiacité,Tesla (Tesla-only charging),50.632806,5.579074,Liège,Public - Membership Required,4
+101375,Paardenmarkt Antwerpen,Blue Corner (Belgium),51.2248810733181,4.41220992086676,Antwerpen,Public,1
+101374,Parking Hemelakkers,Allego BV,51.28909699268392,4.49171410980432,Brasschaat,Public,2
+101336,Parking Donksesteenweg,Allego BV,51.2878760715517,4.48585510253906,Brasschaat,Public,2
+101324,Gasketelplein Schoten,Allego BV,51.2569583773755,4.50513683850909,Schoten,Public,2
+101323,Markt Schoten,Allego BV,51.2514207570864,4.498210631348002,Schoten,Public,2
+100900,Brasserie Vinois,Tesla (Tesla-only charging),51.00937,3.604266,Deurle,Public - Membership Required,1
+100797,La Table d'Auguste,Tesla (Tesla-only charging),50.400305,3.78274,Dour,Public - Membership Required,1
+100781,Bed & Breakfast and Events Sterckxhof,Tesla (Tesla-only charging),50.939021,4.306565,Meise,Public - Membership Required,1
+100728,Parking Vinneweg,Allego BV,50.992199039258,4.70830020451763,Tremelo,Public,2
+100527,Luminus charge point,EDF,51.2073606348678,4.55048024654388,Ranst,(Unknown),2
+100510,Teichbedarf Distri Pond,Entega,51.0995426456417,5.07116021321417,Laakdal,Public - Membership Required,2
+100390,The Huggy's Bar - Nandrin,Tesla (Tesla-only charging),50.520636,5.416578,Nandrin,Public - Membership Required,1
+100270,Luminus charge point,EDF,51.2102844621274,4.54764783382416,Ranst,(Unknown),6
+100004,Hotel des Bains & Wellness,Tesla (Tesla-only charging),50.446523,6.123799,Robertville,Public - Membership Required,1
+99967,Thon Hotel Bristol Stephanie,Tesla (Tesla-only charging),50.831526,4.359258,Brussels,Public - Membership Required,2
+99947,Thon Hotel Eu,Tesla (Tesla-only charging),50.843974,4.375323,Brussels,Public - Membership Required,3
+99852,Les Tanneurs de Namur,Tesla (Tesla-only charging),50.463896,4.871049,Namur,Public - Notice Required,2
+99828,Hof Van Reyen Zaal Brouwerij,Tesla (Tesla-only charging),51.169867,4.483727,Boechout,Public - Membership Required,1
+99701,"Antwerp Expo, BP Building",Blue Corner (Belgium),51.1918821,4.39730059999999,Antwerpen,Public - Pay At Location,2
+99700,Kasteeldreef,Allego BV,51.21663874015985,4.2559192003961925,Beveren,Public - Membership Required,2
+99668,Villa Saporis,Tesla (Tesla-only charging),50.934979,5.321142,Hasselt,Public - Membership Required,1
+98112,Chambres d'Hôtes du Martin Pêcheur,Tesla (Tesla-only charging),50.612695,4.54048,Court- Saint- Etienne,Public - Membership Required,1
+97932,Het Verschil,Tesla (Tesla-only charging),50.964029,3.977389,Lede,Public - Membership Required,2
+97866,Kirisavan Bed&breakfast,Tesla (Tesla-only charging),50.804335,5.342416,384,Public - Membership Required,1
+97753,Le Châtelain Brussels Hotel,Tesla (Tesla-only charging),50.826052,4.363857,Brussels,Public - Membership Required,1
+97731,Parking Rive Gauche Charleroi,Tesla (Tesla-only charging),50.40814,4.441161,Charleroi,Public - Membership Required,1
+97673,The Lost Mills B&B,Tesla (Tesla-only charging),51.019845,4.123144,Dendermonde,Public - Membership Required,1
+97433,Antwerp Supercharger,Tesla (Tesla-only charging),51.268129,4.40238,Antwerp,Public - Membership Required,10
+96451,Colruyt Ekeren,(Unknown Operator),51.28370835371697,4.414857353216801,Antwerpen Ekeren,Public,2
+96441,Lidl Schoten,Lidl,51.26114816079701,4.50716433194656,Schoten,Public,2
+96439,Lidl Kapellen,Lidl,51.30138400902401,4.437260031946626,Kapellen,Public,2
+96420,Lidl Machelen,Lidl,50.8971198,4.430529799999931,Machelen,Public,1
+95535,M Hotel,Tesla (Tesla-only charging),50.964693,5.506416,Genk,Public - Membership Required,2
+95241,Golfclub Drie Eycken,Tesla (Tesla-only charging),51.155888,4.417097,Edegem,Public - Membership Required,2
+95228,Cleydael Golf & Country Club,Tesla (Tesla-only charging),51.139081,4.365273,Aartselaar,Public - Membership Required,2
+95221,Hof Van Reyen Zaal Orangerie,Tesla (Tesla-only charging),51.170277,4.484434,Boechout,Public - Membership Required,1
+94981,Lokeren Supercharger,Tesla (Tesla-only charging),51.094988,4.011808,Lokeren,Public - Membership Required,10
+94678,B&B le Moulin de Resteigne,Tesla (Tesla-only charging),50.089078,5.169717,Resteigne,Public - Membership Required,1
+94644,Hof Ter Doest,Tesla (Tesla-only charging),51.282465,3.201841,Brugge,Public - Membership Required,1
+94639,Regus Aalst,Tesla (Tesla-only charging),50.916585,4.039273,Aalst,Public - Membership Required,2
+94597, Total Minderhout  ,Allego BV,51.4195629396893,4.70286328166922,Hoogstraten,Public,1
+94021,B&B Bariseele - Hotel Fevery,Tesla (Tesla-only charging),51.21529,3.227168,Brugge,"Private - For Staff, Visitors or Customers",1
+93993,Lebeau Hotel & Lounge Zoute,Tesla (Tesla-only charging),51.35070034,3.3170034,Knokke,"Private - For Staff, Visitors or Customers",1
+93987,Hotel Manoir Ogygia,Tesla (Tesla-only charging),50.85939,2.729695,Poperinge,"Private - For Staff, Visitors or Customers",1
+93973,Technopolis,Tesla (Tesla-only charging),51.001998,4.469994,Mechelen,Public - Membership Required,2
+93967,Brasserie Taste,Tesla (Tesla-only charging),50.922909,4.451237,Vilvoorde,"Private - For Staff, Visitors or Customers",1
+93925,Total Nazareth E17 rich. Kortrijk,TotalEnergies (FR),50.9739006354202,3.61621722579002,Nazareth,Public - Pay At Location,2
+93896, Fast E - E17 Total Nazareth-Zuid to Gent Nazareth,TotalEnergies (FR),50.9708875076667,3.61046656966209,Nazareth,Public - Pay At Location,2
+93709,Nieuwgoed Seminariecentrum,(Business Owner at Location),51.0075783720757,3.69355411455683,Zwijnaarde,Public - Notice Required,2
+93688,Aalst Supercharger,Tesla (Tesla-only charging),50.921483,4.032789,Aalst,Public - Membership Required,8
+93241,Hotel Manos 1er,Tesla (Tesla-only charging),50.828299,4.355694,Brussels,Public - Notice Required,1
+93232,Hotel Be Manos,Tesla (Tesla-only charging),50.840851,4.338622,Bruxelles,Public - Notice Required,1
+93051,Beveren station,Allego BV,51.2090856,4.2611284,Beveren,Public - Membership Required,2
+92998,Hotel Harmony,Tesla (Tesla-only charging),51.057159,3.722805,,"Private - For Staff, Visitors or Customers",1
+92988,B&B Scheldekant,Tesla (Tesla-only charging),50.885962,3.645266,,"Private - For Staff, Visitors or Customers",1
+92957,Decathlon Wavre,Allego BV,50.69011807163969,4.618137921382072,Wavre,Public,2
+92927,Jodoigne Château Pastur,ORES,50.7237365612753,4.86669216861721,Jodoigne,Public,2
+92520,Hôtel la Villa des Fleurs,Tesla (Tesla-only charging),50.492025,5.862147,Spa,"Private - For Staff, Visitors or Customers",1
+92466,Crowne Plaza Brugge,Tesla (Tesla-only charging),51.208938,3.227367,Brugge,"Private - For Staff, Visitors or Customers",1
+92460,Redloft Business Meetingroom,Tesla (Tesla-only charging),51.066451,3.727975,Gent,"Private - For Staff, Visitors or Customers",1
+91687,Station Puurs,Allego BV,51.0772052399432,4.28220184166414,Puurs,Public,2
+91587,Lidl Sambreville,Lidl,50.4513376,4.635496900000021,Sambreville,Public - Membership Required,1
+91556,Pronails Brasschaat,(Business Owner at Location),51.32819666017848,4.531720405696085,Brasschaat,"Private - For Staff, Visitors or Customers",2
+91555,Lidl Brecht,(Business Owner at Location),51.30582895273719,4.5748881525665865,,"Private - For Staff, Visitors or Customers",2
+91256,Azur en Ardenne,Tesla (Tesla-only charging),50.357617,5.496375,Durbuy,Public - Membership Required,2
+91009,Eurotel,Tesla (Tesla-only charging),50.895989,5.671743,Lanaken,Public - Membership Required,2
+90982,Atlantis Hotel Genk,Tesla (Tesla-only charging),50.945144,5.516786,Genk,"Private - For Staff, Visitors or Customers",2
+90954,B&B Brakelhoen,Tesla (Tesla-only charging),50.793571,3.768816,Brakel,"Private - For Staff, Visitors or Customers",1
+90941,Ecu Hotel,Tesla (Tesla-only charging),50.965894,5.497765,Genk,Public - Membership Required,2
+90725,Hostellerie la Claire Fontaine,Tesla (Tesla-only charging),50.182231,5.558847,La Roche-en-Ardenne,"Private - For Staff, Visitors or Customers",1
+90423,De Wereld Is Klein,Tesla (Tesla-only charging),51.189694,3.151283,Varsenare,Public - Membership Required,2
+90397,Heusden-Zolder Supercharger,Tesla (Tesla-only charging),50.993345,5.242127,Heusden-Zolder,Public - Membership Required,12
+90374,Verviers Supercharger,Tesla (Tesla-only charging),50.592323,5.848511,Verviers,Public - Membership Required,8
+90204,Kortrijk Supercharger,Tesla (Tesla-only charging),50.805634,3.27446,Kortrijk,Public - Membership Required,12
+90174,Congres Hotel Mons,Tesla (Tesla-only charging),50.45628,3.941493,Mons,Public - Membership Required,2
+90134,Smoov Allegro Laadpaal,Allego BV,51.226377,2.917561,Oostende,Public - Membership Required,2
+88883,Hospital Chwapi Notre Dame,Bilinmiyor,50.6133036527114,3.38567137923736,Tournai,Public,1
+88882,Allego P+ R Parking afrit E17 - Kortrijk,Allego BV,50.8173071986943,3.29952013201605,Kortrijk,Public,3
+88881,P&R Gentbrugge-Oost,Allego BV,51.0327923333624,3.758249860466,Gent,Public,1
+88865,Boutique Hotel Huys Van Steyns,Tesla (Tesla-only charging),50.784842,5.470824,Tongeren,"Private - For Staff, Visitors or Customers",1
+88343,Park Inn By Radisson Brussels Airport,Tesla (Tesla-only charging),50.884094,4.448203,Diegem,Public - Membership Required,2
+88284,Wit Kasteel,Tesla (Tesla-only charging),50.812703,3.27443,Kortijk,"Private - For Staff, Visitors or Customers",2
+88187,Brasserie RN,Tesla (Tesla-only charging),50.730045,4.398712,Waterloo,"Private - For Staff, Visitors or Customers",2
+88072,Auberge de la Ferme,Tesla (Tesla-only charging),49.840945,5.004099,Rochehaut,"Private - For Staff, Visitors or Customers",1
+87968,Partners House,(Business Owner at Location),50.314854747184,4.47922258731079,Tarcienne,"Private - For Staff, Visitors or Customers",4
+87179,CYBO interactive SPRL,Shell Recharge Solutions (BE),50.5340649,5.7284565,Louveigné,Public - Membership Required,1
+86124,Arlon Supercharger,Tesla (Tesla-only charging),49.648038,5.818803,Arlon,Public - Membership Required,16
+85542,De Watermolen,Tesla (Tesla-only charging),51.228766,4.978059,Kasterlee,"Private - For Staff, Visitors or Customers",2
+85466,B&B Villa Monique,Tesla (Tesla-only charging),51.113389,2.636088,Koksijde,Public - Notice Required,1
+84973,Parking Manhattan,(Business Owner at Location),50.8566868,4.3569126,Brussel,Public,3
+84632,Parking Lidl,Lidl,51.0938504675026,4.14718486903383,Hamme,Public,2
+84285,Hotel the Pand Bruges,Tesla (Tesla-only charging),51.206559,3.228096,Bruges,"Private - For Staff, Visitors or Customers",1
+84283,Hotel Husa President Park,Tesla (Tesla-only charging),50.8648,4.358995,Brussels,Public - Membership Required,1
+84271,Hotel Blanckthys Voeren,Tesla (Tesla-only charging),50.75886,5.763014,s-Gravenvoeren,"Private - For Staff, Visitors or Customers",2
+84237,l'Air du Temps Restaurant,Tesla (Tesla-only charging),50.592905,4.83409,Liernu,Public - Notice Required,2
+84090,Best Western Plus Hotel Alize Mouscron,Tesla (Tesla-only charging),50.743155,3.21526,Mouscron,"Private - For Staff, Visitors or Customers",2
+84074,Best Western Ambassador Hotel Menen,Tesla (Tesla-only charging),50.801815,3.12192,Menen,"Private - For Staff, Visitors or Customers",1
+84034,Hotel-Restaurant Mardaga,Tesla (Tesla-only charging),51.005927,5.601757,As,"Private - For Staff, Visitors or Customers",2
+82312,Avenue Boutique Hotel,Tesla (Tesla-only charging),51.315958,3.133723,Blankenberge,"Private - For Staff, Visitors or Customers",2
+82297,De Warande,Tesla (Tesla-only charging),50.844343,4.366451,Brussel,"Private - For Staff, Visitors or Customers",2
+82165,Manoir de Lébioles,Tesla (Tesla-only charging),50.465112,5.831712,Spa,"Private - For Staff, Visitors or Customers",2
+82140,Van der Valk Hotel Charleroi Airport,Tesla (Tesla-only charging),50.465437,4.41777,Gosselies,Public - Membership Required,4
+82010,Van der Valk Hotel Beveren,Tesla (Tesla-only charging),51.198642,4.225329,Beveren,Public - Membership Required,2
+81370,Hotel 'T Sandt,Tesla (Tesla-only charging),51.219434,4.396362,Antwerpen,"Private - For Staff, Visitors or Customers",2
+81331,Hotel Donny,Tesla (Tesla-only charging),51.097173,2.5843,De Panne,"Private - For Staff, Visitors or Customers",2
+79698,Voka - Kamer van Koophandel Vlaams-Brabant,(Business Owner at Location),50.9145816867055,4.39966685581977,Vilvoorde,"Private - For Staff, Visitors or Customers",2
+79328,P & R Sint Michiels (Brugge),Allego BV,51.194288,3.198188200000004,Brugge,Public - Membership Required,3
+77489,Electro Zwijsen nv,EVBox,51.0877382959159,4.47575390338898,Duffel,Public - Membership Required,6
+77477,Electro Zwijsen nv,EVBox,51.0877707,4.4752063,Duffel,Public - Membership Required,6
+77138,Delhaize Sint-Truiden,(Unknown Operator),50.8107801296559,5.19326477657399,Sint-Truiden,"Private - For Staff, Visitors or Customers",1
+77078,SGS,Shell Recharge Solutions (BE),51.2569982734657,4.41971348465573,Antwerpen,Public - Membership Required,2
+77060,Nissan dealer Lomel,(Unknown Operator),51.218306709161986,5.271778929885831,Lommel,Public,1
+75740,Elektrische Laadpaal Sleeplife Gent-Oostakker,EVBox,51.0832531,3.79326390000006,Oostakker,"Private - For Staff, Visitors or Customers",2
+75427,"Hotel Amigo, A Rocco Forte Hotel",Tesla (Tesla-only charging),50.846187,4.35123,Brussel,"Private - For Staff, Visitors or Customers",2
+75425,Made in Louise,Tesla (Tesla-only charging),50.829185,4.357948,Brussel,Public - Notice Required,1
+75415,Sandton Grand Hotel Reylof,Tesla (Tesla-only charging),51.054624,3.715143,Ghent,"Private - For Staff, Visitors or Customers",2
+75394,Hotel Ter Brughe,Tesla (Tesla-only charging),51.213402,3.225611,Brugge,Public - Notice Required,1
+75378,"Radisson Blu Astrid Hotel, Antwerp",Tesla (Tesla-only charging),51.21934,4.421742,Antwerp,"Private - For Staff, Visitors or Customers",4
+75351,Crowne Plaza de Liège,Tesla (Tesla-only charging),50.644982,5.567703,Liège,Public - Membership Required,2
+75347,Machelen Supercharger,Tesla (Tesla-only charging),50.88771,4.453051,Machelen,Public - Membership Required,8
+75303,Château du Lac Martin's,Tesla (Tesla-only charging),50.728986,4.513693,Genval,"Private - For Staff, Visitors or Customers",2
+75302,Hotel / Restaurant l'Ancien Hopital,Tesla (Tesla-only charging),50.026987,5.373526,Saint-Hubert,"Private - For Staff, Visitors or Customers",2
+75247,Small Luxury Hotel de Witte Lelie,Tesla (Tesla-only charging),51.221704,4.406746,Antwerpen,"Private - For Staff, Visitors or Customers",1
+75181,Hof Ter Kwaremont,Tesla (Tesla-only charging),50.776677,3.523109,Kluisbergen,"Private - For Staff, Visitors or Customers",1
+75174,Airspace Indoor Skydiving,Tesla (Tesla-only charging),50.472612,4.474247,Gosselies,Public - Membership Required,2
+75051,Quartier Latin,Tesla (Tesla-only charging),50.227369,5.346132,Marche,"Private - For Staff, Visitors or Customers",2
+74961,Hotel Europe,Tesla (Tesla-only charging),51.234142,2.917622,Oostende,"Private - For Staff, Visitors or Customers",2
+74813,Royal Antwerp Hockey Club,EVBox,51.28722689664756,4.5718652343712,Brecht,Public,3
+74378,Hotel Ter Elst,Tesla (Tesla-only charging),51.150481,4.432806,Edegem,"Private - For Staff, Visitors or Customers",2
+74372,Radisson Blu Palace Hotel Spa,Tesla (Tesla-only charging),50.492856,5.863368,Spa,Public - Membership Required,2
+74315,Woumenweg,(Unknown Operator),51.0136704,2.86762180000005,Diksmuide,"Private - For Staff, Visitors or Customers",1
+72657,EVA Antwerpen Rijnkaai 26 ( Hangar 26-27 entrance ),Blue Corner (Belgium),51.2290603715342,4.40150777829591,Antwerpen,Public - Membership Required,3
+72656,Parking Rijnkaai (entree tegenover Amsterdamstraat),Blue Corner (Belgium),51.2312066965539,4.40269640793462,Antwerpen,Public,2
+72408,KBC-verzekeringskantoor,(Private Residence/Individual),51.1278757908554,3.0281925201416,Eernegem,Privately Owned - Notice Required,1
+72102,Interparking Inno car park,(Unknown Operator),51.216738,4.41184120000003,Antwerpen,Public - Pay At Location,1
+72101,Interparking car park Lombardia,(Unknown Operator),51.217784161781,4.40207437315518,Antwerpen,Public - Pay At Location,1
+72100,Interparking car park Oudaan,(Unknown Operator),51.2159605401757,4.40354351230315,Antwerpen,Public - Pay At Location,1
+72099,Interparking Passage 44 car park,(Unknown Operator),50.852616,4.361769699999968,Stadt Brüssel,Public - Pay At Location,1
+72098,Interparking Porte de Hal car park,(Unknown Operator),50.8338094,4.349766400000021,Stadt Brüssel,Public - Pay At Location,1
+72097,Interparking Saint-Georges car park,(Unknown Operator),50.64608276165991,5.581048646696463,Lüttich,Public - Pay At Location,1
+72096,Interparking Stadsschouwburg car park,(Unknown Operator),51.2154332951387,4.40964798021775,Antwerpen,Public - Pay At Location,1
+72095,Stockel Square  car park,(Unknown Operator),50.840865101353565,4.464605082942179,Brüssel-Hauptstadt,Public - Pay At Location,1
+72094,Interparking Toison d'Or car park,(Unknown Operator),50.8373388,4.3596952999999985,Brüssel,Public - Pay At Location,1
+70983,Oplaadpunt Spoorweglaan,Power Station (BE),51.0921083954233,3.44915986061096,Aalter,Public - Pay At Location,1
+70616,UGent Campus De Sterre,Blue Corner (Belgium),51.0228357226811,3.7106819450855255,Gent,Public - Membership Required,1
+70486,Nissan DEMEYERE N.V.,Blue Corner (Belgium),51.33429837513177,3.249675119049007,Knokke-Heist,Public - Membership Required,2
+68697,WaasSolar NV,Shell Recharge Solutions (BE),51.114294763795,4.11244651957396,Waasmunster,Public,2
+68417,Nivelles-Sud Supercharger,Tesla (Tesla-only charging),50.58843977159063,4.307906504926478,Nivelles,Public - Membership Required,12
+67893,Bosruiterlei 3,EVBox,51.34413,4.47953,Kapellen,Bilinmiyor,1
+67891,'s-Gravenwezelsteenweg - Wijnegemsteenweg,EVBox,51.23996,4.53763,Wijnegem,Bilinmiyor,1
+67890,Heilig Hartstraat,ThePluginCompany (Belgium),51.19319,4.421542,Antwerpen,Bilinmiyor,1
+67887,Bellestraat,EVBox,51.17413,4.17175,Sint-Niklaas,Bilinmiyor,1
+67883,Mechelsesteenweg,ThePluginCompany (Belgium),51.035428,4.114568,Dendermonde,Public,2
+67882,Natuurhulpcentrum,Ecotap,51.03399,5.561855,Opglabbeek,Public - Membership Required,1
+67881,Kleinbeeklei 34,EVBox,51.02192,4.60822,Bonheiden,Bilinmiyor,1
+67875,Parking Diestsestraat,ThePluginCompany (Belgium),50.881937,4.707522,Leuven,Public - Membership Required,2
+67874,Beysstraat,EVBox,50.86728,4.08504,Liedekerke,Bilinmiyor,1
+67873,McDonald's - Dansaert Park,ThePluginCompany (Belgium),50.8667974239491,4.27366882750859,Groot-Bijgaarden,Public,2
+67872,Markt 4,ThePluginCompany (Belgium),50.8244,4.513908,Tervuren,Private - Restricted Access,2
+67871,Nering,Stadtwerke Clausthal-Zellerfeld,50.768385,4.295483,Beersel,Bilinmiyor,1
+67870,Rue de la Gare,Blue Corner (Belgium),50.682484,4.958224,Orp-Jauche,Public - Membership Required,1
+67860,Rue François Gillet,EVBox,49.56529,5.81185,Aubange,Bilinmiyor,1
+66690,Living Tomorrow,(Unknown Operator),50.90887383025753,4.386094442852815,Halle-Vilvoorde,"Private - For Staff, Visitors or Customers",1
+66487,Oger & Partners garage,(Business Owner at Location),50.8692852,4.3901314,Schaarbeek,Private - Restricted Access,1
+66395,Pauls Place,(Unknown Operator),50.822031712785034,3.185696604290813,Wevelgem,Public,1
+66254,Nissan Konen Lemaire Liege  ,(Unknown Operator),50.6552203,5.6118491, Liege,(Unknown),1
+66202,Partago Regattenlaan,(Unknown Operator),51.0595847012085,3.73449185277867,Ghent,Public,2
+66048,Eat@12,ThePluginCompany (Belgium),50.8703864852848,3.60324055686953,Oudenaarde,"Private - For Staff, Visitors or Customers",5
+65423,"Parking De kiekenhoeve, Karrenmuseum, VVV De Tasberg",(Business Owner at Location),51.4579561718269,4.44114162733082,Essen,Public,1
+65407,Neringstraat 10,EVBox,51.32414,4.9702,Oud-Turnhout,Bilinmiyor,1
+65403,Kerver 16,EVBox,51.25645,4.53804,Eersel,Bilinmiyor,1
+65401,Kruiwagenstraat 20,Shell Recharge Solutions (BE),51.2090618,5.19921399999998,Mol,Bilinmiyor,1
+65399,Kasteleinsstraat 3,EVBox,51.19337,4.31438,Kruibeke,Bilinmiyor,1
+65398,Zevenbergenlaan 7,Shell Recharge Solutions (BE),51.1925902,4.56111050000004,Ranst,Bilinmiyor,1
+65396,Sparrenhofstraat,EVBox,51.1783,4.14921,Sint-Niklaas,Bilinmiyor,1
+65395,Krommingenstraat,EVBox,51.12128,4.02021,Waasmunster,Bilinmiyor,1
+65394,Wiekevorstsesteenweg,EVBox,51.09233,4.78531,Heist-op-den-Berg,Bilinmiyor,1
+65393,Voorhavenlaan,Blue Corner (Belgium),51.077682,3.728127,Gent,Bilinmiyor,1
+65392,Appeldonkstraat 283,EVBox,51.07034,4.34874,Willebroek,Bilinmiyor,1
+65391,Bredestraat 2,Shell Recharge Solutions (BE),51.0612558,5.29714560000002,Beringen,Bilinmiyor,1
+65389,Prinsenstraat,EVBox,50.93251,4.37135,Grimbergen,Bilinmiyor,1
+65387,Gijzenveldstraat,Shell Recharge Solutions (BE),50.9171805,5.59658009999998,Zutendaal,Bilinmiyor,1
+65386,Wilselsesteenweg 152,Shell Recharge Solutions (BE),50.9008164,4.72539129999996,Leuven,Bilinmiyor,1
+65385,Desselgem-Trakel,EVBox,50.8988,3.37223,Waregem,Bilinmiyor,1
+65373,Speelpleinstraat 10,Allego BV,50.826971,4.754616,Bierbeek,Bilinmiyor,1
+65372,Rue Gachard - Gachardstraat 77,Shell Recharge Solutions (BE),50.8253424,4.36719840000001,Ixelles - Elsene,Bilinmiyor,1
+65371,Zevekotestraat,EVBox,50.77322,3.23423,Kortrijk,Bilinmiyor,1
+65370,Avenue du Pré-Aily 20,Blue Corner (Belgium),50.59771,5.565285,Liège,Bilinmiyor,1
+65369,chemin communal n°14 - rue de Liège,Blue Corner (Belgium),50.570187,5.5501404,Boncelles,Bilinmiyor,1
+65368,Rue des Marais,Blue Corner (Belgium),50.49636,5.099152,Andenne,Bilinmiyor,1
+65367,Rue Fernand Marchand,Blue Corner (Belgium),50.455933,4.79937,Namur,Bilinmiyor,1
+65366,Place Nervienne,Blue Corner (Belgium),50.447956,3.946753,Mons,Bilinmiyor,1
+65364,Rivage de Boubier,EVBox,50.40352,4.51231,Châtelet,Bilinmiyor,1
+65363,Rue Chantrenne,Blue Corner (Belgium),50.02973,4.165615,Momignies,Bilinmiyor,1
+65262,Hotel Heritage,Tesla (Tesla-only charging),51.2100395427289,3.22386359999996,Brugge,"Private - For Staff, Visitors or Customers",2
+65186,Premium Motors Tournai,(Business Owner at Location),50.60077325922837,3.430778567242445,Tournai,Privately Owned - Notice Required,2
+65093,ORES,(Business Owner at Location),50.6317776627493,6.02159695159004,Eupen,Public - Membership Required,2
+64996,Interparking Botanique,ZenCar,50.85446100000001,4.36015969999994,Brussels,Public,1
+62870,Bredabaan 1081,EVBox,51.34329,4.53566,Wuustwezel,Bilinmiyor,1
+62865,Westkapellestraat,Stadtwerke Clausthal-Zellerfeld,51.332462,3.253737,Brugge,Bilinmiyor,1
+62857,Klinkersbos 25,EVBox,51.27686,5.11992,Retie,Bilinmiyor,1
+62856,Woudweg,EVBox,51.25707,5.44945,Neerpelt,Bilinmiyor,1
+62852,Acacialaan 8,EVBox,51.18459783889736,4.403564393263764,Antwerpen,"Private - For Staff, Visitors or Customers",1
+62849,Nieuwstraat,Shell Recharge Solutions (BE),51.1428086,3.41660520000005,Knesselare,Bilinmiyor,1
+62846,Pleitstraat,Blue Corner (Belgium),51.13846,3.7920732,Gent,Bilinmiyor,1
+62844,Ottersweier 7,Shell Recharge Solutions (BE),51.1105864662865,4.91516574232787,Westerlo,(Unknown),1
+62840,Nijverheidspark,Blue Corner (Belgium),51.05766,5.2202125,Beringen,Bilinmiyor,1
+62839,Egide Walschaertsstraat,EVBox,51.00271,4.46108,Mechelen,Bilinmiyor,1
+62838,Technopolis,Blue Corner (Belgium),51.0023812423685,4.47053257672123,Mechelen,Public,4
+62836,Andre Dumontlaan,Blue Corner (Belgium),50.994022,5.534291,Genk,Bilinmiyor,1
+62833,Evence Coppeelaan 89,Blue Corner (Belgium),50.98303,5.49185,Genk,Bilinmiyor,1
+62832,Wildekastanjelaan,Blue Corner (Belgium),50.98132,5.48945,Genk,Bilinmiyor,1
+62830,Europalaan 39,Blue Corner (Belgium),50.96636,5.496244,Genk,Bilinmiyor,1
+62828,Kempische Steenweg,Bilinmiyor,50.952535,5.350619,Hasselt,Bilinmiyor,2
+62825,N45,Allego BV,50.913216,4.03167,Aalst,Bilinmiyor,1
+62824,Deinsesteenweg,EVBox,50.91224,3.52852,Kruishoutem,Bilinmiyor,1
+62822,Wetenschapslaan 11,Blue Corner (Belgium),50.90019,4.3417277,Brussel,Bilinmiyor,1
+62817,Rue Claessens - Claessensstraat,TOTAL Be PlugToDrive,50.871056,4.355192,Ville de Bruxelles - Stad Brussel,Public,1
+62814,Kardinaal Mercierlaan 46,EVBox,50.85393,4.36398,Leuven,Bilinmiyor,1
+62803,Avenue du Vallon,EVBox,50.71746,4.47768,Lasne,Bilinmiyor,1
+62802,Daelstraat,Blue Corner (Belgium),50.707764,4.02626,Herne,Bilinmiyor,1
+62801,Chemin des Etangs 12A,Blue Corner (Belgium),50.6733,3.3582,HERINNES-LEZ-PECQ,Bilinmiyor,1
+62800,Chaussée De Soignies,Blue Corner (Belgium),50.66565,4.037644,Silly,Bilinmiyor,1
+62799,Chemin Willems,Blue Corner (Belgium),50.61779,3.345058,Tournai,Bilinmiyor,1
+62798,N503,Blue Corner (Belgium),50.56068,3.460068,Antoing,Bilinmiyor,1
+61358,Place de Flobecq,ORES,50.7369339480142,3.73854386345498,Flobecq,Public - Pay At Location,2
+60585,Carrefour Market La Hulpe,ORES,50.72646776854965,4.486221143377622,Nijvel,Public - Pay At Location,1
+60441,Place Albert 1er,ORES,50.5336098,3.9125358,Jurbeke,Public - Pay At Location,1
+60440,Rue des Oies,ORES,49.839906449953595,5.435762904754604,Neufchâteau,Public - Pay At Location,1
+60439,Rue François Libert,ORES,50.7154061,4.39666699999998,Waterloo,Public - Pay At Location,1
+60438,Rue Antoine de Saint-Exupéry,ORES,50.4702811,4.46397460000003,Gosselies,Public - Pay At Location,1
+60437,Boulevard des Arbalétriers,ORES,50.598031,4.3190664,Nijvel,Public - Pay At Location,1
+60376,Technopolis,Blue Corner (Belgium),51.0167732585852,4.47247267969942,Mechelen,Public - Pay At Location,4
+60241,Park & Ride Wommelgem Rotonde,Allego BV,51.212276523853,4.49294086515124,Wommelgem,Public,2
+57739,Sportcomplex De Nachtegaal,EV-Point,51.12938712959325,4.45282133582634,Kontich,Public,2
+57726,Bio Planet Destelbergen,electric-driving.colruytgroup.com,51.05459368202965,3.7753992592468144,Gent,Public - Membership Required,2
+57725,Bio Planet Grimbergen,electric-driving.colruytgroup.com,50.92715676015085,4.391001871333278,Halle-Vilvoorde,Public - Membership Required,2
+57623,Microsoft,Bilinmiyor,50.8882237,4.45950570000002,Zaventem,"Private - For Staff, Visitors or Customers",4
+57479,Nucleus ,Shell Recharge Solutions (BE),51.2643339,4.4029082,Antwerpen ,Public - Membership Required,1
+56641,Mediacité,(Unknown Operator),50.6319551,5.5801465,Liège,Public - Notice Required,2
+56225,Diepenbeek Universiteit,(Business Owner at Location),50.9268217438669,5.39212890789567,Diepenbeek,Public,1
+54605,Rue de l'Expansion,EVBox,50.60972,5.43709,Flémalle,Bilinmiyor,1
+54443,Sporthal Destelbergen,EV-Point,51.0548899244709,3.80426160793458,destelbergen,Public,2
+53654,Ruiterijschool,Essent (NL),51.327968,4.532994,Brasschaat,Bilinmiyor,1
+53653,Hertevelden 6,Shell Recharge Solutions (BE),51.3160086423573,5.08834016798403,Arendonk,Bilinmiyor,1
+53647,Mechanicalaan,EVBox,51.15777,4.3662,Antwerpen,Bilinmiyor,1
+53646,Sint-Amandsesteenweg,Shell Recharge Solutions (BE),51.0935906,4.23160859999996,Bornem,Bilinmiyor,1
+53645,Industriepark B 5,Shell Recharge Solutions (BE),51.0617349138367,4.72112070769072,Heist-op-den-Berg,Bilinmiyor,1
+53644,B&B De Steenhove,(Private Residence/Individual),51.057406553157,3.5205543099983,Nevele,Private - Restricted Access,2
+53643,Wayenborgstraat 12,Shell Recharge Solutions (BE),51.0493311446972,4.44252296158038,Mechelen,Bilinmiyor,1
+53641,Tramstraat,Bilinmiyor,51.008732479399,3.7028002738953,Gent,Bilinmiyor,2
+53636,Leopold III-laan,Blue Corner (Belgium),50.894894,4.487227,Zaventem,Bilinmiyor,1
+53635,Chemin du Stoquoi,EVBox,50.66637,3.86516,Ath,Bilinmiyor,1
+52959,Eneco Solar Belgium,EVBox,51.0248906111115,3.68297338485718,Sint-Denijs-Westrem,Public,2
+52909,Q8 Verlaine,(Unknown Operator),50.5927899451757,5.3035736354858,Verlaine,Bilinmiyor,1
+52843,Gemeente Schilde,EV-Point,51.241062343444504,4.578872155364264,Schilde,Public,1
+52742,Parking Sint Jansplein,(Business Owner at Location),51.2259816470194,4.417983762496185,Antwerpen,Public,1
+52706,A.D. Motors,(Unknown Operator),50.950099,4.0400699,aalst,Public,1
+52705,Nissan Garage dams,Allego BV,51.1465656,4.9582943,geel,Public - Membership Required,3
+51515,Circuit Zolder,(Unknown Operator),50.9904979,5.257983999999965,Heusden-Zolder,"Private - For Staff, Visitors or Customers",1
+51513,Hotel ibis Aalst Centrum,ThePluginCompany (Belgium),50.9213644,4.03233590000002,Aalst,Public - Membership Required,1
+51168,Sporthal Betekom,EV-Point,50.98745082788561,4.785353996989454,Begijnendijk,Public,2
+50588,Brasserie Dikke Mee,Blue Corner (Belgium),51.18757359653503,4.404982077941884,Antwerpen,"Private - For Staff, Visitors or Customers",1
+50586,Kwarteldreef 2,Shell Recharge Solutions (BE),51.317201448837,5.02357327539369,Oud-Turnhout,Bilinmiyor,1
+50585,Hoge Kaart 350,EVBox,51.31206,4.49336,Brasschaat,Bilinmiyor,1
+50583,Kerkhoflei 106,EVBox,51.27053,4.62769,Zoersel,Bilinmiyor,1
+50576,Groenebriel 1,Blue Corner (Belgium),51.06345,3.721207,Gent,Bilinmiyor,1
+50574,Voskenslaan,Blue Corner (Belgium),51.029625,3.705391,Gent,Public - Membership Required,1
+50573,Parking Grote Markt,ThePluginCompany (Belgium),51.02817686943858,4.479270208320605,Mechelen,Public,1
+50571,Begoniastraat,Shell Recharge Solutions (BE),50.9759813,3.66117869999994,Nazareth,Bilinmiyor,1
+50568,Cijnsweg,Blue Corner (Belgium),50.913837,3.78098,Oosterzele,Bilinmiyor,1
+50567,Heirbaan,Shell Recharge Solutions (BE),50.9130757,5.68538669999998,Lanaken,Bilinmiyor,1
+50566,Wijmeriestraat,Blue Corner (Belgium),50.89418,3.428743,Waregem,Bilinmiyor,1
+50530,Walstraat 5,Blue Corner (Belgium),50.80693,4.921483,Tienen,Bilinmiyor,1
+50529,Geldenaaksebaan 454,Blue Corner (Belgium),50.84917,4.7232294,Haasrode,Bilinmiyor,1
+50528,Voskapellelaan 11,Blue Corner (Belgium),50.878235,4.510565,Nossegem,Bilinmiyor,1
+50527,Wolvertemsesteenweg 248,Blue Corner (Belgium),50.938217,4.355348,Grimbergen,Bilinmiyor,1
+50526,Dendermondesteenweg 301,Blue Corner (Belgium),51.054844,3.7752783,Destelbergen,Bilinmiyor,1
+50525,Kapelstraat 47-49,Blue Corner (Belgium),51.24873,2.9640524,Bredene,Bilinmiyor,1
+49193,"Sin-Katelijne-Waver, Cityhall",EV-Point,51.0681948,4.536126299999978,Sint-Katelijne-Waver,Public,2
+49180,Partner Logistics Ieper,Nomadpower,50.890110291449226,2.873150238497959,Ypern,Public - Membership Required,4
+49179, IDS Truckstop Joost ,Nomadpower,51.47376291104489,4.726927433776842,Meer,Public - Membership Required,8
+49178,Truckstop 26bis Zolder,Nomadpower,50.9938311801262,5.24030610185854,Hasselt,Public - Membership Required,8
+48002,Bio-Planet Nossegem,electric-driving.colruytgroup.com,50.875026801147,4.50808525085449,Zaventem,Public - Membership Required,2
+48001,Decathlon Evere,ThePluginCompany (Belgium),50.8777618193696,4.41163301467896,Evere,Public - Membership Required,2
+47544,Delhaize Arlon,(Business Owner at Location),49.6858446,5.7985313,Arlon,"Private - For Staff, Visitors or Customers",2
+46895,Van der Valck Brugge-Oostkamp,(Business Owner at Location),51.14375258306419,3.2456087056488014,Oostkamp,"Private - For Staff, Visitors or Customers",1
+45031,Sporthal Lummen,EV-Point,50.9908867091148,5.18945379203069,Lummen,Public,2
+44630,Geldenaaksebaan 319,Bilinmiyor,50.850138107823,4.7229034245538,Leuven,Bilinmiyor,2
+44628,Chaussée de Tournai,Bilinmiyor,50.626182475754,3.3672559261322,Tournai,Bilinmiyor,1
+44248,Parking Carrefour Burcht,Allego BV,51.2069912807183,4.33967446864778,Burcht,Public - Membership Required,2
+43674,Parking Carrefour Schoten,Allego BV,51.2589668303238,4.46386327909851,Schoten,Public - Membership Required,2
+43375,Motorhome parking Sportoase elshout,(Private Residence/Individual),51.2856706984695,4.50299705504768,Brasschaat,Public - Pay At Location,1
+42868,Chemin de la Clusure 30,Ecotap,50.096549,5.284715,Bure (Tellin),Bilinmiyor,2
+42680,D'ieteren ,Shell Recharge Solutions (BE),50.8909617672626,4.56277754908443,kortenberg,Public,2
+42554,Tesla Aartselaar Supercharger,Tesla (Tesla-only charging),51.1370552012843,4.37723118888549,Aartselaar,Public,6
+42349,"Texaco E40 Drongen, ->Brugge, Oostende",ThePluginCompany (Belgium),51.03529367895687,3.6392893211791533,Drongen,Public,4
+41867,Vrije Universiteit Brussel - ETEC,Tesla (Tesla-only charging),50.8240837621019,4.39710307787938,Elsene,"Private - For Staff, Visitors or Customers",8
+41587,Koningin Astridplein,Shell Recharge Solutions (BE),51.2190780639649,4.42072677612305,Antwerpen,Bilinmiyor,1
+41586,Van Eycktunnel,ThePluginCompany (Belgium),51.211591722536,4.4086369872093,Antwerpen,Bilinmiyor,1
+41582,Prins Boudewijnlaan 30,Essent (NL),51.142875,4.437559,Kontich,Bilinmiyor,1
+41581,Carglass,EVBox,51.13653937187593,4.376907716918921,Aartselaar,Public - Membership Required,1
+41580,Reep 4,Blue Corner (Belgium),51.05179,3.730545,Gent,Bilinmiyor,1
+41579,Politiekantoor Ekkergem,Blue Corner (Belgium),51.0493636208071,3.70529945345972,Gent,Public - Membership Required,2
+41578,Sint-Pietersnieuwstraat 33,Blue Corner (Belgium),51.04706,3.727541,Gent,Bilinmiyor,1
+41577,Sint-Pietersplein,Blue Corner (Belgium),51.04191,3.726039,Gent,Bilinmiyor,1
+41576,Maaltekouter,ThePluginCompany (Belgium),51.026986,3.689701,Sint-Denijs-Westrem,Bilinmiyor,1
+41575,Neringstraat 10,EVBox,51.01466925602661,4.325169324874878,Londerzeel,Public,4
+41566,Chaussée de Charleroi,ThePluginCompany (Belgium),50.686998,4.407977,Waterloo,Bilinmiyor,2
+41565,N3i,ThePluginCompany (Belgium),50.680791,5.461968,Awans,Bilinmiyor,1
+41563,Rue Bureau 73,Blue Corner (Belgium),50.613567,5.694841,Fléron,Bilinmiyor,1
+41561,PLace,Blue Corner (Belgium),50.549458,3.341719,Rumes,Bilinmiyor,1
+41560,Rue des Français,Blue Corner (Belgium),50.51343,3.591303,Péruwelz,Bilinmiyor,1
+41274,UZ Leuven Gasthuisberg,EV-Point,50.879949,4.6724997,Leuven,Public,2
+41273,La Riviera,EV-Point,51.1502348,3.86431560000005,Zaffelare,Public,2
+41272,Taverne De Hof,EV-Point,51.0442246,5.38098719999994,Houthalen,Public,2
+41271,Gemeente Borsbeek,EV-Point,51.194980943641966,4.486996960118872,Borsbeek,Public,2
+41270,Gemeentehuis Erpe-Mere,EV-Point,50.9225848,3.94637680000005,Erpe-mere,Public,2
+41269,De Barrier,EV-Point,51.0207714,5.373648,Houthalen,Public,2
+41268,MC Horeca,EV-Point,50.9211791,5.38281710000001,Diepenbeek,Public,2
+41267,Gemeente Rijkevorsel,EV-Point,51.34919649719521,4.76097527549781,Rijkevorsel,Public,2
+41266,Zeshoek Wetteren,EV-Point,51.0049165,3.88776189999999,9230,Public,2
+41265,Hezemeer,EV-Point,51.1116085,5.02867739999999,Laakdal,Public,2
+41264,Gemeente Asse,EV-Point,50.9102792,4.20111429999997,Asse,Public - Pay At Location,2
+39278,EVA Oudenaarde II,Blue Corner (Belgium),50.8421531341015,3.602976877077726,Oudenaarde,Public - Membership Required,6
+32667,Panagro dierenarts,Shell Recharge Solutions (BE),51.3536898056394,4.76928421854972,Rijkevorsel,"Private - For Staff, Visitors or Customers",1
+32658,Alfred Verweeplein 1,Blue Corner (Belgium),51.343475,3.290168,Knokke-Heist,Bilinmiyor,1
+32645,Eandis Turnhout,Blue Corner (Belgium),51.33064,4.94891,Turnhout,Private - Restricted Access,1
+32627,De Daries 71,Bilinmiyor,51.317866895888,5.0751407145799,Arendonk,Bilinmiyor,1
+32611,Zegersdreef 91,EVBox,51.29318,4.47609,Brasschaat,Private - Restricted Access,1
+32600,Corsendonk 5,EVBox,51.28392,5.01,Oud-Turnhout,Bilinmiyor,1
+32583,Peerdsbosbaan 13,Shell Recharge Solutions (NL),51.2651290893555,4.48452997207642,Schoten,Private - Restricted Access,1
+32532,Gentseweg,Ecotap,51.198865,4.223913,Beveren,Bilinmiyor,2
+32518,Filip Williotstraat,Blue Corner (Belgium),51.18632,4.435922,Antwerpen,Bilinmiyor,1
+32497,Stationsstraat,Blue Corner (Belgium),51.15226,3.607179,Waarschoot,Bilinmiyor,1
+32495,Lammerdries-Oost 21B,EVBox,51.15145,4.90765,Olen,Bilinmiyor,1
+32484,Ecoterm,Shell Recharge Solutions (BE),51.1221237182617,4.00839900970459,Lokeren,Public - Membership Required,2
+32478,Dommelstraat,EVBox,51.11465,4.11243,Waasmunster,Public,2
+32475,Langerbruggestraat,EVBox,51.10632,3.75082,Gent,Bilinmiyor,1
+32469,Nijverheidsstraat 50-58,Shell Recharge Solutions (NL),51.100952825087575,4.419868875669408,Rumst,Public - Membership Required,1
+32468,Kerkhofstraat,EVBox,51.07396,4.73612,Heist-op-den-Berg,Bilinmiyor,1
+32465,Berlaarbaan 418,Vitaemobility,51.072523962136,4.5745691657066,Sint-Katelijne-Waver,Bilinmiyor,2
+32464,Meirstraat,EVBox,51.069709,4.250944,Sint-Amands,Bilinmiyor,1
+32460,Klinieklaan,EVBox,51.0624226832542,2.66769289970398,Veurne,Bilinmiyor,1
+32455,Heistse Hoekstraat 3B;5,EVBox,51.05758,4.71249,Heist-op-den-Berg,Bilinmiyor,1
+32435,Lakenmarkt,Bilinmiyor,51.001799090492,3.3266969025135,Tielt,Bilinmiyor,2
+32433,Flor Hofmanslaan 1,EVBox,50.99877,4.12467,Lebbeke,Bilinmiyor,1
+32431,Kolenmijn Limburg-Maaslaan,Blue Corner (Belgium),50.99839,5.706928,Maasmechelen,Bilinmiyor,1
+32430,Café 't Excuus,EVBox,50.99783407973899,4.2679886883259055,Londerzeel,"Private - For Staff, Visitors or Customers",1
+32421,Terlaemen 30,EVBox,50.98876,5.2552,Heusden-Zolder,Bilinmiyor,1
+32416,Festercars,EVBox,50.9856,4.21956,Merchtem,(Unknown),1
+32393,Verffabriek Los Blancos,Shell Recharge Solutions (BE),50.96109902400943,4.046413421630857,Aalst,Public - Membership Required,2
+32384,Paalsteenstraat 36,EVBox,50.9476524182363,5.34198950006862,Hasselt,Bilinmiyor,1
+32381,Car-wash,EVBox,50.94713480888587,4.244958804893466,Merchtem,Public - Membership Required,1
+32371,Leeuwerikenstraat 61,EVBox,50.93357,4.40223,Grimbergen,Bilinmiyor,1
+32370,Grote Breemstraat,Bilinmiyor,50.932049823442,5.3250056505203,Hasselt,Bilinmiyor,4
+32344,Parklaan,EVBox,50.90704,4.20558,Asse,Bilinmiyor,1
+32301,Avenue des Olympiades - Olympiadenlaan 6,Essent (NL),50.869967,4.405416,Evere,Bilinmiyor,1
+32296,Simon Bolivarlaan 34,Bilinmiyor,50.861501672712,4.3541774153709,Brussel,Bilinmiyor,1
+32273,EVA Oudenaarde I,Blue Corner (Belgium),50.838882794185366,3.605158318367092,Oudenaarde,Public - Membership Required,2
+32264,Oude Vestigingsstraat,Blue Corner (Belgium),50.82643,3.262081,Kortrijk,Bilinmiyor,1
+32205,Kerkstraat - Rue de l'Église,Essent (NL),50.744719,4.346258,Sint-Genesius-Rode,Bilinmiyor,1
+32194,Rue de l'Yser,Bilinmiyor,50.66035,5.52175,Ans,Bilinmiyor,1
+32182,Aire de Froyennes,Blue Corner (Belgium),50.617013724339,3.3399295806885,Tournai,Bilinmiyor,1
+32181,Avenue Edmond Wibaut,Blue Corner (Belgium),50.613815,3.38842,Tournai,Bilinmiyor,1
+32178,Rue de France,Blue Corner (Belgium),50.602806,3.385728,Tournai,Bilinmiyor,1
+32165,Rue Wibault-Bouchart,Blue Corner (Belgium),50.512676,3.413118,Brunehaut,Bilinmiyor,1
+32163,Rue des Chauffours,Blue Corner (Belgium),50.508896,3.584157,Péruwelz,Bilinmiyor,1
+32158,Avenue Thomas Edison,Blue Corner (Belgium),50.46125,3.935103,Mons,Bilinmiyor,1
+32134,Place Joseph Meunier,ZE-MO (Be),50.32062099493,4.6576867997646,Mettet,Bilinmiyor,1
+31367,EVA Leuven II,Blue Corner (Belgium),50.8793937287933,4.69154038813895,Leuven,Public,4
+31349,EVA Ninove,Blue Corner (Belgium),50.8334443444069,4.01855281136171,Ninove,Public,2
+31348,Knokkestraat - Elizabetlaan Knokke-Heist,Blue Corner (Belgium),51.34008943172855,3.241738449876377,Heist,Public,2
+31320,EVA Oostende III,Blue Corner (Belgium),51.22519709190417,2.9042127935012996,Oostende,Public - Membership Required,1
+31319,EVA Oostende II,Blue Corner (Belgium),51.234526787410786,2.9214917841309296,Oostende,Public - Membership Required,1
+31318,EVA Oostende I,Blue Corner (Belgium),51.202809720442666,2.9146411562110286,Oostende,Public - Membership Required,1
+31305,EVA Aalst II,Blue Corner (Belgium),50.93853564024603,4.03959000886017,Aalst,Public - Membership Required,1
+31301,Provinciedomein Kessel-Lo,Blue Corner (Belgium),50.89397188660078,4.730260941296582,Kessel-lo,Public - Membership Required,2
+31276,Gemeentehuis,(Unknown Operator),51.0963702766588,3.83037686347961,Lochristi,(Unknown),1
+31270,Flanders expo,Blue Corner (Belgium),51.02564430154804,3.6928862725535527,Gent,Public,2
+31256,Delhaize Kortrijk Noord,ThePluginCompany (Belgium),50.832435268615505,3.276541161470834,Kortrijk,"Private - For Staff, Visitors or Customers",2
+31255,Delhaize Oostende,ThePluginCompany (Belgium),51.22662575,2.9214867081645934,Oostende,"Private - For Staff, Visitors or Customers",2
+31248,Delhaize Osseghem ,ThePluginCompany (Belgium),50.8553293773724,4.32144460591234,Molenbeek-Saint-Jean,Private - Restricted Access,2
+31247,Delhaize Hasselt,ThePluginCompany (Belgium),50.9233492383947,5.33967567933565,Hasselt,"Private - For Staff, Visitors or Customers",2
+31205,Dokeos SPRL,(Business Owner at Location),50.7079111,4.59325139999999,Bierges,Public,2
+31204,Dokeos SPRL,(Business Owner at Location),50.530493,5.7151748,Louveigné (Sprimont),Public,1
+31201,MC Donalds Halle,ThePluginCompany (Belgium),50.73680385051717,4.230585595454741,Halle,"Private - For Staff, Visitors or Customers",1
+31200,Mc Donalds Sint Pieters Leeuw,ThePluginCompany (Belgium),50.8047803840884,4.289558234462656,Sint Pieters Leeuw,"Private - For Staff, Visitors or Customers",1
+31199,Ikea Hognoul (Luik),ThePluginCompany (Belgium),50.678979555054255,5.463170780651798,Hognoul,Public,1
+31198,Ikea Arlon,ThePluginCompany (Belgium),49.637377568606745,5.890326912744173,Arlon,Public,1
+31197,Ikea Anderlecht,ThePluginCompany (Belgium),50.81094033639701,4.2912142142944365,Anderlecht,Public,1
+31193,Brico Merksem,(Private Residence/Individual),51.2623716579662,4.46312651537484,Merksem,Public,1
+30330,Partago - Jacobs Nest,BeCharged,51.0771870325042,3.66846799850464,Mariakerke (Gent),Public - Membership Required,1
+30328,Klaverhof,(Business Owner at Location),51.327111832613454,4.928891539464524,Turnhout,"Private - For Staff, Visitors or Customers",1
+25820,Toyota Motor Europe,POD Point (UK),50.87911,4.435757,Brussels,"Private - For Staff, Visitors or Customers",8
+25791,Delhaize Kessel-Lo,ThePluginCompany (Belgium),50.8862028,4.7416339,Kessel-Lo,"Private - For Staff, Visitors or Customers",2
+25785,Chièvres,Power Station (BE),50.58657121302367,3.810208466270426,Chièvres,Public - Membership Required,1
+24711,Wijnegem Shopping Center,(Business Owner at Location),51.2229367775159,4.5013638993835,Wijnegem,Public,4
+24533,TEXACO  Drongen Zuid  -> Brussel,ThePluginCompany (Belgium),51.0338142292773,3.6376953450405902,Gent,Public,1
+24530,Lidl,Lidl,50.8332065152785,4.37860826004943,Brussel,Public - Notice Required,2
+24511,Maison,(Unknown Operator),50.83950185,4.30678072942881,Anderlecht,(Unknown),1
+24473,EVA Ieper,Blue Corner (Belgium),50.8515877028758,2.88578657308586,Ieper,Public - Membership Required,1
+24390,Cultuurcentrum Brasschaat,Blue Corner (Belgium),51.2909862922937,4.49311873595844,Brasschaat,Public - Membership Required,1
+24119,Arts / Kunst,ZenCar,50.842693,4.367143400000032,Stad Brussel,(Unknown),1
+24118,CARREFOUR Auderghem,ZenCar,50.8142866610127,4.42444277469599,Brussel-Hoofdstad,Public - Membership Required,2
+24115,Hotel Dennenhof,(Business Owner at Location),51.3375761616901,4.52706184606323,Maria ter Heide Brasschaat,"Private - For Staff, Visitors or Customers",7
+24041,Renault Valckenier Ninove,ThePluginCompany (Belgium),50.8313586539294,3.9724889837389,Ninove,"Private - For Staff, Visitors or Customers",1
+24040,Renault Bossuyt,ThePluginCompany (Belgium),50.8819655922738,3.3636321968446,Desselgem,"Private - For Staff, Visitors or Customers",1
+24039,Renault Verhulst,ThePluginCompany (Belgium),51.0231401444574,3.33640450153622,Tielt,"Private - For Staff, Visitors or Customers",1
+24038,Renault Devos-Capoen,ThePluginCompany (Belgium),50.847980694424,3.26758959363282,Kuurne,"Private - For Staff, Visitors or Customers",1
+24037,Renault Denoyel,ThePluginCompany (Belgium),51.19100664728543,3.211432118651034,Brugge (Sint-Michiels),"Private - For Staff, Visitors or Customers",1
+24036,Renault Mouscron,ThePluginCompany (Belgium),50.743246126278,3.23503009978675,Mouscron,"Private - For Staff, Visitors or Customers",1
+24030,Renault Fama,ThePluginCompany (Belgium),50.4982215920356,4.23159298161955,Manage,"Private - For Staff, Visitors or Customers",1
+24029,Renault Omniacars,ThePluginCompany (Belgium),50.4436731614298,3.92731447996697,Mons,"Private - For Staff, Visitors or Customers",1
+24022,Renault Goeyens,(Unknown Operator),50.3850986533089,4.46450224213571,Charleroi,"Private - For Staff, Visitors or Customers",1
+24021,Renault Motors Namur,(Unknown Operator),50.4920729122765,4.89426016437801,Namur,"Private - For Staff, Visitors or Customers",1
+24020,Renault Neri Liège,(Unknown Operator),50.6419363662205,5.55254485105615,Liège,"Private - For Staff, Visitors or Customers",1
+24019,de Singel,Blue Corner (Belgium),51.193784745105006,4.404434687025969,Antwerpen,Public - Membership Required,2
+24018,Renault Pashuysen Genk ,(Unknown Operator),50.9435432127471,5.47152965684381,Hasselt,"Private - For Staff, Visitors or Customers",1
+24017,Renault Paesmans,(Unknown Operator),50.9262750175477,5.35871756750818,Hasselt,Public,1
+24016,Renault Pashuysen Aarschot,(Unknown Operator),50.9843413919539,4.80821485386982,Aarschot,Public,1
+24015,Renault Van Trier,(Unknown Operator),51.3661089737413,4.50664715747691,Kalmthout,Public,1
+24014,Renault Autopartners Mechelen,(Unknown Operator),51.007932479258,4.4776314493006,Malines,Public,1
+24013,Renault Kerremans,ThePluginCompany (Belgium),51.14884510119005,4.535803198814392,Lier,Public,1
+24012,Renault Kenis,(Unknown Operator),51.3027674954467,4.91669098759154,Turnhout,Public,1
+24011,Renault Antwerpen,ThePluginCompany (Belgium),51.257884210098176,4.41888950344151,Atwerpen,Public,1
+24009,Renault Belgique Luxembourg,(Unknown Operator),50.8111236375726,4.30248994246313,Drogenbos,Public,1
+24008,Renault Motors Wauthier,Bilinmiyor,50.6888113369017,4.31564785341756,Braine-le-Chateau,Public,1
+23793,EVA Hoeilaart,Blue Corner (Belgium),50.76811953151268,4.4721217675776215,Hoeilaart,Public - Membership Required,2
+23693,Renault RRG Plaine,(Unknown Operator),50.818042,4.395025,Brussels,Public,1
+23659,Restaurant / Bar BOWERY,(Business Owner at Location),50.855633429857996,4.401245106498672,Brussel-Hoofdstad,"Private - For Staff, Visitors or Customers",2
+23321,Thon Hotel EU,(Unknown Operator),50.843528695514664,4.3752896999999535,Brussels,Public,2
+23258,McDo OVERIJSE ,ThePluginCompany (Belgium),50.7859406490309,4.50046557943723,Overijse,(Unknown),2
+23216,Carlton Hotel Gent,Blue Corner (Belgium),51.03645453038195,3.714013019177287,Gent,"Private - For Staff, Visitors or Customers",1
+23108,belg,(Unknown Operator),51.2093659,3.22423615672204,brugge,Privately Owned - Notice Required,1
+23106,Martelarenlaan Hasselt,ThePluginCompany (Belgium),50.93290725489813,5.341963451451077,Hasselt,Public,1
+23105,Brasserie De Zwaan,Bilinmiyor,50.98436712017909,4.83638413558197,Aarschot,"Private - For Staff, Visitors or Customers",2
+23097,Lampiris,ZE-MO (Be),50.6431932955883,5.560403247807017,Luik,Public - Membership Required,1
+23096,Centre d'Affaires Natalis (CAN),ZE-MO (Be),50.631903440995075,5.5828562281136485,Luik,Public - Membership Required,1
+23093,Foire de Libramont,ZE-MO (Be),49.912024597846866,5.374859608830991,Libramont,Public - Membership Required,1
+23092,Delhaize Marche,ThePluginCompany (Belgium),50.2266247359765,5.33864854623971,Marche-en-Famenne,Public,2
+23091,  Delhaize Arlon ,ThePluginCompany (Belgium),49.6857824553119,5.79848267530246,Aarlen,"Private - For Staff, Visitors or Customers",2
+23090,  Delhaize Keerbergen ,ThePluginCompany (Belgium),51.003074345637,4.63466610006105,Keerbergen,"Private - For Staff, Visitors or Customers",2
+23088,  Delhaize Kontich ,Shell Recharge Solutions (NL),51.1414983,4.45587809963899,Kontich,Public,2
+23062,Nissan dealer D.A. Motors,(Unknown Operator),50.94482499962259,5.472386641186504,Genk,(Unknown),1
+23061, Nissan Dealer Leo Peeters Keerbergen NV,(Unknown Operator),50.99410028740908,4.688836141986026,Keerbergen,(Unknown),1
+23060,Delhaize Roeselare,ThePluginCompany (Belgium),50.9411937,3.11378119689618,Roeselare,"Private - For Staff, Visitors or Customers",2
+23059,Delhaize Dendermonde,ThePluginCompany (Belgium),51.0123094192524,4.11734640598297,Dendermonde,"Private - For Staff, Visitors or Customers",2
+22935,Delhaize Namur,ThePluginCompany (Belgium),50.4621986067957,4.87930898598279,Namen,"Private - For Staff, Visitors or Customers",1
+22925,MS Motor,(Unknown Operator),50.24335208650264,5.336871451806702,Marche-en-Famenne,(Unknown),1
+22924,Kia - Nissan Steveny,(Business Owner at Location),50.47520702464706,4.90735363272654,Namen,Public,1
+22923,Nissan Bouvy Motor,(Unknown Operator),50.4889177,4.45314458870087,Charleroi,(Unknown),1
+21226,Port Aventura,Blue Corner (Belgium),51.22785082073691,5.1721418771985395,Mol,Public,1
+21221,EVA Turnhout 3,Blue Corner (Belgium),51.3237924203193,4.9474175974837475,Turnhout,Public - Membership Required,1
+21209,EVA Geel 2,Blue Corner (Belgium),51.162081890984624,4.989732271094471,Geel,Public - Membership Required,1
+21176,McDonald's Verviers,(Unknown Operator),50.5911517157802,5.84938653624568,Verviers,Public,1
+21175,McDonald's Bilzen,(Unknown Operator),50.8604198703457,5.50116084439695,Bilzen,Public,1
+21164,INFRAX,(Unknown Operator),50.9373236963333,5.36607027053833,Hasselt,Private - Restricted Access,1
+21153,Big Blue Zaventem,(Unknown Operator),50.86993610830757,4.461674042419408,Zaventem,"Private - For Staff, Visitors or Customers",1
+21135,Tradeco belgium sa,ZE-MO (Be),50.74282331283177,3.254111900497163,Moeskroen,Public - Membership Required,1
+21134,Carport Negundo (2)) ,ZE-MO (Be),50.61682348907584,3.3395426896097424,Froyennes,Public - Membership Required,1
+21133,"Siège social Ideta, Tournai",ZE-MO (Be),50.6096041,3.383557099999962,Doornik,Public - Membership Required,1
+21132,Place Communale de Rumes,ZE-MO (Be),50.549266799866125,3.3418035175241023,Taintignies,Public - Membership Required,1
+21131,Centre Administratif d'Antoing,ZE-MO (Be),50.56298339166472,3.4539899962951415,Antoing,Public - Membership Required,1
+21130,Centre Administratif de Brunehaut,ZE-MO (Be),50.5152515,3.420642799999996,Brunehaut,Public - Membership Required,1
+21129,Parking,ZE-MO (Be),50.5076723161372,3.589408502914706,Péruwelz,Public - Membership Required,1
+21128,Gare Péruwelz  ,ZE-MO (Be),50.513388778561314,3.5918967055572315,Peruwelz,Public - Membership Required,1
+21121,Ideta Site Frasnes carré-Long,ZE-MO (Be),50.6643652319159,3.61144932311207,Frasnes-lez-Anvaing,Public - Membership Required,1
+21120,Parking Rue du Grand pré ,ZE-MO (Be),50.7352312703658,3.68247579595685,Ellezelles,Public - Membership Required,1
+21119,Eco Musée,ZE-MO (Be),50.6949220382959,3.72220535449217,Ellezelles,Public - Membership Required,1
+21118,Ideta Site Ghislenghien,ZE-MO (Be),50.6633033,3.8655546,Ghislenghien,Public - Membership Required,1
+21117,Ideta Site Lanterne,ZE-MO (Be),50.6828609053762,4.02683327067074,Enghien,Public - Membership Required,1
+21116,Nautisport,ZE-MO (Be),50.6836391249111,4.03273167350914,Enghien,Public - Membership Required,1
+21115,Solar Concept,ZE-MO (Be),50.7364918,4.58349279999993,Wavre,Public - Membership Required,1
+21114,Centre de service d'Axisparc,ZE-MO (Be),50.6573972932265,4.62553599882641,Mont-Saint-Guibert,Public - Membership Required,1
+21113,Place de Nismes,ZE-MO (Be),50.0740240494088,4.54803888061247,Nismes,Public - Membership Required,2
+21107,Nissan Beerens,(Business Owner at Location),51.127960888207,4.37475222908326,Aartselaar,Public,1
+21106,Château de Namur,ZE-MO (Be),50.4547246790478,4.85554860515434,Namen,Public - Membership Required,1
+21105,Centre sportif communal d'Ohey,ZE-MO (Be),50.4362154789758,5.11801284216121,Ohey,Public,1
+21104,AIEG Andenne,ZE-MO (Be),50.4918558271703,5.06999845671386,Sclayn,Public - Membership Required,1
+21103,Red Energie ,ZE-MO (Be),50.561907813801,4.97848983797654, Noville les Bois,Public - Membership Required,1
+21102,Garage Renault Néri Cars,ZE-MO (Be),50.61371694699076,5.694094026489207,Fléron,Public - Membership Required,1
+21099,P1 : Paring Gare de Ottignies,Mobib (Belgium),50.674217351344616,4.5672938380981964,Ottignies-Louvain-la-Neuve,Public - Membership Required,18
+21098,Parking Gare de Namur (P1),Mobib (Belgium),50.469831002925304,4.864386040822639,Namen,Public - Membership Required,1
+21096,P1 : Parking Station ,Mobib (Belgium),50.9355481180589,5.31531225974119,Hasselt,Public - Membership Required,18
+21090,Brugge Central Station B-Parking (P1),Mobib (Belgium),51.195346,3.217578,Brugge,Public - Membership Required,18
+20901,"Restaurant ""Den Ooievaar""",(Unknown Operator),51.0308360137059,4.098560953372953,Dendermonde,Privately Owned - Notice Required,1
+20900,Infopunt Toerisme Lokeren,(Unknown Operator),51.104121513665575,3.9894667267799377,Lokeren,Public,1
+20899,Stadhuis Lokeren,(Unknown Operator),51.103797308260916,3.9887358248233795,Lokeren,Public,1
+20792,EVA Turnhout 2,Blue Corner (Belgium),51.3244556238622,4.94722803643049,Turnhout,Public - Membership Required,2
+20791,EVA Turnhout 1,Blue Corner (Belgium),51.3226706367969,4.9383216226845,Turnhout,Public - Membership Required,2
+20728,Maasmechelen Village,Blue Corner (Belgium),51.0016708096581,5.70814847946167,Maasmechelen,Public,4
+20713,Teslamotors Brussels Service,Tesla (Tesla-only charging),50.864153,4.436045,Sint Stevens Woluve,Public - Notice Required,3
+20658,Terbekehofdreef,EVBox,51.15437025814868,4.37556266784668,Wilrijk,Public - Membership Required,1
+20657,Valkenveld,EVBox,51.1691713,4.387914,Antwerpen,Public - Membership Required,1
+20656,STILL,EVBox,51.2327354518902,4.4993694126606,Wijnegem,Public - Membership Required,1
+20501,Cafe Trappisten Westmalle,Vitaemobility,51.2804543251845,4.66111332178116,Westmalle,Public - Membership Required,11
+19181,Martin's Klooster,(Unknown Operator),50.879239,4.696271,Leuven,"Private - For Staff, Visitors or Customers",2
+19177,Château du Lac,(Unknown Operator),50.7289632,4.513713300000063,Genval,"Private - For Staff, Visitors or Customers",1
+19061,Vito,Greenflux,51.2191018986441,5.09387969203489,Mol,Public - Membership Required,1
+19003,Nissan Miroux Motors,(Unknown Operator),50.633907,3.354367,RAMEGNIES-CHIN,Privately Owned - Notice Required,1
+19000,Park & Ride Olympiade,ThePluginCompany (Belgium),51.18290806380515,4.391266302047603,Wilrijk,Public,3
+18998,Nissan Garage Geert Brackx,(Unknown Operator),51.2025638,2.90339080000001,OOSTENDE,Private - Restricted Access,1
+18983,B-Parking Central Station Antwerpen (P1),Allego BV,51.2130561669407,4.42208905078735,Antwerpen,Public,8
+18917,Victor Roosensplein,Blue Corner (Belgium),51.2491946846323,4.4547902055225,Antwerpen,Public,1
+18906,EVA Stabroek,Blue Corner (Belgium),51.330053642028,4.36278726917271,Stabroek,Public - Membership Required,2
+18600,Parking Groenplaats,Blue Corner (Belgium),51.2190994,4.40106800000001,Antwerpen,Public - Membership Required,2
+18596,Laadeiland EVA Kapellen,Blue Corner (Belgium),51.30519324654794,4.4350091171965955,Kapellen,Public - Membership Required,8
+18578,Delhaize Brucargo,ThePluginCompany (Belgium),50.9062559,4.46265689999996,Diegem,"Private - For Staff, Visitors or Customers",2
+18529,Green Spot,Vitaemobility,51.055585,4.45899009999994,Mechelen,(Unknown),2
+16686,Tour & Taxis,(Unknown Operator),50.864187,4.349266,Brussel,Public,1
+16590,IKEA Zaventem,ThePluginCompany (Belgium),50.870926,4.491584,Zaventem,Public - Pay At Location,2
+16525,Bobbejaanland,(Unknown Operator),51.200777,4.9025000999999975,Lichtaart,Privately Owned - Notice Required,1
+16506,IKEA Gent,ThePluginCompany (Belgium),51.0236647161597,3.68858768108977,Sint-Denijs-Westrem ,Public - Pay At Location,4
+16415,Eoluz,(Unknown Operator),51.33045541625917,4.410441671302806,Kapellen,Public - Membership Required,3
+16297, Delhaize Arbre Ballon (Jette),ThePluginCompany (Belgium),50.8937074,4.32262879999996,Jette,"Private - For Staff, Visitors or Customers",2
+16269,Dion-Valmont,(Unknown Operator),50.6785047,4.694120500000054,Dion-Valmont,(Unknown),2
+15970,KPMG,(Unknown Operator),50.8781792,4.431435599999986,Brussel ,"Private - For Staff, Visitors or Customers",1
+15969,Parking Zuidstation - Europcar,(Unknown Operator),50.8353111,4.3335120000000416,Brussel,(Unknown),1
+15968,AA Docks,(Unknown Operator),50.8160713,4.3060828999999785,Brussel ,(Unknown),1
+15967,Belgacom - Brussel Noord,(Unknown Operator),50.8602448,4.357969099999991,Brussel ,(Unknown),5
+15966,Parking 58,(Unknown Operator),50.8506566,4.35053419999997,Brussel ,Public - Pay At Location,1
+15965,VUB,(Unknown Operator),50.8206631,4.40301650000004,Brussel ,"Private - For Staff, Visitors or Customers",1
+15964,Opel Peeters Brussels,(Unknown Operator),50.7973232,4.396076200000039,Bruxelles,(Unknown),1
+15963,Energyville – KUL/VITO,(Unknown Operator),50.9972159,5.527807800000005,Genk ,(Unknown),1
+15962,Golfhotel Stiemerheide,(Unknown Operator),50.97015,5.55239,Genk ,(Unknown),1
+15961,Stad Diest,ThePluginCompany (Belgium),50.98582340198026,5.052731468122835,Diest ,Public,1
+15958,KUL,BeCharged,50.8620895,4.68589229999998,Leuven ,"Private - For Staff, Visitors or Customers",1
+15957,EVA Merchtem,Blue Corner (Belgium),50.95861809481797,4.230969000594298,Merchtem ,Public - Membership Required,1
+15956,Belchim,(Unknown Operator),51.0146197,4.326014999999984,Londerzeel ,(Unknown),1
+15955,City Energy,(Unknown Operator),51.0066455,4.311881200000016,Londerzeel ,(Unknown),1
+15954,EVA Grimbergen,Blue Corner (Belgium),50.93198886414086,4.37050016751118,Grimbergen ,Public - Membership Required,2
+15953,EVA Vilvoorde,Blue Corner (Belgium),50.928591,4.42298210000001,Vilvoorde ,Public - Membership Required,2
+15952,Peugeot Garage Rennen,(Unknown Operator),50.8891504,4.472782199999983,Zaventem,(Unknown),1
+15951,LeasePlan,(Unknown Operator),50.88268979999999,4.457031000000029,Zaventem ,(Unknown),1
+15950,Beerens Opel Center,(Unknown Operator),50.8711466,4.465776199999937,Sint-Stevens-Woluwe,(Unknown),1
+15949,Toyota Motors Europe,(Unknown Operator),50.8727947,4.498705599999994,Zaventem ,(Unknown),1
+15948,MaxuSolar,(Unknown Operator),50.86687389999999,4.265988600000014,Groot-Bijgaarden,(Unknown),1
+15947,Wheel specialist ,(Unknown Operator),50.8361315,4.265646000000061,Dilbeek ,Public - Pay At Location,1
+15946,Siemens Huizingen,(Unknown Operator),50.7572373,4.272941899999978,Beersel ,(Unknown),1
+15945,EVA Halle,Blue Corner (Belgium),50.73452254747034,4.233604047256128,Halle ,Public,2
+15944,EVA Waregem Winkelcentrum Het Pand,Blue Corner (Belgium),50.8857204,3.43081929999994, Waregem,Public - Membership Required,2
+15943,Bandencentrale De Brabandere,(Unknown Operator),50.8711819,3.4490235000000666,Waregem ,(Unknown),1
+15942,Imog Moen,(Unknown Operator),50.7653714,3.3962446000000455,Zwevegem ,(Unknown),1
+15941,Decospan,(Unknown Operator),50.7931524,3.103710200000023,Menen ,(Unknown),1
+15940,EVA Kortrijk II,Blue Corner (Belgium),50.826924577072454,3.2655851919960277,Kortrijk ,Public - Membership Required,2
+15939,EVA Kortrijk I,Blue Corner (Belgium),50.829415369483606,3.2642002455078156,Kortrijk ,Public - Membership Required,4
+15938,EVA Kuurne,Blue Corner (Belgium),50.85024548346741,3.287443400069372,Kuurne ,Public - Membership Required,2
+15937,Imog Harelbeke,(Unknown Operator),50.8448621,3.294490200000041,Harelbeke ,(Unknown),1
+15936,Suntronics,(Unknown Operator),50.8660929,3.1768191999999544,Ledegem ,"Private - For Staff, Visitors or Customers",1
+15935,Deman Rolbruggen,(Unknown Operator),50.8736069,3.174756900000034,Ledegem ,(Unknown),1
+15934,Berka,(Unknown Operator),50.9078029,3.2621939000000566,Ingelmunster ,(Unknown),1
+15933,Solar-Future-Pittem,(Unknown Operator),50.9942299,3.249957600000016,Pittem ,"Private - For Staff, Visitors or Customers",1
+15932,EVA Roeselare 2,Blue Corner (Belgium),50.948435925020775,3.1264959778404933,Roeselare ,Public - Membership Required,1
+15931,EVA Roeselare 1,Blue Corner (Belgium),50.9442605,3.12614869999993,Roeselare,Public - Membership Required,1
+15930,Parking Biekorf ,(Unknown Operator),51.2099401,3.2219780000000355,Bruges,Public - Pay At Location,1
+15929,Parking Katelijne ,(Unknown Operator),51.20226,3.226544,Bruges,Public - Pay At Location,1
+15928,Parking Station ,(Unknown Operator),51.197297,3.220431,Bruges,Public - Pay At Location,1
+15927,Zilverpand car park,(Unknown Operator),51.2067427,3.21961350000004,Bruges,Public - Pay At Location,1
+15926,Parking Pandreitje ,(Unknown Operator),51.2066319,3.2293500000000677,Bruges,Public - Pay At Location,1
+15925,Parking Centrum 't Zand,(Unknown Operator),51.20500000000001,3.217989999999986,Bruges,Public - Pay At Location,1
+15924,EVA Zeebrugge,Blue Corner (Belgium),51.3290484525649,3.18210088657759,Brugge,Public - Membership Required,2
+15923,EVA Brugge 3,Blue Corner (Belgium),51.2042980284521,3.21608111163937,Brugge ,Public - Membership Required,2
+15922,EVA Brugge 1,Blue Corner (Belgium),51.2070823654304,3.23030846242682,Brugge ,Public - Membership Required,2
+15921,EVA Bredene,Blue Corner (Belgium),51.249032789143385,2.9641413755798762,Bredene ,Public - Membership Required,2
+15920,Berca,(Unknown Operator),51.1942818,2.84239130000003, MIDDELKERKE,"Private - For Staff, Visitors or Customers",1
+15919,EVA Nieuwpoort,Blue Corner (Belgium),51.1505201452604,2.7212551167313,Nieuwpoort ,Public - Membership Required,2
+15918,EVA Koksijde,Blue Corner (Belgium),51.1194494744432,2.6354396344267,Koksijde ,Public - Membership Required,2
+15917,EVA De Panne,Blue Corner (Belgium),51.09977249499371,2.5827868147320165,De Panne ,Public - Membership Required,2
+15916,"EVA Maldegem Zwembad ""St Anna"" ",Blue Corner (Belgium),51.209960499521266,3.442922555386292,Maldegem ,Public - Membership Required,2
+15914,EVA Zulte,Blue Corner (Belgium),50.92206333683281,3.4429403080040277,Zulte ,Public - Membership Required,2
+15913,Irs Solar,(Unknown Operator),50.9748595,3.506543899999997,Deinze ,(Unknown),1
+15912,EVA Eeklo parking Het Leen,Blue Corner (Belgium),51.1673198295477,3.5736881839050083,Eeklo ,Public - Membership Required,2
+15911,EVA Waarschoot,Blue Corner (Belgium),51.15230908832942,3.607257304467102,Waarschoot ,Public - Membership Required,2
+15910,AV Mekaniek,(Unknown Operator),51.1337991,3.657842599999981,Evergem ,(Unknown),1
+15909,St-Michielsparking,Blue Corner (Belgium),51.0535264,3.7188231000000087,Gent ,Public - Membership Required,1
+15908,Meydam Charging Solutions,(Unknown Operator),51.05631469999999,3.735553100000061,Gent,(Unknown),1
+15907,Interparking Kouter,(Unknown Operator),51.05039,3.723920000000021,Ghent,Public - Pay At Location,1
+15898,B-Parking Station Gent (P1),Mobib (Belgium),51.036135,3.704544,Gent ,Public - Pay At Location,18
+15897,Carrefour St.Denijs Westrem,BeCharged,51.016659512546,3.66958333306583,Sint-Denijs-Westrem,Public,2
+15896,Artsenpraktijk Sas-Elewaut,Blue Corner (Belgium),50.9996276,3.679492200000027,De Pinte ,"Private - For Staff, Visitors or Customers",2
+15895,Nieuwgoed,(Business Owner at Location),51.006073,3.697123,Zwijnaarde,"Private - For Staff, Visitors or Customers",2
+15894,Multigas,BeCharged,51.0868215247516,3.72550117270634,Gent ,Public,2
+15893,GB Evergem,Blue Corner (Belgium),51.1177658,3.7200444999999718,Evergem ,Public - Membership Required,1
+15892,Renault Valckenier,ThePluginCompany (Belgium),50.9370261988943,4.01528017100236,Aalst ,Public - Membership Required,2
+15891,EVA Aalst I,Blue Corner (Belgium),50.9371945102675,4.03508105355185,Aalst ,Public - Membership Required,1
+15890,Galileo Energy,(Unknown Operator),50.9101577,4.050786600000038,Erembodegem ,(Unknown),1
+15889,EVA Dendermonde,Blue Corner (Belgium),51.02909667822794,4.098989047885198,Dendermonde ,Public - Membership Required,2
+15875,EVA Sint-Niklaas I,Blue Corner (Belgium),51.161849081236255,4.139687457672153, Sint-Niklaas ,Public - Membership Required,2
+15874,EVA Sint-Niklaas II,Blue Corner (Belgium),51.16707818406478,4.137828586473461,Sint-Niklaas ,Public - Membership Required,2
+15873,Meubelen Jonckheere,(Business Owner at Location),51.1456008135006,4.1099891037743,Belsele,"Private - For Staff, Visitors or Customers",2
+15872,Waasland Shopping Center,(Private Residence/Individual),51.151926879100486,4.154241691333582,Sint-Niklaas ,Public,2
+15871,Hotel Scandic Antwerpen ,(Unknown Operator),51.209074,4.4459, Antwerpen,(Unknown),1
+15870,Radisson Blu Astrid Hotel ,(Unknown Operator),51.2189536,4.420737899999949,Antwerpen ,(Unknown),1
+15869,Stadsbestuur Antwerpen,(Unknown Operator),51.2058822,4.397778300000027,Antwerpen ,(Unknown),20
+15868,EVA Zwijndrecht,Blue Corner (Belgium),51.2158358751251,4.32776035092616,Zwijndrecht ,Public - Membership Required,2
+15864,Hotel & restaurant Otus,EV-Point,50.983973137549825,3.8445231362782195,Wetteren,Public,1
+15832,Frisomat,(Business Owner at Location),51.22092872634238,4.5495484856737844,Wijnegem,Private - Restricted Access,1
+15831,EVA Mortsel,Blue Corner (Belgium),51.168911050027674,4.4567558687172095,Mortsel ,Public - Membership Required,2
+15830,Parking Justitiepaleis,(Unknown Operator),51.20664,4.386934099999962,Antwerpen,Public - Pay At Location,1
+15829,EVA Edegem,Blue Corner (Belgium),51.1552416826516,4.44586798240312,Edegem ,Public,2
+15828,Alphabet Belgium Long Term Rental ,EVBox,51.148386,4.39662339999995,Aartselaar ,Public,2
+15803,EVA Mechelen I,Blue Corner (Belgium),51.0293527875458,4.48421359881138,Mechelen ,Public - Membership Required,2
+15801,Utopolis ,(Private Residence/Individual),51.0255889411122,4.49879709454694,Mechelen,"Private - For Staff, Visitors or Customers",1
+15800,Zimmertoren,Blue Corner (Belgium),51.12911209960515,4.569658646488165,Lier ,Public - Membership Required,2
+15799,Electrasun,(Unknown Operator),51.1648787,4.775850300000002,Grobbendonk ,(Unknown),1
+15798,EVA Heist op den Berg,Blue Corner (Belgium),51.0756744291086,4.71809963704834, Heist-op-den-Berg ,Public - Membership Required,2
+15797,"Vrijetijdscentrum ""de Mixx""",Blue Corner (Belgium),51.05986541052684,4.881494343280792,Herselt ,Public - Membership Required,2
+15796,EVA Geel 1,Blue Corner (Belgium),51.16168902344434,4.987119736176271,Geel ,Public - Membership Required,4
+15795,EVA Brecht,Blue Corner (Belgium),51.350525191700584,4.675336530094123,Brecht ,Public - Membership Required,2
+15794,Gasthuisstraat,Blue Corner (Belgium),51.3486422,4.636364500000013,Brecht,Public - Membership Required,1
+15486,Andenne ARENA,ZE-MO (Be),50.4889453,5.090982899999972,Andenne,Public,4
+15329,Kirchstrasse,ThePluginCompany (Belgium),50.71589969999999,6.013152900000023,Kelmis,(Unknown),3
+15328,Opel - Ets BOUNAMEAUX SA,ThePluginCompany (Belgium),50.6080816,5.5498963,Liège,(Unknown),1
+15327,Prayon Sa,ThePluginCompany (Belgium),50.577855,5.394737999999961,Engis,(Unknown),2
+15326,Sprimont,ThePluginCompany (Belgium),50.5058783,5.662875900000017,Sprimont,(Unknown),1
+15325,Surfaces Décorées SPRL (Battice),ThePluginCompany (Belgium),50.6452367,5.805022199999939,Battice,(Unknown),1
+15324,Nissan - SCHYNS MOTOR SPRL,ThePluginCompany (Belgium),50.57169039999999,5.825688600000035,WEGNEZ,(Unknown),2
+15323,Renault Integral Auto,ThePluginCompany (Belgium),50.24018407047299,5.344886031926186,Marche-en-Famenne,(Unknown),2
+15322,McDonald's Marche-en-Famenne,ThePluginCompany (Belgium),50.23236945983931,5.345106124877929,Marche-En Famenne,(Unknown),1
+15321,Euregio ,ThePluginCompany (Belgium),50.4236809,6.261177099999941,Buellingen,Public - Membership Required,1
+15320,AUTOHAUS JOST SPRL PGMBH,ThePluginCompany (Belgium),50.2923378,6.1167328000000225, ST-VITH,Public - Membership Required,1
+15318,Renault garage Robert Schmit,ThePluginCompany (Belgium),49.7029962,5.80588790000002,Arlon,Public - Membership Required,1
+15305,Toyota  Garage Van Dorpe NV (Oudenaarde),(Business Owner at Location),50.8557843,3.592534300000011,Oudenaarde,(Unknown),2
+15240,Lagrou NV,ThePluginCompany (Belgium),50.8589354,2.8697586000000683,Ieper,Private - Restricted Access,5
+15239,Total - Ruisbroek Noordwaarts,TotalEnergies (FR),50.777952,4.301594,Ruisbroek,Public - Pay At Location,2
+15238,Total - Ruisbroek Zuidwaarts,TotalEnergies (FR),50.778969,4.299853,Ruisbroek,Public - Pay At Location,2
+15230,"EastBelgium Action, Fun and Karting Center",Enovos,50.2331733,6.07973400000003, Burg Reuland ,(Unknown),2
+15207,Renault garage Coppenolle,(Unknown Operator),50.84903569999999,2.739954500000067,Poperinge,Privately Owned - Notice Required,1
+15206,EVA Poperinge,Blue Corner (Belgium),50.854759405268574,2.7265647387619074,Poperinge,Public - Membership Required,2
+15205,Advenso,(Unknown Operator),51.1806887,3.0888046999999688,Jabbeke,Privately Owned - Notice Required,1
+15204,EVA Knokke,Blue Corner (Belgium),51.35351125676694,3.29092035263979,Knokke-Heist,Public - Pay At Location,2
+15172,Van der Valk - Nivelles Sud,(Unknown Operator),50.5885567,4.3084834,Nivelles ,Public - Membership Required,1
+14806,'t Waaihof,(Private Residence/Individual),50.833847,3.256974000000014,Kortrijk,(Unknown),1
+14805,Ceratec,Bilinmiyor,50.7092871,2.89927739999996,Ploegsteert,"Private - For Staff, Visitors or Customers",2
+14804,Solar Future,Bilinmiyor,50.9715624,3.1593451999999616,Roeselare - Beveren,Public,2
+14803,Imagipark,Bilinmiyor,50.4694185,3.9352351999999655,Mons,(Unknown),1
+14802,Shopping Center Nivelles Sud ,Bilinmiyor,50.58885,4.309473000000025,Nivelles,Public,6
+13711,Nissan Belux,(Business Owner at Location),51.1244385,4.37234969999997,Aartselaar,Public,1
+13651,Universiteit Gent Rectoraat,Bilinmiyor,51.0477252,3.727190000000064,Gent,Public - Pay At Location,1
+13649,Parking Sint-Pietersplein,Bilinmiyor,51.0434305,3.726432599999953,Gent,Public - Pay At Location,1
+13648,Parking Reep,Bilinmiyor,51.0521942,3.729290600000013,Gent,Public - Pay At Location,1
+13647,Parking Ramen,Bilinmiyor,51.0552491,3.716474299999959,Gent,Public - Pay At Location,1
+13600,Aquasolar / Ecotrading,Bilinmiyor,51.14585539999999,5.001706000000013,Geel,Public,2
+13599,Selectra,Bilinmiyor,51.1257198,5.256983600000012,Leopoldsburg,(Unknown),1
+13598,Garage Peppino,(Unknown Operator),51.2326858,5.2976770000000215,Lommel,(Unknown),1
+13597,P&V Elektrotechniek,Bilinmiyor,50.992962,5.240838499999995,Heusden-Zolder,(Unknown),1
+13596,GreenVille ( ex Mijngebouw Houthalen),(Private Residence/Individual),51.025603588912546,5.372984806220993,Houthalen-Helchteren,Public,6
+13595,Peugeot Garage Vrolijkx,Bilinmiyor,51.1013696,5.446683200000052,Peer,(Unknown),1
+13594,Peugeot Garage Geebelen A.,Bilinmiyor,51.0193318,5.708796600000028,Dilsen,(Unknown),1
+13593,Garage Opel Hasselt,Bilinmiyor,50.941664,5.3209659999999985,Hasselt,(Unknown),1
+13592,Thonissenlaan,ThePluginCompany (Belgium),50.9318219,5.33376099999998,Hasselt,Public - Pay At Location,1
+13591,Dr Willemstraat,ThePluginCompany (Belgium),50.93154885912,5.33439253762049,Hasselt,Public - Pay At Location,1
+13590,Guffenlaan,ThePluginCompany (Belgium),50.9294464,5.34320330000003,Hasselt,Public - Pay At Location,1
+13589,KHLim,ChargePoint,50.9306962,5.39442229999997,Diepenbeek,(Unknown),3
+13588,Impermo Sint Truiden,Bilinmiyor,50.815311289484164,5.172006874591046,Sint-Truiden,"Private - For Staff, Visitors or Customers",2
+13587,Teconex,Bilinmiyor,50.6158047,5.668350000000032,Beyne Heusay,(Unknown),2
+13586,Inloc International,Bilinmiyor,50.7357136,4.588273999999956,Wavre,(Unknown),1
+13585,Voltis,(Unknown Operator),50.66537109999999,4.637232300000051,Louvain-La-Neuve,Public,1
+13584,kewlox,(Business Owner at Location),50.56829864291382,4.9031714208551875,Leuze ,"Private - For Staff, Visitors or Customers",1
+13583,Peugeot Garage Baudouin-Pierre Namur,Bilinmiyor,50.4310652,4.921481800000038,Naninne,(Unknown),1
+13582,Station Piragri,(Unknown Operator),50.4576654,5.106347199999959,Coutisse,(Unknown),1
+13581,Auberge de Faune ,Bilinmiyor,50.1249532,5.188153800000009,Han-Sur-Lesse,(Unknown),1
+13475,Holiday Inn Express Gent,(Unknown Operator),51.01963928827395,3.734671458721891,Gent,"Private - For Staff, Visitors or Customers",1
+13436,Bedrijven- en conferentiecentrum De Basis,Blue Corner (Belgium),51.1327318,4.86116390000007,Westerlo,Public - Membership Required,1
+13435,Lidl - Sint-Niklaas,Lidl,51.1663655625058,4.15275882831111,Sint-Niklaas,Public - Membership Required,2
+13434,Lidl - Mariakerke,Lidl,51.07454266331295,3.6810194835364785, Gent - Mariakerke,Public - Membership Required,2
+11891,Parking bij het Nerocafé,Blue Corner (Belgium),50.7676206,4.474426200000039,Hoeilaart,Public - Membership Required,1
+11890,MariënParking,Blue Corner (Belgium),50.7678735,4.475459600000022,Hoeilaart,Public - Membership Required,1
+11889,Parking Gemeentehuis,Blue Corner (Belgium),50.76594499999999,4.472900799999934,Hoeilaart,Public - Membership Required,2
+11872,EVA Leuven IV,Blue Corner (Belgium),50.8850400810067,4.71924467477426,Leuven,Public - Membership Required,2
+11870,EVA Leuven III,Blue Corner (Belgium),50.87960079006076,4.715529925345199,Leuven,Public - Membership Required,1
+11864,EVA De Haan,Blue Corner (Belgium),51.27938576645073,3.0337721527091777,De Haan,Public - Membership Required,2
+11808,Kalscheuer Mercedes-Benz,ThePluginCompany (Belgium),50.63717748,6.01295689,Eupen,Public - Membership Required,1
+11715,Renault garage Emocar SA,ThePluginCompany (Belgium),50.59535556861782,5.841269659818411,Petit Rechain,"Private - For Staff, Visitors or Customers",1
+11714,Wirtzfeld Valley Guest House,(Unknown Operator),50.4236809,6.261177099999941,Büllingen,Public - Pay At Location,1
+9803,Eva Brasschaat,Blue Corner (Belgium),51.3294281114779,4.52851527976223,Brasschaat,Public - Membership Required,2
+9799,Naeyaert Solar bvba,(Unknown Operator),51.2625922,3.205044100000009,Brugge,Private - Restricted Access,2
+9796,McDonald's Maasmechelen,(Unknown Operator),50.9847896,5.700528599999984,Maasmechelen,Public,1
+9503,Ikea Wilrijk,ThePluginCompany (Belgium),51.157236422552224,4.386468046974187,Wilrijk,Public - Pay At Location,5
+9501,Maurice Dequeeckerplein 2,ThePluginCompany (Belgium),51.218867121726994,4.460423882907416,Deurne,Public,1
+9500,Bist,ThePluginCompany (Belgium),51.1701126080905,4.39337833372952,Wilrijk,Public,1
+9499,Gijselsstraat,(Unknown Operator),51.215266304752475,4.444359930654173,Antwerp,Public - Membership Required,1
+9498,Uitbreidingstraat 476,Blue Corner (Belgium),51.2008627146613,4.43282422576022,Berchem,Public,3
+9497,Frederik Van Eedenplein 14,Blue Corner (Belgium),51.2215389331009,4.38596528465575,Antwerpen,Public,1
+9496,Prins Albertlei 26,ThePluginCompany (Belgium),51.1981821,4.41137279999998,Antwerpen,Public,1
+9275,Steenplein,ThePluginCompany (Belgium),51.222072438367,4.3968123283662,Antwerpen,Public - Pay At Location,1
+9274,Infrax,(Unknown Operator),51.1789825,4.36214799999993,Hoboken,Private - Restricted Access,1
+9269,Nissan Leo Peeters,Bilinmiyor,50.9251027,4.4475947999999335,Vilvoorde,Private - Restricted Access,1
+9267,Nissan Group Duyck,(Unknown Operator),50.75988460000001,4.251542800000038,Sint-Pieters-Leeuw,Public,1
+9252,Nissan Konen Lemaire Liège,(Unknown Operator),50.6552178,5.611849799999959,LIEGE,Private - Restricted Access,1
+9251,Nissan Garage De Witte,Bilinmiyor,51.2103062,4.138561799999934, Sint-Gillis-Waas,Private - Restricted Access,1
+9129,Mc Donalds Waterloo,Bilinmiyor,50.68969389999999,4.408348299999943,Waterloo,Public,1
+9128,Restaurant Patyntje,Bilinmiyor,51.0415487,3.6945205,Gent,Private - Restricted Access,1
+9127,Total Port de Bruxelles,Bilinmiyor,50.8674159,4.352278299999966,Brussel,Public,1
+9124,Nissan DEMEYERE N.V.,KiWhi Pass,51.334352,3.249482,Knokke-Heist,Privately Owned - Notice Required,1
+9123,VOKA Kempen,Bilinmiyor,51.163040045334,4.96353366812287,Geel,Public,1
+9108,Telcom NV,(Business Owner at Location),51.08589022622734,4.810856988885462,Hulshout,Privately Owned - Notice Required,2
+9107,Brico Mechelen-Noord,(Private Residence/Individual),51.0360127,4.47325879999994,Mechelen,Privately Owned - Notice Required,1
+9106,Delhaize Zellik,(Private Residence/Individual),50.8946689,4.252183999999943,Zellik,Privately Owned - Notice Required,1
+9105,Zelfbouwmarkt Ninove,(Private Residence/Individual),50.8437163,4.0320429999999305,Ninove,Privately Owned - Notice Required,1
+9103,PARKING ‘Grote Markt’,(Unknown Operator),51.13128942223986,4.567796587944031,Lier,Public - Membership Required,1
+9102,ThePluginCompany,ThePluginCompany (Belgium),51.1340908,4.47078269999997,Kontich,Public - Membership Required,1
+9101,Mitsubishi Belgium,(Unknown Operator),51.1433141,4.437147699999969,Kontich,Privately Owned - Notice Required,1
+9099,Parking Achterweidestraat,(Unknown Operator),51.0972405,4.231345499999975,Bornem,Private - Restricted Access,1
+9098,IDETA,(Unknown Operator),50.62115,3.3501400000000103,Froyennes,Privately Owned - Notice Required,2
+9097,Eandis,(Unknown Operator),51.00847900000001,3.7935019999999895,Melle,Private - Restricted Access,10
+9096,Crivaco,(Private Residence/Individual),51.0971692,3.639294100000029,Lovendegem,Privately Owned - Notice Required,1
+9095,Enfinity,(Unknown Operator),50.87580699999999,3.420948400000043,Waregem,Private - Restricted Access,1
+9094,Elexys,(Unknown Operator),50.8491452,3.269597200000021,Kuurne,Privately Owned - Notice Required,5
+9093,Ecostream,(Unknown Operator),51.1919604,3.4340687999999773,Maldegem,Privately Owned - Notice Required,1
+9092,Greenbridge Incubator,(Unknown Operator),51.2170298,2.9946674999999914,Oostende,Privately Owned - Notice Required,1
+9083,CIAC-Toyota,(Unknown Operator),51.0376201,3.7486436000000367,Gentbrugge,Private - Restricted Access,1
+9082,CIAC Sint Amandsberg,Blue Corner (Belgium),51.0708977695468,3.77075008890279,Sint Amandsberg,Public - Membership Required,1
+9081,CIAC - Aalst,(Unknown Operator),50.9500432,4.038211000000047,Aalst,Private - Restricted Access,1
+9080,Ecomobiel,(Private Residence/Individual),51.19984884119746,4.407115745717545,Antwerpen,Private - Restricted Access,1
+9079,Electric drive,(Unknown Operator),51.19518410000001,4.4133617999999615,Berchem,Privately Owned - Notice Required,1
+8987,Toyota Garage Van Dijck Jos BVBA,Blue Corner (Belgium),51.35467950641386,4.637128784655702,Brecht,Privately Owned - Notice Required,2
+8723,McDonald's Turnhout,ChargePoint,51.3121889290549,4.95105535980224,Turnhout,Public,0
+7661,McDonald's Froyennes,ThePluginCompany (Belgium),50.6260851,3.36742419999996,Tournai,Public,1
+7660,McDonald's Burcht,ThePluginCompany (Belgium),51.2081699148708,4.338471042915,Zwijndrecht,Public,1
+7659,CIAC-Gent,(Unknown Operator),51.0499732,3.7028973999999835,Gent,Private - Restricted Access,1
+7658,EVA Blankenberge,Blue Corner (Belgium),51.3135829,3.13275109999995,Blankenberge,Public - Membership Required,1
+7657,Interparking Minigolf,(Unknown Operator),51.3550046,3.304771800000026,Knokke-Heist,Public - Pay At Location,2
+7656,Interparking Stéphanie - Louise (Wiltchers) ,Bilinmiyor,50.8320816,4.358631000000059,Brussels,Public,1
+7655,Interparking Sablon-Poelaert ,Bilinmiyor,50.8373217,4.352584100000058,Brussels,Public,1
+7654,Interparking Grand Place,ZenCar,50.8466448,4.35543150000001,Brussels,Public,1
+7653,Interparking Rogier,Bilinmiyor,50.8554027,4.357945800000039,Brussels,Public,1
+7652,Interparking Ijzerpark,(Unknown Operator),51.3501662,3.28934490000006,Knokke-Heist,Public - Pay At Location,3
+7051,Parking Quellin,Bilinmiyor,51.2157725,4.41599810000002,Antwerpen,Public,40
+7020,Parking Nationale Bank,ThePluginCompany (Belgium),51.2115108,4.40794830000004,Antwerpen ,Public - Membership Required,1
+7019,Zeeparking,(Unknown Operator),51.2288191,2.91627100000005,Oostende,Public - Pay At Location,1
+7018,Parking Grote Markt,(Unknown Operator),51.0280905,4.479812799999991,Mechelen,Public - Pay At Location,1
+6653,Total Jambes,Allego BV,50.4636271828105,4.88752126693726,Jambes,Public - Pay At Location,1
+6652,Total Bonaparte,Allego BV,51.230086432531,4.40260513442809,Antwerpen,Public,1
+6651,Total Vilvoorde,Bilinmiyor,50.9188227,4.425189000000046,Vilvoorde,Public - Pay At Location,1
+6650,Total Orban,Allego BV,50.8379917,4.46362060000001,Sint-Pieters- Woluwe,Public - Pay At Location,1
+6649,Total Haren,(Unknown Operator),50.882374,4.417120100000034,Haren,Public - Pay At Location,1
+6648,Total Anderlecht,Bilinmiyor,50.8160043,4.304022900000064,Anderlecht,Public - Pay At Location,1
+6647,Total Westland,Allego BV,50.8379935,4.28513069999997,Anderlecht,Public - Pay At Location,1
+6646,Total Cerisiers,Allego BV,50.8482602,4.408379800000034,Schaarbeek,Public - Pay At Location,1
+6645,Total Cambre,(Unknown Operator),50.804246,4.372365599999966,Brussel,Public - Pay At Location,1
+6643,Total Pacheco,Bilinmiyor,50.85151399999999,4.362297799999965,Brussel,Public - Pay At Location,1

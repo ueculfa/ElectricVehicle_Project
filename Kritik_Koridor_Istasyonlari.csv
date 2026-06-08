@@ -1,0 +1,757 @@
+﻿OCM_ID,Istasyon_Adi,Operator,Enlem,Boylam,Sehir,Kullanim_Tipi,Priz_Sayisi
+487418,Canan Residence,En Yakıt (TR),40.99869082461231,29.142761790436,Ümraniye,Public - Membership Required,1
+485657,Nermin Hanım EnYakıt,En Yakıt (TR),39.55544868685951,27.112779285715646,Havran,Public - Membership Required,1
+485137,Burgaz İnci ,Toger (TR),41.079336,28.729074,Istanbul,Public - Membership Required,0
+484873,Burgaz Çarşı 2,Toger (TR),41.085199,28.725077,Istanbul,Public - Membership Required,0
+481193,"Közkanat, Çekmeköy - DC",Otopriz (Türkiye),41.0440934640873,29.177412718762252,İstanbul,Public - Membership Required,0
+481190,"Evada Sitesi, Maltepe - AC 2",Otopriz (Türkiye),40.922,29.1508,İstanbul,Public - Membership Required,0
+481185,"Mia Suits Sitesi, Bornova AC 2",Otopriz (Türkiye),38.4551596008511,27.203154237515346,İzmir,Public - Membership Required,0
+481184,"İzmir Bölge Adliyesi, Konak - AC 1",Otopriz (Türkiye),38.4442030691658,27.178690187275954,İzmir,Public - Membership Required,0
+481183,"Goldiva Kuzey Sitesi, Bornova AC 4",Otopriz (Türkiye),38.44353413809294,27.198775339364737,İzmir,Public - Membership Required,0
+481169,Hayat Park Kayaşehir,Toger (TR),41.104145,28.785898,Istanbul,Public - Membership Required,0
+481168,Bahçekent Tual 4,Toger (TR),41.092845,28.653621,Istanbul,Public - Membership Required,0
+481167,Hilton Hotel Altunizade ,Toger (TR),41.024956,29.042675,Istanbul,Public - Membership Required,0
+481166,Doğapark Suadiye,Toger (TR),40.964904,29.081798,Istanbul,Public - Membership Required,0
+478007,"Kireçport Otopark, Sarıyer - DC",Otopriz (Türkiye),41.14803051476599,29.04809394259133,İstanbul,Public - Membership Required,0
+478006,"Engin Kent Konutları, Silivri - AC 4",Otopriz (Türkiye),41.081123787421305,28.24653572883572,İstanbul,Public - Membership Required,0
+478004,"Buket Sitesi, Ataşehir - AC 1",Otopriz (Türkiye),40.98565545068492,29.124846167222053,İstanbul,Public - Membership Required,0
+478003,"Akgünler Otomotiv, İzmit - DC",Otopriz (Türkiye),40.743476593297984,29.944695448033155,Kocaeli,Public - Membership Required,0
+478002,"Grand Termal Otel, Yalova - AC",Otopriz (Türkiye),40.619103,29.188855,Yalova,Public - Membership Required,0
+477996,"Güre Termal Resort, Edremit - DC",Otopriz (Türkiye),39.58922021667605,26.886495976476564,Balıkesir,Public - Membership Required,0
+477993,"Yücesoy Kuzeyşehir Sitesi, Menemen - AC 1",Otopriz (Türkiye),38.59640607159172,27.064870087551167,İzmir,Public - Membership Required,0
+477991,"Folkart Incity, Bornova - DC",Otopriz (Türkiye),38.44739228707414,27.18707502394069,İzmir,Public - Membership Required,0
+477990,"İzmir Bölge Adliyesi, Konak - AC 2",Otopriz (Türkiye),38.443448718748456,27.17871443419286,İzmir,Public - Membership Required,0
+477989,"Varyant Tower Çamdibi, Bornova - AC",Otopriz (Türkiye),38.44228933354344,27.19700293654445,İzmir,Public - Membership Required,0
+477988,"EMOT Hastanesi, Konak - AC 5",Otopriz (Türkiye),38.42581963599871,27.15106463599068,İzmir,Public - Membership Required,0
+477987,"Hanbağı Et, Buca - DC",Otopriz (Türkiye),38.35668722244589,27.26177259621107,İzmir,Public - Membership Required,0
+477986,"Sintaç Depoları, Menderes - DC 1",Otopriz (Türkiye),38.274682587260365,27.15103858357205,İzmir,Public - Membership Required,0
+477974,Uyum Sitesi,Toger (TR),41.18879,29.046173,Istanbul,Public - Membership Required,0
+477973,Kayaşehir 12.bölge 2.kısım,Toger (TR),41.138467,28.787407,Istanbul,Public - Membership Required,0
+477972,Metrokent - Imam-i Azam Camii,Toger (TR),41.109842,28.80352,Istanbul,Public - Membership Required,0
+477971,Emirgan Sitesi,Toger (TR),41.101478,28.803613,Istanbul,Public - Membership Required,0
+477970,Kayaşehir 6.bölge,Toger (TR),41.100218,28.760969,Istanbul,Public - Membership Required,0
+477969,Boğaziçi Loft,Toger (TR),41.096117,28.972195,Istanbul,Public - Membership Required,0
+477968,Bahçekent Flora,Toger (TR),41.09445,28.64593,Istanbul,Public - Membership Required,0
+477967,Hayat Park Olimpiyat,Toger (TR),41.088024,28.771092,Istanbul,Public - Membership Required,0
+477966,Avant Prestige,Toger (TR),41.052628,28.796826,Istanbul,Public - Membership Required,0
+477233,ZES - Torbalı Kipa ,ZES,38.182656286043255,27.35074888990482,Torbalı,Public - Membership Required,2
+477226,Otopriz - Sintaç Depoları Menderes,Otopriz (Türkiye),38.27524248639341,27.15069325365664,Menderes,Public - Membership Required,4
+477223,ZES - RS OTOMOTİV BOCH CAR SERVİCE GAZİEMİR ,ZES,38.30873022249824,27.142815069316043,Gaziemir,Public - Membership Required,1
+477222,5 Şarj - Borusan Next Özgörkey ,5 Şarj (TR),38.316994840490935,27.140557486454327,Gaziemir,Public - Membership Required,4
+477220,ZES - Hakcan Otel,ZES,38.32709667542719,27.136119550163016,Gaziemir,Public - Membership Required,2
+477219,Eşarj - Volcar Otomotiv ,Eşarj (TR),38.33977460854104,27.134038559355982,Gaziemir,Public - Membership Required,2
+477218,ZES - Ertekler Otomotiv ,ZES,38.35482031036045,27.133402208093685,Gaziemir,Public - Membership Required,2
+477216,wat mobilite - Bizim Toptan İzmir ,WAT Mobilite,38.36119339214784,27.13673134844032,Gaziemir,Public - Membership Required,1
+476134,Oncharge - KMO Sevindikli - Ankara Yönü ,OnCharge (TR),40.88845724762331,29.71199413117085,Körfez,Public - Membership Required,4
+476133,Oncharge - KMO Sevindikli - İstanbul Yönü ,OnCharge (TR),40.88986158133264,29.71166497157037,Körfez,Public - Membership Required,4
+476131,Trugo - KMO Sevindikli - Ankara Yönü ,Trugo (TR),40.88921294373057,29.708960139034843,Körfez,Public - Membership Required,2
+476130,Trugo - KMO Sevindikli - İstanbul Yönü,Trugo (TR),40.89007942513936,29.714200444216885,Körfez,Public - Membership Required,2
+476124,Trugo - Şile ,Trugo (TR),41.16772202843024,29.605738936247576,Şile,Public - Membership Required,2
+476079,5 Şarj - PO Gaziemir,5 Şarj (TR),38.3575275740549,27.134923453011083,Gaziemir,Public - Membership Required,2
+476061,Eşarj - Aytemiz Bilecik ,Eşarj (TR),40.161886852443104,29.97762101743649,,Public - Membership Required,2
+476060,wat mobilite - Hürriyet OSB 1,WAT Mobilite,40.168519916120175,29.978356902202563,,Public - Membership Required,2
+476057,ASTORSARJ - AKAY,Astor Şarj (TR),39.56182038183815,29.460935090154862,Tavşanlı,Public - Membership Required,2
+476051,Otojet - Total Çan ,Otojet,40.03114318362162,27.060901514264746,,Public - Membership Required,2
+476050,Lumicle - Çan Miraplar ,Lumicle (TR),40.03732192629752,27.075244491860303,Çan,Public - Membership Required,1
+476049,Eşarj - Mezre Süt,Eşarj (TR),39.93507976107827,27.262665341207367,Yenice,Public - Membership Required,2
+476047,Lumicle - Balıkesir - Gönen ,Lumicle (TR),40.115285388956295,27.660435787470306,Gönen,Public - Membership Required,2
+476044,5 Şarj - PO Saruhanlı ,5 Şarj (TR),38.74103414325148,27.604484321844097,Saruhanlı,Public - Membership Required,2
+476043,Trugo - Shell Akhisar OSB,Trugo (TR),38.88422440165781,27.76097030421579,Akhisar,Public - Membership Required,2
+476042,ZES - O289 - İstanbul Yönü ,ZES,39.18078709806738,27.67818771557893,Soma,Public - Membership Required,1
+476041,ZES - O289 - İzmir Yönü ,ZES,39.18031452656695,27.67647743976022,Soma,Public - Membership Required,1
+476040,ZES - O266 - İstanbul Yönü ,ZES,39.350412056783824,27.628889985413025,Savaştepe,Public - Membership Required,2
+476039,ZES - O266 - İzmir Yönü ,ZES,39.34732951671731,27.6268233084146,Savaştepe,Public - Membership Required,2
+476037,5 Şarj - O228 - İstanbul Yönü ,5 Şarj (TR),39.65466600813863,27.730012220471394,Karesi,Public - Membership Required,4
+476036,Trugo - O228 - İstanbul Yönü ,Trugo (TR),39.65482679340983,27.730145515864933,Karesi,Public - Membership Required,4
+476033,Otojet - O228 - İstanbul Yönü ,Otojet,39.65522106477317,27.730622746996687,Karesi,Public - Membership Required,8
+476032,Lumicle - O228 - İstanbul Yönü ,Lumicle (TR),39.655318464521,27.7304181717858,Karesi,Public - Membership Required,4
+476031,5 Şarj - O228 - İzmir Yönü ,5 Şarj (TR),39.65468203512936,27.729395844387227,Karesi,Public - Membership Required,4
+476030,ZES - O228 - İzmir Yönü ,ZES,39.65488961942975,27.72906068263876,Karesi,Public - Membership Required,6
+476029,Lumicle - O228 - İzmir Yönü,Lumicle (TR),39.6549832790094,27.72951526115901,Karesi,Public - Membership Required,4
+476028,Otojet - O228 - İzmir Yönü ,Otojet,39.655645557698136,27.729270937333126,Karesi,Public - Membership Required,8
+476027,Trugo - O228 - İzmir Yönü,Trugo (TR),39.65577345606289,27.729413880116454,Karesi,Public - Membership Required,4
+476025,wat mobilite - O204 İstanbul Yönü ,WAT Mobilite,39.75599428554614,27.961818392041778,Karesi,Public - Membership Required,4
+476024,Tesla SC - O204 - İstanbul Yönü,Tesla (including non-tesla),39.75636013750446,27.960188422542277,Karesi,Public - Membership Required,8
+476023,Lumicle - O204 - İstanbul Yönü ,Lumicle (TR),39.75637869758805,27.96090895504585,Karesi,Public - Membership Required,4
+476021,Trugo - O204 - İstanbul Yönü ,Trugo (TR),39.75603529692828,27.96144598004412,Karesi,Public - Membership Required,8
+476020,ASTORSARJ  - O204 - İstanbul Yönü ,Astor Şarj (TR),39.75581918471252,27.962733432332698,Karesi,Public - Membership Required,2
+476019,Trugo - O204 - İzmir Yönü ,Trugo (TR),39.75759774630709,27.96047939467735,Karesi,Public - Membership Required,8
+476018,wat mobilite - O204 - İzmir Yönü ,WAT Mobilite,39.75788401763046,27.96107352406761,Karesi,Public - Membership Required,4
+476017,ASTORSARJ - O204 - İzmir Yönü ,Astor Şarj (TR),39.75783962867246,27.96140133041399,Karesi,Public - Membership Required,2
+476016,Lumicle - O204 - İzmir Yönü ,Lumicle (TR),39.75757682735545,27.96288058774712,Karesi,Public - Membership Required,4
+476015,Eşarj - Tellioğlu DT ,Eşarj (TR),39.74961810900692,27.999876696786373,Karesi,Public - Membership Required,4
+476014,ZES - Tellioğlu DT,ZES,39.74946431222796,27.99986650819119,Karesi,Public - Membership Required,8
+476013,Voltrun - Tellioğlu DT ,Voltrun,39.75029309209236,28.001114395831564,Karesi,Public - Membership Required,4
+476012,En YAKIT - Tellioğlu DT ,En Yakıt (TR),39.7499602090148,28.000760161665312,Karesi,Public - Membership Required,2
+476010,GIOev - Festiva Outlet Susurluk,GioEV (TR),39.84343924617738,28.14421112180241,,Public - Membership Required,2
+476009,ASTORSARJ - Susurluk Metro Tesisi,Astor Şarj (TR),39.93648499933917,28.160868566578078,Susurluk,Public - Membership Required,4
+476007,Eşarj - O178 - İstanbul Yönü,Eşarj (TR),39.92328073181619,28.134046442916087,Susurluk,Public - Membership Required,2
+476006,5 Şarj - O178 - İstanbul Yönü,5 Şarj (TR),39.92305280354387,28.133323392187435,Susurluk,Public - Membership Required,4
+476005,Lumicle - O178 - İstanbul Yönü ,Lumicle (TR),39.92268619447808,28.13378334288234,Susurluk,Public - Membership Required,4
+476002,5 Şarj - 0178 - İzmir Yönü ,5 Şarj (TR),39.92292139119979,28.131653708844283,Susurluk,Public - Membership Required,4
+476001,Lumicle - O178 - İzmir Yönü ,Lumicle (TR),39.92348944404071,28.13199460234057,Susurluk,Public - Membership Required,4
+476000,Eşarj - O178 - İzmir Yönü ,Eşarj (TR),39.92321892475138,28.13219285318337,Susurluk,Public - Membership Required,2
+475999,ASTORSARJ - O167 - İstanbul Yönü ,Astor Şarj (TR),40.03944232948388,28.220427730909023,Mustafakemalpaşa,Public - Membership Required,4
+475998,Lumicle - O167 - İstanbul Yönü ,Lumicle (TR),40.04027377293141,28.220529392747157,Mustafakemalpaşa,Public - Membership Required,4
+475997,Shell Recharge - O167 - İstanbul Yönü ,Shell Recharge (TR),40.0419149906086,28.222912594488093,Mustafakemalpaşa,Public - Membership Required,4
+475996,ASTORSARJ - O167 - İzmir Yönü ,Astor Şarj (TR),40.04214866929581,28.220071878379255,Mustafakemalpaşa,Public - Membership Required,4
+475995,ZES - O167 - İzmir Yönü ,ZES,40.04056644501824,28.218246112455176,Mustafakemalpaşa,Public - Membership Required,8
+475994,Shell Recharge - O167 - İzmir Yönü ,Shell Recharge (TR),40.039651637056096,28.21793220376378,Mustafakemalpaşa,Public - Membership Required,4
+475991,5 Şarj - PO ,5 Şarj (TR),40.03017215202036,28.336795107808484,,Public - Membership Required,2
+475990,Şarjon - Karacabey,Şarjon (TR),40.16738874225106,28.354488352652535,Karacabey,Public - Membership Required,5
+475989,Trugo - Karacabey ,Trugo (TR),40.20515067651294,28.34964969339092,Karacabey,Public - Membership Required,6
+475987,Otojet - Bursa Total ,Otojet,40.22444855149666,28.456704864658377,,Public - Membership Required,2
+475986,Eşarj - O135 - İzmir Yönü ,Eşarj (TR),40.25296637342146,28.451352550017305,,Public - Membership Required,2
+475985,ASTORSARJ - O135 - İzmir Yönü ,Astor Şarj (TR),40.25239904274477,28.451953403342827,Karacabey,Public - Membership Required,2
+475984,Trugo - O135 - İzmir Yönü ,Trugo (TR),40.25221779517295,28.453120532225057,Karacabey,Public - Membership Required,8
+475983,Eşarj - O135 - İstanbul Yönü ,Eşarj (TR),40.25112319052744,28.456835704803552,Karacabey,Public - Membership Required,2
+475982,ASTORSARJ - O135 - İstanbul Yönü ,Astor Şarj (TR),40.25016852659354,28.453683133716595,Karacabey,Public - Membership Required,2
+475981,Trugo - O135 - İstanbul Yönü ,Trugo (TR),40.25011028857071,28.45251721254374,Karacabey,Public - Membership Required,8
+475980,5 Şarj - PO ,5 Şarj (TR),40.231403397077656,28.517737558550493,Karacabey,Public - Membership Required,2
+475979,ZES - Minteks Cafe & Restaurant ,ZES,40.22375153800292,28.77777212358092,,Public - Membership Required,8
+475978,Trugo - O107 - İzmir Yönü ,Trugo (TR),40.23277923223054,28.781654959198814,Nilüfer,Public - Membership Required,4
+475977,Trugo - O107 - İstanbul Yönü,Trugo (TR),40.23308210880822,28.78057648753338,Nilüfer,Public - Membership Required,4
+475976,Eşarj - Özel Medar Hastanesi ,Eşarj (TR),40.705935654767416,29.848349507889225,,Public - Membership Required,4
+475975,5 Şarj - PO Gölcük ,5 Şarj (TR),40.7067885895828,29.84916920124465,Gölcük,Public - Membership Required,4
+475974,Eşarj - Aytemiz,Eşarj (TR),40.705778037192175,29.872481269991795,Gölcük,Public - Membership Required,2
+475973,wat mobilite - Opet ,WAT Mobilite,40.71174090754272,29.8900788386884,Başiskele,Public - Membership Required,2
+475971,Trugo - Shell Ilıcadere ,Trugo (TR),40.70636813712085,29.878885477029144,Başiskele,Public - Membership Required,2
+475970,ZES - O14 - İstanbul Yönü ,ZES,40.68280463030448,29.468890516559668,Altınova,Public - Membership Required,8
+475969,Trugo - O14 - İzmir Yönü ,Trugo (TR),40.68317223175114,29.46722672716851,Altınova,Public - Membership Required,4
+475968,Lumicle - O14 - İzmir Yönü ,Lumicle (TR),40.68421847698295,29.468307191683493,Altınova,Public - Membership Required,4
+475967,ZES - O14 - İzmir Yönü,ZES,40.68486089909376,29.46918358046139,Altınova,Public - Membership Required,8
+475966,wat mobilite - O37 - İstanbul Yönü,WAT Mobilite,40.5237299954982,29.34377127203265,Orhangazi,Public - Membership Required,4
+475965,ASTORSARJ - O37 - İstanbul Yönü ,Astor Şarj (TR),40.52370666414578,29.34392391248093,Orhangazi,Public - Membership Required,4
+475964,Eşarj - O37 - İstanbul Yönü ,Eşarj (TR),40.52389451950208,29.34373251819386,Orhangazi,Public - Membership Required,4
+475963,5 Şarj - O37 - İstanbul Yönü,5 Şarj (TR),40.52389043445089,29.34387296039995,Orhangazi,Public - Membership Required,4
+475962,Otojet - O37 - İstanbul Yönü - TotalEnergies,Otojet,40.5270528967491,29.34346858188792,Orhangazi,Public - Membership Required,2
+475961,Otojet - O37 - İzmir Yönü - TotalEnergies,Otojet,40.52720202759178,29.341680702530997,,Public - Membership Required,2
+475960,5 Şarj - O37 - İzmir Yönü ,5 Şarj (TR),40.52507952097946,29.341642789551543,,Public - Membership Required,4
+475959,ASTORSARJ - O37 - İzmir Yönü,Astor Şarj (TR),40.52530760458197,29.341252988413657,,Public - Membership Required,4
+475958,Eşarj - O37 - İzmir Yönü ,Eşarj (TR),40.52681141035433,29.341919096026917,,Public - Membership Required,4
+475957,wat mobilite - O37 - İzmir Yönü ,WAT Mobilite,40.52721654796974,29.34193245743711,,Public - Membership Required,4
+475955,Shell Recharge - O68 - İstanbul Yönü ,Shell Recharge (TR),40.39025678581288,29.14214164826876,,Public - Membership Required,4
+475954,Shell Recharge - O68 - İzmir Yönü ,Shell Recharge (TR),40.388320589780704,29.13880950291025,,Public - Membership Required,4
+475952,ZES - O68 - İzmir Yönü,ZES,40.38959432735842,29.139949611187035,Gemlik,Public - Membership Required,8
+475951,Lumicle - O68 - İzmir Yönü,Lumicle (TR),40.38937982377479,29.13989776307392,Gemlik,Public - Membership Required,4
+475950,ZES - O86 - İstanbul Yönü ,ZES,40.282031053799386,28.996405311637773,,Public - Membership Required,4
+475949,Trugo - O86 - İstanbul Yönü,Trugo (TR),40.28188082657076,28.99623712378332,,Public - Membership Required,8
+475948,ASTORSARJ - O86 - İstanbul Yönü,Astor Şarj (TR),40.28105683398715,28.99508965323548,,Public - Membership Required,2
+475947,Lumicle - O86 - İstanbul Yönü,Lumicle (TR),40.281696433652286,28.99590093777158,,Public - Membership Required,4
+475946,ASTORSARJ - O86 - İZMİR YÖNÜ,Astor Şarj (TR),40.28191987491138,28.994478262853136,Osmangazi,Public - Membership Required,2
+475945,Trugo - O86 - İzmir Yönü,Trugo (TR),40.2824351800958,28.99485909687553,,Public - Membership Required,8
+475944,Lumicle - O86 - İzmir Yönü,Lumicle (TR),40.28205840353766,28.99496048016817,,Public - Membership Required,4
+475910,Tesla SC - O320 - İstanbul Yönü ,Tesla (including non-tesla),38.92762859709973,27.70316353629005,,Public - Membership Required,8
+475909,Tesla SC - O320 - İzmir Yönü ,Tesla (including non-tesla),38.93015855350936,27.703409609675877,,Public - Membership Required,8
+475069,Shell Selçuk OHT Batı,Shell Recharge (TR),38.069954779374825,27.409965181836355,,Public - Membership Required,4
+475068,Shell Selçuk OHT Doğu,Shell Recharge (TR),38.07003562489933,27.41226160514043,,Public - Membership Required,4
+471605,En Yakıt - Myway 202 ,En Yakıt (TR),38.44566271102494,27.22448737324862,,Public - Membership Required,2
+471600,wat mobilite - Park Bornova Avm ,WAT Mobilite,38.45724738905406,27.247457664405715,,Public - Membership Required,8
+471598,Sharz.net - Kipa ,Sharz.Net,38.458623410761305,27.23876875489896,,Public - Membership Required,1
+471595,ŞarjOn - Migros Evka 3 ,Şarjon (TR),38.46602378305764,27.244290910181576,,Public - Membership Required,2
+471594,Trugo - Shell Erzene,Trugo (TR),38.48250828952993,27.24327626431534,,Public - Membership Required,4
+471593,ASTORŞARJ - Hasköy Bornova,Astor Şarj (TR),38.47215749921793,27.217108781251568,,Public - Membership Required,2
+471538,Tekirdağ Tesla Supercharger,Tesla (including non-tesla),40.98880555703724,27.57719007695141,Süleymanpaşa,Public - Membership Required,8
+470708,Adal Gross Market ,En Yakıt (TR),38.54207850175408,28.6348836303157,Kula,Public - Membership Required,2
+470505,Usak Sanayii Wat Mobilite,WAT Mobilite,38.677097485578685,29.217387690905383,Merkez,Public - Membership Required,2
+470503,Usak Sanayii Trugo,Trugo (TR),38.67669658297447,29.21733829831101,Merkez,Public - Membership Required,2
+469605,"Alemdağ Emlak Konutları, Çekmeköy - AC 6",Otopriz (Türkiye),41.04167410691223,29.27021711090351,İstanbul,Public - Membership Required,0
+469604,SCHNEIDER TEST,Otopriz (Türkiye),41.01795160004005,29.05532938271584,İstanbul,Public - Membership Required,0
+469592,Piramit Çarşı Avm Cep Otoparkı,Toger (TR),41.10816,28.810156,Istanbul,Public - Membership Required,0
+469360,Shell Gediz,Trugo (TR),39.00852324276198,29.407846741014623,Gediz,Public - Membership Required,1
+464197,Medyakent Sitesi,Toger (TR),41.19603,29.050586,Istanbul,Public - Membership Required,0
+464196,Birbahçe Sitesi,Toger (TR),41.126274,28.760916,Istanbul,Public - Membership Required,0
+464195,Başakşehir Kent Meydanı - Merkez Camii,Toger (TR),41.121675004424624,28.77304709862403,Istanbul,Public - Membership Required,0
+464194,Tarabya Sitesi,Toger (TR),41.099902,28.802115,Istanbul,Public - Membership Required,0
+464193,Başakkent Gölet Konutları Sitesi,Toger (TR),41.09593,28.665963,Istanbul,Public - Membership Required,0
+464192,Spradon Kuleler Bahçeşehir,Toger (TR),41.076289,28.683787,Istanbul,Public - Membership Required,0
+464191,Ispartakule Banu Evleri 2. Bölge,Toger (TR),41.074098,28.717968,Istanbul,Public - Membership Required,0
+464190,Bahçeşehir Gölet Parki Dc,Toger (TR),41.064016,28.697409,Istanbul,Public - Membership Required,0
+464189,Home Aves Güneşli,Toger (TR),41.038911,28.819259,Istanbul,Public - Membership Required,0
+464188,3.matbaacılar Sitesi,Toger (TR),41.004111,28.675972,Istanbul,Public - Membership Required,0
+464187,Kocaeli Derince 1453 Elektrik,Toger (TR),40.7569137,29.824059,Istanbul,Public - Membership Required,0
+463981,AsPower Test 3,Otopriz (Türkiye),41.1997162,28.7065446,İstanbul,Public - Membership Required,0
+463980,"Hadımköy 4.Etap Toplu Konutları, Arnavutköy - AC 1",Otopriz (Türkiye),41.18176135989493,28.61053896353964,İstanbul,Public - Membership Required,0
+463979,"Hadımköy 2.Etap Toplu Konutları, Arnavutköy - AC 3",Otopriz (Türkiye),41.17978476521898,28.612557088123037,İstanbul,Public - Membership Required,0
+463978,"Hadımköy 2.Etap Toplu Konutları, Arnavutköy - AC 1",Otopriz (Türkiye),41.17812751811413,28.6107484345323,İstanbul,Public - Membership Required,0
+463977,"Aras Residence Apartmanı, Eyüpsultan - AC 1",Otopriz (Türkiye),41.1589633769623,28.912248862064,İstanbul,Public - Membership Required,0
+463971,"Vega AVM, Sultangazi - DC",Otopriz (Türkiye),41.093274031257,28.902311314429912,İstanbul,Public - Membership Required,0
+463969,"Focus Eyüp, Eyüpsultan - AC 2",Otopriz (Türkiye),41.08394095523886,28.93956745092536,İstanbul,Public - Membership Required,0
+463968,"Ömerli Çarşı, Çekmeköy - DC 2",Otopriz (Türkiye),41.08293986960248,29.330316203888973,İstanbul,Public - Membership Required,0
+463967,"Vega Maxi AVM, Silivri - DC",Otopriz (Türkiye),41.0825125,28.2039219,İstanbul,Public - Membership Required,0
+463966,"Brand Vadi, Büyükçekmece - DC",Otopriz (Türkiye),41.0795,28.6006,İstanbul,Public - Membership Required,0
+463965,"Vega AVM, Silivri - DC",Otopriz (Türkiye),41.0776375,28.2516406,İstanbul,Public - Membership Required,0
+463964,"Basın Konut Sitesi, Silivri - AC 2",Otopriz (Türkiye),41.07101473603039,28.13588320674643,İstanbul,Public - Membership Required,0
+463963,"Özyurtlar Ntepe Evleri, Esenyurt - DC 1",Otopriz (Türkiye),41.06508526594378,28.67105191417809,İstanbul,Public - Membership Required,0
+463962,"Autogross, Bağcılar - AC 4",Otopriz (Türkiye),41.06245883091239,28.829598383803557,İstanbul,Public - Membership Required,0
+463961,"Tepekent Villaları, Büyükçekmece - DC",Otopriz (Türkiye),41.0506875,28.5157969,İstanbul,Public - Membership Required,0
+463959,"Alemdağ Emlak Konutları, Çekmeköy - AC 1",Otopriz (Türkiye),41.0437703900823,29.26918962024926,İstanbul,Public - Membership Required,0
+463958,"Alemdağ Emlak Konutları, Çekmeköy - AC 3",Otopriz (Türkiye),41.043575850309566,29.268552359936717,İstanbul,Public - Membership Required,0
+463957,"Alemdağ Emlak Konutları, Çekmeköy - AC 8",Otopriz (Türkiye),41.04356693560933,29.27052533060428,İstanbul,Public - Membership Required,0
+463956,"Alemdağ Emlak Konutları, Çekmeköy - AC 4",Otopriz (Türkiye),41.043238045596816,29.268252985861213,İstanbul,Public - Membership Required,0
+463955,"Delta Hotels by Marriott, Küçükcekmece - DC",Otopriz (Türkiye),41.02907877257811,28.80728722931871,İstanbul,Public - Membership Required,0
+463954,"Eriş Un Dinlenme Tesisleri, Çorlu - DC",Otopriz (Türkiye),41.0258,27.72506,Tekirdağ,Public - Membership Required,0
+463953,"Real City, Güngören - AC 2",Otopriz (Türkiye),41.02202474873151,28.877965324538312,İstanbul,Public - Membership Required,0
+463952,"Eksim Holding, Üsküdar - AC 2",Otopriz (Türkiye),41.0199965,29.0473277,İstanbul,Public - Membership Required,0
+463951,"Acıbadem Hastanesi, Üsküdar - AC 2",Otopriz (Türkiye),41.018512990733406,29.04825812459532,İstanbul,Public - Membership Required,0
+463950,"Bakırcı Topkapı, Zeytinburnu - AC 3",Otopriz (Türkiye),41.01693,28.90289,İstanbul,Public - Membership Required,0
+463949,"Moncher Lounge, Üsküdar - AC 2",Otopriz (Türkiye),41.01236451780818,29.062745583471685,İstanbul,Public - Membership Required,0
+463948,Test,Otopriz (Türkiye),41.0113566703828,28.9769987177723,İstanbul,Public - Membership Required,0
+463947,"Delta Luxury Residence, Esenyurt - AC 1",Otopriz (Türkiye),41.00932780691944,28.671535826153963,İstanbul,Public - Membership Required,0
+463946,"Hasan Usta Kebap, Kadıköy - DC",Otopriz (Türkiye),41.0042125,29.0276719,İstanbul,Public - Membership Required,0
+463945,"Cuento Sitesi, Ümraniye - AC 3",Otopriz (Türkiye),41.00302,29.133,İstanbul,Public - Membership Required,0
+463944,"Mirkelam, Sancaktepe Güney - DC 2",Otopriz (Türkiye),40.98849928213435,29.192486703618624,İstanbul,Public - Membership Required,0
+463943,"Mirkelam, Sancaktepe Kuzey - DC 2",Otopriz (Türkiye),40.98847809893533,29.194637962373584,İstanbul,Public - Membership Required,0
+463942,"Mirkelam, Sancaktepe Güney - DC 1",Otopriz (Türkiye),40.988465049509664,29.19254663127087,İstanbul,Public - Membership Required,0
+463941,"Aytop, Sultanbeyli - DC 2",Otopriz (Türkiye),40.98771151239232,29.274322410270475,İstanbul,Public - Membership Required,0
+463940,"Mahal Sitesi, Sancaktepe - AC 3",Otopriz (Türkiye),40.98496759900215,29.238603881730945,İstanbul,Public - Membership Required,0
+463939,"Aytop, Sultanbeyli - DC 1",Otopriz (Türkiye),40.9844556731826,29.27413158625924,İstanbul,Public - Membership Required,0
+463938,Mobil Hızlı Şarj İstasyonu - DC,Otopriz (Türkiye),40.9799625,29.0998594,İstanbul,Public - Membership Required,0
+463937,"Arpaş, Beylikdüzü - AC 2",Otopriz (Türkiye),40.9691054,28.6759743,İstanbul,Public - Membership Required,0
+463936,"Hüseyin Ayaz Apartmanı, Caddebostan - AC 2",Otopriz (Türkiye),40.96519510852158,29.06572060547581,İstanbul,Public - Membership Required,0
+463935,"Still İstanbul Comfort, Pendik - AC 1",Otopriz (Türkiye),40.9314,29.2997,İstanbul,Public - Membership Required,0
+463933,"Logitrans Depo, Tuzla - AC 1",Otopriz (Türkiye),40.90896378906653,29.34077335449217,İstanbul,Public - Membership Required,0
+463932,"Logitrans Garaj, Tuzla - AC 2",Otopriz (Türkiye),40.90578837837032,29.341925697675947,İstanbul,Public - Membership Required,0
+463931,"Logitrans Depo, Tuzla - AC 2",Otopriz (Türkiye),40.89964774988473,29.339424563476573,İstanbul,Public - Membership Required,0
+463930,"Erensoy Petrol, Malkara - DC",Otopriz (Türkiye),40.8686530943809,27.02360733865572,Tekirdağ,Public - Membership Required,0
+463929,"Güvenal Prestige Konakları, Keşan - AC 1",Otopriz (Türkiye),40.84185159609477,26.65344153198547,Edirne,Public - Membership Required,0
+463928,"Bendis AVM, Keşan - DC",Otopriz (Türkiye),40.83683052413917,26.626017949723064,Edirne,Public - Membership Required,0
+463925,"Vega AVM, Yalova Merkez - DC",Otopriz (Türkiye),40.653185,29.254542,Yalova,Public - Membership Required,0
+463922,"Abidin Usta, Osmangazi - DC",Otopriz (Türkiye),40.247403,29.064355,Bursa,Public - Membership Required,0
+463921,"Seyhanlar Gross 16 Nosap, Nilufer - DC",Otopriz (Türkiye),40.243492,28.936675,Bursa,Public - Membership Required,0
+463919,"Seyhanlar Göçmen Konutları, Nilüfer - DC",Otopriz (Türkiye),40.21614131637234,28.815877130653405,Bursa,Public - Membership Required,0
+463918,"Silver Gayrimenkul, Nilüfer - AC",Otopriz (Türkiye),40.192208634262975,28.96588142118956,Bursa,Public - Membership Required,0
+463845,wat mobilite - Opet Tellioğlu DT ,WAT Mobilite,39.750646,28.000736,Balıkesir,Public - Membership Required,5
+463842,"Highway Otel, Burhaniye - DC",Otopriz (Türkiye),39.48997078654396,26.9598854711226,Balıkesir,Public - Membership Required,0
+463838,"Varyant Sitesi, Karşıyaka - AC 2",Otopriz (Türkiye),38.491318929963214,27.09349626885024,İzmir,Public - Membership Required,0
+463837,"Epicenter, Bayraklı - DC",Otopriz (Türkiye),38.4695,27.1769,İzmir,Public - Membership Required,0
+463835,"Rüya Evleri, Bornova - AC 2",Otopriz (Türkiye),38.447382864427794,27.23854595031341,İzmir,Public - Membership Required,0
+463834,"Chekich Ayakkabı, Bornova - DC",Otopriz (Türkiye),38.4296125,27.2427969,İzmir,Public - Membership Required,0
+463833,"Yeni Hanedan, Urla - DC",Otopriz (Türkiye),38.289627,26.556034,İzmir,Public - Membership Required,0
+463832,"Kuşçular, Urla - DC",Otopriz (Türkiye),38.278355,26.741008,İzmir,Public - Membership Required,0
+462389,Güvenal Prestij Konakları,Otopriz (Türkiye),40.84156767681222,26.652963791101342,Edirne,Public - Membership Required,4
+462360,OTOJET,Otojet,38.480582,27.180513,Bayrakli,Public - Membership Required,1
+462359,OTOJET,Otojet,38.488231,27.105028,Karsiyaka,Public - Membership Required,1
+462358,En Yakit,En Yakıt (TR),38.435417,27.182546,Bornova,Public - Membership Required,1
+462357,Tuncmatik Charge,Voltrun,38.445314,27.206062,Bornova,Public - Membership Required,1
+462356,Voltrun Charging Station – Park Inn by Radisson İzmir,Voltrun,38.4285,27.1379,Konak,"Private - For Staff, Visitors or Customers",1
+462355,ZES Charging Station – Swissôtel Büyük Efes,ZES,38.4301,27.1385,Konak,Public - Membership Required,1
+462354,Trugo Charging Station – Forum Bornova AVM,Trugo (TR),38.4648,27.2253,Bornova,Public - Membership Required,1
+462140,Adze Charge – Bahçeşehir Park 2 DC Hızlı Şarj İstasyonu,ADZE ŞARJ (TR),41.07282831884183,28.692703598360254,Başakşehir,Public - Membership Required,2
+461959,ZES - Holiday Inn İstanbul Old City ,ZES,41.01202921906997,28.954999885892903,,Public - Membership Required,2
+461957,ZES - Radisson Hotel President ,ZES,41.00760235937963,28.96565446288571,,Public - Membership Required,2
+461954,ZES - Kalyon Otel,ZES,41.00308329152298,28.98069610285665,,Public - Membership Required,2
+461952,ZES - Allianz İzmir,ZES,38.30362288772855,27.17206597329141,,Public - Membership Required,1
+461951,ZES - Double Tree by Hilton Airport,ZES,38.30785083786333,27.15900940382244,,Public - Membership Required,2
+461930,Trugo - Shell Çambel ,Trugo (TR),38.44814587438685,27.51703650887396,,Public - Membership Required,2
+461928,Eşarj - Daysil Silikon İzmir,Eşarj (TR),38.47247444231593,27.36015777277225,,Public - Membership Required,2
+461858,WAT Mobilite İzmir Park AVM,WAT Mobilite,38.40355810283086,27.12904369512012,,Public - Membership Required,4
+461857,Trugo İzmir Park AVM,Trugo (TR),38.4032138537772,27.128506797807404,,Public - Membership Required,4
+461856,5Şarj İzmir Park AVM,5 Şarj (TR),38.40338941502827,27.1285129138912,,Public - Membership Required,2
+461855,ZES İzmir Park AVM ,ZES,38.40339622420015,27.12901654138784,,Public - Membership Required,1
+461854,ZES Mercan Restoran,ZES,38.4090039541739,27.035285361893894,,Public - Membership Required,2
+461852,ZES İsabey Bağları,ZES,38.26185174949092,27.16529165144152,,Public - Membership Required,2
+461850,ZES Adnan Menderes Havalimanı İç Hatlar,ZES,38.29134042607862,27.14705605472659,,Public - Membership Required,3
+461848,ZES Adnan Menderes Havalimanı Dış Hatlar Kapalı Otopark ParkNo:74,ZES,38.29481756977404,27.14560997274793,,Public - Membership Required,1
+461847,ZES Millenium Otomotiv ,ZES,38.29950074832345,27.138613450497587,,Public - Membership Required,1
+461844,ZES MG Doğan Trend Otomotiv ,ZES,38.32952942430581,27.134891401492155,,Public - Membership Required,1
+461842,En Yakıt DPark Gaziemir,En Yakıt (TR),38.33351601563044,27.13394088420182,,Public - Membership Required,2
+461751,Shell Recharge Trugo Togg,Trugo (TR),38.3985521363941,27.07803859582225,Konak,Public - Membership Required,4
+461126,Shell Recharge - Shell Güzelbahçe,Shell Recharge (TR),38.37823900785287,26.895078819183595,İzmir,Public - Membership Required,2
+461125,ZES Rudis Otel,ZES,38.382791406846366,26.93151518313516,İzmir,Public - Membership Required,2
+461124,ŞarjOn Limanreis Muhtarlığı,Şarjon (TR),38.38258820857197,26.93416500774788,İzmir,Public - Membership Required,1
+461123,Wat Mobilite Viona Otel,WAT Mobilite,38.38386107354009,26.937393279364187,İzmir,Public - Membership Required,2
+461122,ŞarjOn Cemevi Önü,Şarjon (TR),38.39538960907595,26.99255805341511,İzmir,Public - Membership Required,2
+461121,ŞarjOn Sessiz Sokak,Şarjon (TR),38.39554772789515,26.998930203393343,İzmir,Public - Membership Required,2
+461120,SarjOn Narlıdere Atatürk Kültür Merkezi,Şarjon (TR),38.39560614268106,26.996993836396086,İzmir,Public - Membership Required,4
+461119,ŞarjOn Narlıdere Folkart,Şarjon (TR),38.39518909614935,27.017382555732183,İzmir,Public - Membership Required,6
+461117,ZES Balçova İnciraltı Migros ,ZES,38.39675828087832,27.024262000010708,İzmir,Public - Membership Required,1
+461115,ZES Plaza Otel İzmir,ZES,38.3931219936496,27.03345160772085,İzmir,Public - Membership Required,1
+461113,Wat Mobilite Asma Çatı AVM,WAT Mobilite,38.395482919639335,27.04872098974863,İzmir,Public - Membership Required,5
+461112,Wat Mobilite Balçova Koçtaş,WAT Mobilite,38.3950118288806,27.046424299578803,İzmir,Public - Membership Required,2
+461111,Wat Mobilite Tınaztepe Balçova Hastanesi,WAT Mobilite,38.39493610695612,27.04430302277285,İzmir,Public - Membership Required,6
+461110,ZES Ege Park AVM,ZES,38.39494816393383,27.043704891943666,İzmir,Public - Membership Required,4
+461107,VOLTRUN İzmir İstinyePark,Voltrun,38.39930911418193,27.06828555574032,İzmir,Public - Membership Required,5
+461106,Wat Mobilite İzmir İstinyePark,WAT Mobilite,38.39890142012146,27.067486597443235,İzmir,Public - Membership Required,4
+461104,Beefull İzmir İstinyePark ,OnCharge (TR),38.39890639051441,27.06809100708483,İzmir,Public - Membership Required,4
+461103,Oncharge İzmir İstinyePark AVM,OnCharge (TR),38.39931575935853,27.067825409774287,İzmir,Public - Membership Required,6
+461102,ZES Monza Motors,ZES,38.31777907995209,27.13929282423373,,Public - Membership Required,1
+461100,EŞarj Carrefoursa Gaziemir,Eşarj (TR),38.31199731743354,27.141806274329497,,Public - Membership Required,4
+461081,ZES Gaziemir Kipa,ZES,38.3127791989784,27.143637699962937,,Public - Membership Required,2
+461080,ZES Svalinn Hotel,ZES,38.33157319954026,27.13381175112204,,Public - Membership Required,4
+461035,Shell Mavişehir,Trugo (TR),38.47812280406421,27.06525959757801,İzmir,Public - Membership Required,2
+460339,Otojet TotalEnergies Mehmetçik Vakfı Kurtköy İstanbul Yönü,Otojet,40.916886594903104,29.354203327084942,Pendik,Public - Membership Required,18
+460338,Otojet Total Energies Mehmetçik Vakfı Kurtköy Ankara Yönü,Otojet,40.92708136052849,29.344474026535863,Pendik,Public - Membership Required,1
+458919,Ercoş Enerji,Eşarj (TR),38.556553648699264,27.564287141454884,,Public,10
+458030,Hilal Hill Konutlari,Toger (TR),41.0132216,28.6069675,Istanbul,Public - Membership Required,0
+314084,11. Bölge Kız Kulesi Feneri Sitesi 3. Ada,Toger (TR),41.1421945,28.7909177,Istanbul,Public - Membership Required,0
+314083,Rüya Evleri,Toger (TR),41.1363153,28.7885145,Istanbul,Public - Membership Required,0
+314082,Fenertepe Pazar 24.bölge,Toger (TR),41.1325653366735,28.781413453367737,Istanbul,Public - Membership Required,0
+314081,Başakşehir Belediyesi Açık Otopark Ac,Toger (TR),41.1215293,28.7710328,Istanbul,Public - Membership Required,0
+314080,Yeniköy Sitesi,Toger (TR),41.114768,28.806573,Istanbul,Public - Membership Required,0
+314079,Kayaşehir Vadi Konutları,Toger (TR),41.101907,28.7643529,Istanbul,Public - Membership Required,0
+314078,Humeirah Golden,Toger (TR),41.101726,28.784327,Istanbul,Public - Membership Required,0
+314077,Kanlica Evleri,Toger (TR),41.099135,28.8054057,Istanbul,Public - Membership Required,0
+314076,Model Kuyum Merkezi,Toger (TR),41.089007,28.802586,Istanbul,Public - Membership Required,0
+314075,Bahçeşehir 652.ada,Toger (TR),41.08296,28.656277,Istanbul,Public - Membership Required,0
+314074,Düden 3-4,Toger (TR),41.071849,28.679968,Istanbul,Public - Membership Required,0
+314073,Yuvam Bahçeşehir Evleri 3,Toger (TR),41.06679,28.674855,Istanbul,Public - Membership Required,0
+314072,Yuvam Bahçeşehir Evleri 1,Toger (TR),41.064407,28.67426,Istanbul,Public - Membership Required,0
+314071,Fezapark Evleri Göztepe,Toger (TR),41.0519039,28.8351474,Istanbul,Public - Membership Required,0
+314070,Retno Palm,Toger (TR),41.045971,28.82683,Istanbul,Public - Membership Required,0
+314069,Önkar İnşaat Bağcilar,Toger (TR),41.0376337,28.8188469,Istanbul,Public - Membership Required,0
+314068,S Life Sitesi,Toger (TR),41.0176072,28.811075,Istanbul,Public - Membership Required,0
+312948,Kadoil RST Chargepoint,RST Charge Point,38.617466765879385,28.889910343423736,Merkez,Public - Membership Required,1
+312488,Wat Mobilite Canakkale Koprusu Servis Alani Canakkale Yonu,WAT Mobilite,40.398326730205554,26.615308245898746,Gelibolu,Public - Membership Required,4
+312487,Lumicle Canakkale 1915 Bati,Lumicle (TR),40.397763024851685,26.61494670465754,Geliboli,Public - Membership Required,2
+312485,Lumicle Canakkale 1915 Dogu,Lumicle (TR),40.39937467370916,26.61774197205432,Gelibolu,Public - Membership Required,2
+312484,Wat Mobilite Canakkale Koprusu Istanbul Yonu,WAT Mobilite,40.39913054441294,26.61673966254375,Gelibolu,Public - Membership Required,4
+312483,Shell Recharge Shell Edincik,Shell Recharge Solutions (US),40.32713380743502,27.86908720054646,Bandirma,Public - Membership Required,2
+312482,Wat Mobilite Opet Bastas ,WAT Mobilite,40.33084802603423,27.891234921383106,Bandirma,Public - Membership Required,2
+312479,Lumicle Miraplar,Lumicle (TR),40.34160346362836,27.97951092813946,Bandirma,Public - Membership Required,5
+312476,Wat Mobilite - O86 - İstanbul Yönü,WAT Mobilite,40.281848267726446,28.99691115919984,Osmangazi,Public - Membership Required,4
+312475,Wat Mobilite - Oksijen 086 İzmir Yönü,WAT Mobilite,40.282184424930335,28.994405844904747,Osmangazi,Public - Membership Required,4
+312371,Shell Gulbahce,Trugo (TR),38.32817193651897,26.644449364697834,Urla,Public - Membership Required,2
+312362,Lumicle Oksijen 122 Istanbul Yonu,Lumicle (TR),40.27224429433525,28.601211272577387,Karacabey,Public - Membership Required,4
+312361,Wat Mobilite Oksijen 122 Istanbul Yonu,WAT Mobilite,40.27230170890746,28.600689985733997,Karacabey,Public - Membership Required,4
+312360,Wat Mobilite Oksijen 122 Izmir Yonu,WAT Mobilite,40.27320962645664,28.60024124803488,Karacabey,Public - Membership Required,4
+312359,5 Sarj - Oksijen O86 Istanbul Yonu,5 Şarj (TR),40.28150848985106,28.99537804393788,Orhangazi,Public - Membership Required,1
+312358,5 Sarj - Oksijen 086 İzmir Yönü ,5 Şarj (TR),40.28261123025521,28.99528587744885,Osmangazi,Public - Membership Required,4
+312357,Opet Inegol Lumicle,Lumicle (TR),40.094241172434806,29.485830276949628,Inegol,Public - Membership Required,5
+312356,Shell Barikent,Shell Recharge Solutions (US),40.08528687636749,29.512226554443828,Inegol,Public - Membership Required,2
+312355,Shell Inegol,Shell Recharge Solutions (US),40.08388467372339,29.52056709868748,Inegol,Public - Membership Required,4
+312184,Total Energies Otojet,WAT Mobilite,38.48161457656357,28.068020719821675,Salihli,Public - Membership Required,1
+312183,5 Sarj Petrol Ofisi Salihli,5 Şarj (TR),38.48804592042694,28.05845026074712,Salihl,Public - Membership Required,1
+312182,Opet Salihli Petrol Watt,WAT Mobilite,38.494870814288646,28.1807610542387,Salihli,Public - Membership Required,1
+312179,En Yakit Adal Gross Market,En Yakıt (TR),38.49121018250008,27.66654222205648,Turgutlu,Public - Membership Required,1
+312125,Club Marvy Watt Mobility DC & AC,WAT Mobilite,38.00642543544425,27.113339607218677,Menderes,Public - Membership Required,1
+311689,Enza Home,En Yakıt (TR),39.43564698879132,29.999453278150327,Kutahya,Public - Membership Required,1
+311619,Petrol Ofisi 5 Şarj,5 Şarj (TR),38.54027260381454,28.64121624511904,Kula,Public - Membership Required,1
+311172,Kayaşehir 23. Bölge,Toger (TR),41.13753898993907,28.79118016113488,Istanbul,Public - Membership Required,0
+311171,13. Bölge Bizimada Sitesi,Toger (TR),41.1374983,28.7895974,Istanbul,Public - Membership Required,0
+311170,Çamlıbahçe Evleri,Toger (TR),41.1365092,28.7719937,Istanbul,Public - Membership Required,0
+311169,Kayaşehir Kavaklıbahçe Sitesi,Toger (TR),41.13359402248536,28.78157442194933,Istanbul,Public - Membership Required,0
+311168,Asmalıbahçe 2. Kısım,Toger (TR),41.1308671,28.7717533,Istanbul,Public - Membership Required,0
+311167,Başakşehir Belediye Kapalı Otopark Ac,Toger (TR),41.12117545253571,28.77002458594692,Istanbul,Public - Membership Required,0
+311166,Ortaköy Sitesi,Toger (TR),41.11064504065272,28.803483497986583,Istanbul,Public - Membership Required,0
+311165,Misstanbul Evleri 1. Ada,Toger (TR),41.096328950726594,28.80527111417037,Istanbul,Public - Membership Required,0
+311164,Bahçekent Tual 1,Toger (TR),41.09604877767385,28.64858712218938,Istanbul,Public - Membership Required,0
+311163,Mostar Life,Toger (TR),41.09545818606372,28.7850975476893,Istanbul,Public - Membership Required,0
+311162,Bahçekent Tual 2,Toger (TR),41.09479400949524,28.6526470441744,Istanbul,Public - Membership Required,0
+311161,Misstanbul Evleri 3. Ada E2,Toger (TR),41.09314892969877,28.80449192945406,Istanbul,Public - Membership Required,0
+311160,Bahçekent Tual 3,Toger (TR),41.09184181299445,28.654131439420446,Istanbul,Public - Membership Required,0
+311159,Misstanbul Evleri 3. Ada Ortak,Toger (TR),41.09082224838283,28.80504286210897,Istanbul,Public - Membership Required,0
+311158,Kayapark Sakura Evleri,Toger (TR),41.09075896655295,28.75753349999487,Istanbul,Public - Membership Required,0
+311157,Bahçekent Emlak Konutları 654. Ada,Toger (TR),41.087383,28.652413,Istanbul,Public - Membership Required,0
+311156,Avrupark 650 Ada,Toger (TR),41.08682021886303,28.65576278853925,Istanbul,Public - Membership Required,0
+311155,İstanbul Gıda Toptancılar Çarşısı,Toger (TR),41.0859274,28.7229304,Istanbul,Public - Membership Required,0
+311154,Bahçeşehir Tren Gari,Toger (TR),41.0839858,28.6793144,Istanbul,Public - Membership Required,0
+311153,Burgaz Çarşı Evleri,Toger (TR),41.08380193510825,28.722587289608786,Istanbul,Public - Membership Required,0
+311152,Özdemir Bayraktar Bilim Ve Kültür Merkezi,Toger (TR),41.07946341415703,28.662442785755097,Istanbul,Public - Membership Required,0
+311151,Spradon Kuzu Residence,Toger (TR),41.07866149146291,28.681012838619555,Istanbul,Public - Membership Required,0
+311150,Yeni Hayat Sitesi,Toger (TR),41.0759843506367,28.70627898687937,Istanbul,Public - Membership Required,0
+311149,Vaditepe Gölevleri Otopark,Toger (TR),41.07270423630722,28.69379806078524,Istanbul,Public - Membership Required,0
+311148,Gül 06 Sitesi,Toger (TR),41.06844621666835,28.68356621837365,Istanbul,Public - Membership Required,0
+311147,Fezapark Evleri 102,Toger (TR),41.0617208,28.835895,Istanbul,Public - Membership Required,0
+311146,Agena Park,Toger (TR),41.04574414798053,28.672546796413314,Istanbul,Public - Membership Required,0
+311145,Gardan Hotel,Toger (TR),41.001168422239225,28.654089415919287,Istanbul,Public - Membership Required,0
+311144,Benim Kentim Yalova,Toger (TR),40.5581526,28.8285113,Istanbul,Public - Membership Required,0
+309012,Lumicle - O167 - İzmir Yönü ,Lumicle (TR),40.0407866626324,28.219761298784874,Celtikci,Public - Membership Required,4
+309009,Lumicle - O135 - İstanbul Yönü ,Lumicle (TR),40.25091222394588,28.45319684750723,Karacabey,Public - Membership Required,4
+309008,Lumicle - O135 - İzmir Yönü,Lumicle (TR),40.25163484126753,28.449820254595693,Karacabey,Public - Membership Required,4
+308474,Trugo - O37 - İzmir Yönü,Trugo (TR),40.525437451727385,29.34158976056048,Orhangazi,Public - Membership Required,8
+308437,ENERTÜRK RHG - O228 - İzmir Yönü ,Trugo (TR),39.656082192028805,27.73025064661215,,Public - Membership Required,4
+308436,ZES - O228 - İstanbul Yönü ,Trugo (TR),39.65578183695428,27.731002587864825,Karesi,Public - Membership Required,6
+308435,Trugo - O37 - İstanbul Yönü ,Trugo (TR),40.52365802843215,29.34374942143293,Orhangazi,Public - Membership Required,8
+308434,Trugo - O14 - İstanbul Yönü,Trugo (TR),40.6815276296345,29.467521451902343,Altınova,Public - Membership Required,4
+308433,Oksijen O3 Dilovası,Trugo (TR),40.77308469677541,29.5203309516493,Dilovası,Public - Membership Required,6
+308041,Opet Astor Charge,Astor Şarj (TR),38.56775775447949,28.57495477599514,Kula,Public - Membership Required,1
+308000,Tesla SC - O204 - İzmir Yönü,Tesla (including non-tesla),39.75718579106498,27.963093430369327,,Public - Membership Required,8
+307886,Tavukcu Yakup Restoran,RST Charge Point,38.9242089223672,29.303886797030373,Gediz,Public - Membership Required,1
+307885,Gediz Hotel,WAT Mobilite,38.987601215023176,29.394863964077672,Gediz,Public - Membership Required,1
+307605,"OtoPriz Trabzon Ekmek, Avcılar - DC",Otopriz (Türkiye),40.993164232278566,28.71013738427213,Avcılar,Public - Membership Required,1
+307601,"OtoPriz Güzeller, Gebze DC",Otopriz (Türkiye),40.839699,29.432975,Gebze,Public - Membership Required,2
+307600,"OtoPriz Sultan Town, Sultangazi - DC",Otopriz (Türkiye),41.1063413,28.8725969,Sultangazi,Public - Membership Required,2
+307514,ADZE ŞARJ,ADZE ŞARJ (TR),41.14865769320557,27.835260551910096,Çorlu,Public,1
+307198,TESLA SC Oksijen 068 İzmir Yönü,Tesla (including non-tesla),40.38874471771453,29.139481030853688,Bursa,Public - Membership Required,8
+307197,TESLA SC Oksijen 068 İstanbul Yönü,Tesla (including non-tesla),40.3895048763074,29.14193796688437,bursa,Public - Membership Required,8
+306654,Enyakıt,En Yakıt (TR),41.0804401161561,28.3373822335177,Silivri,Public - Membership Required,2
+306297,"OtoPriz Kardelen, Çiftlikköy - DC",Otopriz (Türkiye),40.673275,29.345142,Çiftlikköy,Public - Membership Required,2
+306285,"OtoPriz Görgülü, Keşan - AC",Otopriz (Türkiye),40.870932,26.627678,Keşan,Public - Membership Required,2
+306284,"OtoPriz Seyhanlar Çamlıca Gross 16, Nilüfer - DC",Otopriz (Türkiye),40.198199356494094,28.968895115746754,Nilüfer,Public - Membership Required,2
+306283,"OtoPriz Anadolu Park, Maltepe - AC",Otopriz (Türkiye),40.92218404525747,29.16551627909403,Maltepe,Public - Membership Required,3
+306280,"OtoPriz Güzeller, Gebze AC-1",Otopriz (Türkiye),40.8352724848213,29.436734198505803,Gebze,Public - Membership Required,2
+306276,"OtoPriz Meydan, Zeytinburnu - DC",Otopriz (Türkiye),40.99627,28.910355,Zeytinburnu,Public - Membership Required,2
+305476,Geldol - Demiröz Makina,Sharz.Net,40.86240633959295,29.2769287780809,Pendik,Public - Membership Required,1
+305452,Geldol - Florence Nightingale,Sharz.Net,41.06295756772943,29.00434002997099,,Public - Membership Required,6
+305296,Zengin Petrol ,Sharz.Net,41.100917391620015,28.98000449942901,Kâğıthane,Public - Membership Required,1
+304974,Lumicle 10 Edremit sarıkız Olivecity,Lumicle (TR),39.59050123877722,26.92977825661308,Edremit,Public - Membership Required,2
+304836,"OtoPriz Seyhanlar Yunuseli, Osmangazi - DC",Otopriz (Türkiye),40.246848,28.995645,Osmangazi,Public - Membership Required,2
+304835,"OtoPriz Seyhanlar Gross 16 Nosap, Nilufer - DC",Otopriz (Türkiye),40.242837,28.936731,Nilüfer,Public - Membership Required,2
+304834,"OtoPriz Seyhanlar Market, Nilüfer - DC",Otopriz (Türkiye),40.207827,28.992006,Nilüfer,Public - Membership Required,1
+304299,EŞARJ Şenapa Gıda Torbalı,Eşarj (TR),38.13376106075458,27.38336954021773,Torbalı,Public - Membership Required,2
+304249,MYZCO Şarj Arena Düğün Salonu,CV Charging Vehicles,38.11712463363412,27.71641298204068,Tire,Public - Membership Required,2
+304247,WAT Mobilite Tınaztepe Hastahanesi Torbalı,WAT Mobilite,38.14264727660975,27.36710360277459,Torbalı,Public - Membership Required,2
+304176,İstasyon Caddesi,ZES,38.10240504701787,27.715982887427344,Tire,Public - Membership Required,3
+304017,"OtoPriz Zeruj, Pendik - DC-1",Otopriz (Türkiye),40.88187,29.232208,Pendik,Public - Membership Required,2
+304016,"OtoPriz Ada, Üsküdar - DC",Otopriz (Türkiye),41.04133780179879,29.043187598832677,Üsküdar,Public - Membership Required,1
+304015,"OtoPriz Bosspa, Bornova - DC",Otopriz (Türkiye),38.469188,27.2264125,Bornova,Public - Membership Required,2
+304013,"OtoPriz Eksun, Muratlı - AC - 2",Otopriz (Türkiye),41.189629,27.51226,Muratlı,Public - Membership Required,1
+303805,Bendis AVM,WAT Mobilite,40.83699405808491,26.626127984611344,Keşan,Public - Membership Required,1
+303802,WAT mobilite Tınaztepe Hastanesi,WAT Mobilite,38.14323598649565,27.365804699485068,Torbalı,Public - Membership Required,2
+303610,"OtoPriz Vizyon Park, Kartal - DC-2",Otopriz (Türkiye),40.908661,29.199269,Kartal,Public - Membership Required,2
+303608,"OtoPriz Dembeller, Pendik - DC",Otopriz (Türkiye),40.891078,29.262542,Pendik,Public - Membership Required,2
+303603,"OtoPriz La Quinta, Bağcılar - DC",Otopriz (Türkiye),41.035824,28.811811,Bağcılar,Public - Membership Required,2
+303602,"OtoPriz File Trendist, Ataşehir - DC",Otopriz (Türkiye),40.9886395,29.143521,Ataşehir,Public - Membership Required,2
+303600,"OtoPriz Esbaş, Eyüpsultan - DC",Otopriz (Türkiye),41.049502,28.934972,Eyüpsultan,Public - Membership Required,2
+303597,"OtoPriz Rami, Eyüpsultan - DC",Otopriz (Türkiye),41.047588,28.918253,Eyüpsultan,Public - Membership Required,2
+303596,"OtoPriz Aslı, Ümraniye - DC",Otopriz (Türkiye),40.999459,29.167802,Ümraniye ,Public - Membership Required,2
+303594,"OtoPriz Ramada Florya, Bakırköy - DC",Otopriz (Türkiye),40.990696,28.795642,Küçükçekmece,Public - Membership Required,2
+303593,"OtoPriz File Liv, Beylikdüzü - DC",Otopriz (Türkiye),40.982988,28.681785,Beylikdüzü,Public - Membership Required,2
+302558,GIOEV Selway Doğu,GioEV (TR),38.377818583249166,27.07354613674798,,Public - Membership Required,4
+301960,Kanuni Caddesi,Eşarj (TR),40.21682431806408,28.978783577896134,Nilüfer,Public - Membership Required,1
+301015,Mareşal Eşref Bitlis,En Yakıt (TR),41.00618500000107,29.19087799999852,Sancaktepe,Public - Membership Required,2
+300906,Trugo Ramada by Wyndham Soma,Trugo (TR),39.18398557430521,27.54884697937723,Soma,Public - Membership Required,1
+300905,Trugo Shell Kınık,Trugo (TR),39.10266842050561,27.280497211298155,Kınık,Public - Membership Required,1
+300904,Trugo Shell Bergama,Trugo (TR),39.05909321359084,27.10465920978322,Bergama,Public - Membership Required,1
+300654,Malkara-Çanakkale Otoyolu,En Yakıt (TR),40.399351235072885,26.61698552356461,Gelibolu,Public - Membership Required,2
+300552,360 Bahcesehir Park,Astor Şarj (TR),41.072376310944094,28.68629989973249,Başakşehir,Private - Restricted Access,2
+300551,Ispartakule Caddesi,Astor Şarj (TR),41.07774954547929,28.690496388631345,Başakşehir,Private - Restricted Access,3
+300550,Kelebek Sokak,Voltrun,41.063054290688,28.685461704318755,Başakşehir,Public - Membership Required,2
+300549,TRUGO SHELL,Trugo (TR),41.071644428637626,28.693771223978047,ISTANBUL,Public - Membership Required,2
+299818,Autopia Otomobil Avm,Toger (TR),41.01973014122889,28.633652431724883,Istanbul,Public - Membership Required,0
+299817,Çayırova E5 Yan yol - Alemdar Köprüsü,Toger (TR),40.791456,29.404077,Istanbul,Bilinmiyor,0
+299649,Powerşarj - Demir Country Kapalı Otopark,Powerşarj,40.98427949264647,28.65810085552549,İstanbul,Public,1
+299648,Powerşarj - Demir Country Galata Kulesi,Powerşarj,40.98406490858986,28.658213225465747,İstanbul,Public,1
+299631,11. Bölge Kız Kulesi Feneri Sitesi 2. Ada,Toger (TR),41.143416,28.789351,Istanbul,Public - Membership Required,0
+299630,Başakşehir Belediye Açık Otopark Dc,Toger (TR),41.121216,28.766457,Istanbul,Public - Membership Required,0
+299629,Soyak Konforia,Toger (TR),41.111321,28.675282,Istanbul,Public - Membership Required,0
+299628,Başakşehir Millet Bahçesi,Toger (TR),41.121571,28.779723,Istanbul,Public - Membership Required,0
+299627,Onurkent Spor Parkı,Toger (TR),41.105704,28.780993,Istanbul,Public - Membership Required,0
+299626,Kayaşehir Mercan Sitesi,Toger (TR),41.10550225469586,28.74905453807504,Istanbul,Public - Membership Required,0
+299625,Avrasya Konutları 1,Toger (TR),41.103608,28.771192,Istanbul,Bilinmiyor,0
+299624,Kayaşehir Firuze Sitesi,Toger (TR),41.09821288593955,28.76215645210438,Istanbul,Public - Membership Required,0
+299623,Başakşehir Livinglab,Toger (TR),41.095572,28.803287,Istanbul,Public - Membership Required,0
+299622,Misstanbul Evleri 2. Ada,Toger (TR),41.09401434223169,28.80521073065348,Istanbul,Public - Membership Required,0
+299621,Semt Bahçekent 2,Toger (TR),41.086362,28.649696,Istanbul,Public - Membership Required,0
+299620,Depo Ürünleri,Toger (TR),41.089046,28.729311,Istanbul,Bilinmiyor,0
+299619,Pazartürk,Toger (TR),41.080349,28.679812,Istanbul,Public - Membership Required,0
+299618,Düden Sitesi 1-2,Toger (TR),41.072133,28.681554,Istanbul,Public - Membership Required,0
+299617,Automall,Toger (TR),41.070691,28.853607,Istanbul,Public - Membership Required,0
+299616,Şelalepark Sosyal Tesisler,Toger (TR),41.070174,28.681305,Istanbul,Public - Membership Required,0
+299615,Bahçeşehir Spor Parkı,Toger (TR),41.068259842477126,28.67736435772519,Istanbul,Public - Membership Required,0
+299614,Doğa Park,Toger (TR),41.067514,28.690512,Istanbul,Public - Membership Required,0
+299613,Mall Of İstanbul,Toger (TR),41.062283,28.806819,Istanbul,Public - Membership Required,0
+299612,SINAV DERSHANESİ ,Toger (TR),41.02256,28.929337,Istanbul,Public - Membership Required,0
+299611,MEKTEBİM KOLEJİ  ESENYURT 1039,Toger (TR),41.011256,28.700919,Istanbul,Public - Membership Required,0
+299610,Vema Avm,Toger (TR),40.84914,29.3,Istanbul,Public - Membership Required,0
+299609,Gebze Teknopark 2. Bölge,Toger (TR),40.790274,29.462256,Istanbul,Public - Membership Required,0
+299608,Gebze Teknopark 3. Bölge,Toger (TR),40.788914,29.462902,Istanbul,Public - Membership Required,0
+299492,AhmetBesim Uyal Caddesi,En Yakıt (TR),38.31927263230946,26.754988232099407,Urla,Public - Membership Required,2
+299258,WAT Mobilite Koçtaş Dikili,WAT Mobilite,39.08350687536489,26.898783666096733,dikili,Public - Membership Required,2
+298994,Toger Başakşehir test 2,Trugo (TR),41.0449893,28.8558382,İstanbul,Public - Membership Required,4
+298993,Toger Başakşehir,Trugo (TR),41.0449893,28.8558382,İstanbul,Public - Membership Required,4
+298992,Toger Başakşehir,ToraŞarj (TR),41.0449893,28.8558382,İstanbul,Public - Membership Required,4
+298440,ŞARJON BAMBOO AVM,Şarjon (TR),38.33523860708118,26.770040331642747,Urla,Public - Membership Required,2
+297824,Ekrem Kurt Bulvarı,Voltrun,40.98764489444935,28.885401423832604,Bakırköy,Public - Membership Required,1
+296278,Powerşarj - Demir Country,Powerşarj,40.984282483234935,28.6575743,İstanbul,Public,1
+296277,Powerşarj - SsangYong Şahsuvaroğlu Tesisleri Tekirdağ,Powerşarj,41.14280688365205,27.859543067787943,Tekirdağ,Public,1
+295939,ZES Hampton by Hilton Aliağa,ZES,38.8324558244652,26.97786812013092,Aliağa,Public - Membership Required,1
+295883,ZES Torbalı Tınaztepe Hastanesi,ZES,38.14223718254854,27.366192813652333,izmir,Public - Membership Required,2
+291194,Powerşarj - Fitness-G Spor ve Sağlıklı Yaşam Merkezi,Powerşarj,40.829263,29.421857,Kocaeli,Public,1
+290050,İ-ŞARJ - Aksan Petrol Torbalı ,CV Charging Vehicles,38.22196015575375,27.314065798399128,Torbalı,Public - Membership Required,2
+289933,Powerşarj - TECO Banban Petrol,Powerşarj,40.35216558793584,27.9431938,Balıkesir,Public,1
+289548,Özel Medifema Hastanesi AC Şarj İstasyonu,WAT Mobilite,38.24095476637345,27.275443926152263,İzmir,Public - Membership Required,1
+288442,Torbalı Hasan Ev İstasyonu,Sharz.Net,38.179329451599045,27.346735122359405,Torbalı,Private - Restricted Access,1
+288249,Lumicle - Torbalı,Eşarj (TR),38.20216418093446,27.344718234177293,Torbalı,Public - Membership Required,7
+288214,Powerşarj - Skywell Ürkmezler Otomotiv,Powerşarj,40.89455059819672,29.227578167635084,İstanbul,Public,1
+288157,Powerşarj - Kaplıkaya Cazibe Merkezi,Powerşarj,40.17591281545497,29.125178225299276,Bursa,Public,1
+279918,Trugo Shell Sardes,Trugo (TR),38.49656211914149,28.021680312577587,manisa,Public - Membership Required,2
+279103,Otojet - TotalEnergies,ZES,41.07947940704625,28.208923082740284,Silivri,Public - Membership Required,1
+278698,VOLTRUN  Agora İzmir AVM,Voltrun,38.3948602125588,27.052417499942976,Balçova,Public - Membership Required,4
+278622,POWERŞARJ - Barbaros Hayrettin Paşa Camii,Powerşarj,41.0788484025334,29.014409067784825,İstanbul,Public,1
+274669,POWERŞARJ - Doğuş Dijital Enerji Maslak Eclipse,Powerşarj,41.11795977511042,29.014450366831667,İstanbul,Public,2
+274655,Tora Şarj - Duha Makina,ToraŞarj (TR),40.78628317810865,29.964056671172585,Kocaeli,Public - Membership Required,1
+274645,Tora Şarj - Kata İnşaat,ToraŞarj (TR),40.208207473830726,28.9296102389128,BURSA,Public - Membership Required,1
+274643,Tora Şarj - Güvensan Elektrik,ToraŞarj (TR),40.20898539953967,28.927277498543617,BURSA,Public - Membership Required,1
+274639,Tora Şarj - Fransız Lape Hastanesi,ToraŞarj (TR),41.06237927918176,28.990009572193458,İstanbul,Public - Membership Required,1
+274637,Tora Şarj - Adrina Otel 2,ToraŞarj (TR),39.58550039611092,26.888199405183627,Balıkesir,Public - Membership Required,1
+274636,Tora Şarj - Adrina Otel,ToraŞarj (TR),39.58540342373158,26.88870419358838,Balıkesir,Public - Membership Required,1
+274613,Tora Şarj - ARC Akaryakıt,ToraŞarj (TR),40.24435378935513,29.014850044473636,Bursa,Public - Membership Required,1
+274610,Tora Şarj - AVC Grup,ToraŞarj (TR),40.91762471884272,29.2271781871774,İstanbul,Public - Membership Required,1
+274600,Tora Şarj - İspark Maçka Katlı Otoparkı,ToraŞarj (TR),41.04837667998618,28.990233457161366,İstanbul,Public - Membership Required,1
+274599,Tora Şarj - Koç Akaryakıt,ToraŞarj (TR),38.67182280360126,29.43999352360379,Uşak,Public - Membership Required,1
+274565,OnCharge - İstanbul Park Kuzey OHT 2,OnCharge (TR),40.929608,29.437167,Tuzla,Public - Membership Required,4
+274564,OnCharge - İstanbul Park Güney OHT,OnCharge (TR),40.92776,29.437658,Tuzla,Public - Membership Required,8
+274563,OnCharge - İstanbul Park Kuzey OHT,OnCharge (TR),40.927922,29.440258,Tuzla,Public - Membership Required,8
+274562,OnCharge - Bilişim Vadisi Batı OHT,OnCharge (TR),40.852619,29.537577,Dilovası,Public - Membership Required,1
+274561,OnCharge - Bilişim Vadisi Doğu OHT,OnCharge (TR),40.853347,29.538874,Dilovası,Public - Membership Required,1
+274399,Tora Şarj - Doğu Sanayi,ToraŞarj (TR),41.01718677014577,28.81949665172968,Istanbul,Public - Membership Required,1
+274259,POWERŞARJ - Doğuş Dijital Enerji Aydos Karavan,Powerşarj,41.13474852838311,29.274270969055536,İstanbul,Public,1
+274258,POWERŞARJ - Doğuş Dijital Enerji Doğuş Konakları,Powerşarj,41.192116895264064,29.05079511279869,İstanbul,Public,1
+274257,POWERŞARJ - Doğuş Dijital Enerji Tepe Balık,Powerşarj,41.1854959760383,29.04701304437393,İstanbul,Public,1
+274255,POWERŞARJ - Doğuş Dijital Enerji By Topcu,Powerşarj,41.0093421936035,28.52272605896,İstanbul,Public,1
+274254,POWERŞARJ - Doğuş Dijital Enerji Ova Et Lokantası,Powerşarj,41.0093421936035,28.52272605896,İstanbul,Public,1
+274253,POWERŞARJ - Doğuş Dijital Enerji Koreli Restaurant,Powerşarj,41.1885757446289,28.4976463317871,İstanbul,Public,1
+274252,POWERŞARJ - Doğuş Dijital Enerji Sahan Kebap,Powerşarj,41.0461836212772,28.746608757670817,İstanbul,Public,1
+274251,POWERŞARJ - Doğuş Dijital Enerji Papuli Restaurant,Powerşarj,41.0461836212772,28.746608757670817,İstanbul,Public,1
+274250,POWERŞARJ - Doğuş Dijital Enerji Doğuş Gıda Bursa,Powerşarj,40.28684761329742,28.93606940641598,Bursa,Public,1
+274249,POWERŞARJ - Doğuş Dijital Enerji Demircan Restaurant,Powerşarj,41.18484394611255,29.20394995856656,İstanbul,Public,1
+274248,POWERŞARJ - Doğuş Dijital Enerji Elite Hotel Dragos,Powerşarj,40.91561749774981,29.143724674868324,İstanbul,Public,1
+274243,POWERŞARJ - Doğuş Dijital Enerji Köz Kanat Kartal,Powerşarj,40.89361244213709,29.17095338358468,İstanbul,Public,1
+274195,Zes - Babacan Ayvalık Hotel,ZES,39.3262401500013,26.69663730219088,Ayvalık,Public - Membership Required,1
+273490,POWERŞARJ - Euro Park Hotel Bursa,Powerşarj,40.2186631266548,28.8718016,Bursa,Public,1
+273018,Trugo Shell çeşme otoban Guney,Trugo (TR),38.35091556425979,26.853679927326997,Güzelbahçe,Public - Membership Required,4
+272982,[Trugo] YSK Center,Trugo (TR),40.98886624124145,27.57643601343784,Süleymanpaşa,Public - Membership Required,2
+272848,Eşarj Mengerler Mercedes,Eşarj (TR),38.30777577075708,27.143163587790923,izmir,Public - Membership Required,2
+272756,Trugo Shell çeşme OHT kuzey,Trugo (TR),38.352490700298176,26.853219524920743,izmir,Public - Membership Required,1
+267582,En Yakıt Tırak Otomotiv Çiğli,En Yakıt (TR),38.51229788668837,27.044766710537715,Çiğli,Public - Membership Required,2
+267560,Eşarj Ajlan Hotel Cunda,Eşarj (TR),39.337065389866666,26.660077536088124,Çine,Public - Membership Required,2
+266662,oncharge - İstanbul Park Güney OHT,OnCharge (TR),40.92817918846012,29.43772330497768,İstanbul,Public - Membership Required,8
+266650,Tora Şarj - Merkez,ToraŞarj (TR),41.03960606361855,28.8148399872415,Bağcılar,Public,1
+266233,WAT Opet Işıkkent,WAT Mobilite,38.429488988633295,27.21958628782829,Bornova,Public - Membership Required,2
+266232,wat mobilite - Opet Egecem Petrol Torbalı,WAT Mobilite,38.19177126539751,27.34642949783384,Torbalı,Public - Membership Required,2
+265871,POWERŞARJ - Doğuş Dijital Elite Otels,Powerşarj,40.91561749774981,29.143724674868324,İstanbul,Public,1
+265870,POWERŞARJ - Doğuş Dijital Fusha,Powerşarj,41.17980315409787,29.6130388370662,İstanbul,Public,1
+265663,POWERŞARJ - Doğuş Dijital Elite Otel & Restaurant,Powerşarj,40.75666531764393,29.381262719519345,Kocaeli,Public,1
+260705,POWERŞARJ - Doğuş Köz Kanat,Powerşarj,40.89361244213709,29.17095338358468,İstanbul,Public,1
+260704,POWERŞARJ - Doğuş Cafe Floresta,Powerşarj,40.90227006154129,29.145362376640893,İstanbul,Public,1
+260427,POWERŞARJ - Doğuş Dijital Ataşehir,Powerşarj,40.98784130948342,29.12412077301552,İstanbul,Public,1
+260294,Opet Öztürkler Petrol,WAT Mobilite,40.997224,27.973443,tekirdağ,Public - Membership Required,1
+260283,POWERŞARJ - Doğuş Demircan Restoran,Powerşarj,41.18484394611255,29.20394995856656,İstanbul,Public,1
+260282,POWERŞARJ - Doğuş Gıda,Powerşarj,41.121762107893176,29.00662436530852,İstanbul,Public,1
+260238,POWERŞARJ - Çamlıca Camii Otoparkı,Powerşarj,41.03433,29.07013,İstanbul,Public,22
+260227,POWERŞARJ - Modoko Mobilyacılar Sitesi,Powerşarj,41.008505,29.156706,İstanbul,Public,1
+260208,POWERŞARJ - Çamlıca Camii Otoparkı,Powerşarj,41.03433,29.07013,İstanbul,Public,1
+260195,POWERŞARJ - İzmir Ege Teta,Powerşarj,38.46503807313008,27.25561289,İzmir,Public,1
+259768,Kırağlı Sokağı,CV Charging Vehicles,39.64157988081945,27.885564150008804,Altıeylül,Public - Membership Required,1
+259569,Emaar Tesla Supercharger,Tesla (including non-tesla),41.00394009903352,29.071409864097745,Üsküdar,Public - Membership Required,8
+238411,Oncharge,OnCharge (TR),38.66013598863094,27.07644696565012,Menemen,Public - Membership Required,2
+238410,Oncharge,OnCharge (TR),38.66472966281262,27.07365320328944,Menemen,Public - Membership Required,2
+238382,ZES - O135 - İzmir Yönü ,ZES,40.25217114818168,28.45013624820172,Karacabey,Public - Membership Required,8
+238381,ZES - O135 - İstanbul Yönü ,ZES,40.25204713087291,28.4560193106023,Karacabey,Public - Membership Required,8
+235547,EŞARJ 90kW kürşat zeytin evi,Eşarj (TR),39.28762496970339,26.70685115362676,Ayvalık,Public - Membership Required,2
+235546,EŞARJ 90kwh Ramada by Wyndham Uşak,Eşarj (TR),38.66975808165202,29.41624124009627,Uşak,Public - Membership Required,2
+235445,CV CHARGING VEHICLES - SEYRAN KOLTUK İMOTİM,CV Charging Vehicles,40.117842,29.443304,Bursa,Public - Membership Required,1
+235443,CV CHARGİNG VEHİCLES -  SEYRAN KOLTUK İMOTİM,CV Charging Vehicles,40.117842,29.443304,İnegöl,Public - Membership Required,1
+235370,ZES - O204 - İstanbul Yönü ,ZES,39.756402399165296,27.961576216272192,balıkesir,Public - Membership Required,4
+235369,ZES - O320 - İstanbul Yönü,ZES,38.92811055837839,27.704481666497717,manisa,Public - Membership Required,1
+235368,ZES - O320 - İzmir Yönü,ZES,38.92938737426567,27.702445605817843,manisa,Public - Membership Required,1
+235056,CV CHARGING - SEYRAN KOLTUK İMOTİM,CV Charging Vehicles,40.11302891856258,29.45280278229029,İnegöl/Bursa,Public - Membership Required,1
+212885,Oncharge,OnCharge (TR),38.95383087194264,27.06046313865397,Bergama,Public - Membership Required,2
+212884,Oncharge,OnCharge (TR),38.95309157939971,27.06160328992314,Bergama,Public - Membership Required,2
+212365,GIOEV Selway Outlet Balçova Batı,GioEV (TR),38.37695090619079,27.07287953992977,Balçova,Public - Membership Required,2
+212364,GIOEV İzmir Selway Outlet Balçova,GioEV (TR),38.377929772740174,27.073507643411205,Balçova,Public - Membership Required,2
+212362,Eşarj Kahyaoğulları Opel,Eşarj (TR),38.296745043370834,27.13984443141203,Gaziemir,Public - Membership Required,2
+212361,Eşarj - Arkas Otomotiv Gaziemir,Eşarj (TR),38.35984133268542,27.13613019656429,Gaziemir,Public - Membership Required,2
+212359,Eşarj 120kW - Nazar Renault,Eşarj (TR),38.61692591853642,27.065666302092268,Menemen,Public - Membership Required,2
+211079,ZES Metro Çiğli,ZES,38.48984898414608,27.073296367765263,Çiğli,Public - Membership Required,2
+211074,Eşarj uçak Kardeşler,Eşarj (TR),38.17729491691401,26.831370924679845,Seferihisar,Public - Membership Required,2
+211060,ZES Metro Gaziemir,ZES,38.31734831625877,27.13871745753136,Gaziemir,Public - Membership Required,2
+211059,EŞARJ 90kW - Carrefoursa Urla,Eşarj (TR),38.32045889614585,26.754227636189057,Urla,Public - Membership Required,2
+210977,ZES Metro Market Ayvalık,ZES,39.32786289814206,26.715234496874245,balıkesir ayvalık,Public - Membership Required,2
+210976,Oncharge Kuzey Ege Otoyolu İzmir Yönü,OnCharge (TR),38.74015310645015,26.984214378255015,Aliağa,Public - Membership Required,2
+210975,Oncharge Kuzey Ege Otoyolu Çanakkale Yönü,Eşarj (TR),38.739893153368655,26.98670341275715,Aliağa,Public - Membership Required,2
+210909,Şarjon Mert Marine Tuzla Atölye,Şarjon (TR),40.8386464037159,29.297094102590165,Tuzla,Public - Membership Required,1
+210839,Şarjon - Caraj (Çakıroğlu) Car Rental,Şarjon (TR),40.934425,29.338331,Pendik,Public - Membership Required,2
+210093,EŞARJ - AMCA Otomotiv,Eşarj (TR),38.43994005530036,27.268572909792624,İzmir ,Public - Membership Required,1
+210092,EŞARJ - ÇETAŞ İzmir,Eşarj (TR),38.45660572382786,27.253517211185454,izmir,Public - Membership Required,1
+209913,ENYAKIT Sakıpağa Outlet,En Yakıt (TR),38.67545245719569,27.01731418859572,Menemen,Public - Membership Required,2
+209912,Point Bornova ZES,ZES,38.43118045439528,27.21038180589983,izmir,Public - Membership Required,1
+209524,Hasan Dikili Ev,Sharz.Net,39.09125804373386,26.886094076787003,Dikili,Privately Owned - Notice Required,1
+209479,EŞARJ 60kW - Otopratik (Paşa Oto),Eşarj (TR),38.49895139761472,27.04654443807021,Çiğli,Public - Membership Required,3
+209478,E Şarj,Eşarj (TR),38.47793005410054,27.09658229753677,Karşıyaka,Public - Membership Required,3
+208215,ZES - O167 - İstanbul Yönü,ZES,40.040942001045245,28.22120699376365,Mustafakemalpaşa,Public,8
+207761,SHARZ - Keskinler Otomotiv,Sharz.Net,40.20993102667438,28.943798901930904,Çalı,Public - Membership Required,1
+207751,ŞARJON - Burulaş Hocaalizade Açık Otoparkı,Şarjon (TR),40.180266,29.067474,Osmangazi,Public - Membership Required,1
+207735,ŞARJON - Burulaş Kayıhan Otoparkı,Şarjon (TR),40.184816,29.070692,Osmangazi,Public - Membership Required,2
+207726,ŞARJON - Burulaş Osmangazi Metro Istasyonu Batı Çıkışı,Şarjon (TR),40.196028,29.055071,Osmangazi,Public - Membership Required,1
+207701,ŞARJON - Burulaş Güzelyalı İDO İskele Açık Otoparkı,Şarjon (TR),40.3558243,28.9274526,Mudanya,Public - Membership Required,1
+207694,Şarjon - Burulaş Mudanya Basketbol Sahası,Şarjon (TR),40.372527,28.890057,Mudanya,Public - Membership Required,1
+207402,ŞARJON - Mudanya Tekel Otopark,Şarjon (TR),40.373796,28.887656,Mudanya,Public - Membership Required,1
+207401,ŞARJON - Som Yatırım,Şarjon (TR),41.091755,29.0942232,Beykoz,Public - Membership Required,1
+203023,ZES - Backstage,ZES,38.313089,27.1658867,Gaziemir,Public - Membership Required,2
+203022,Şarjon - Esbaş Ege Serbest Bölge,Şarjon (TR),38.3348506,27.1243606,Gaziemir,Public - Membership Required,1
+203008,Şarjon - Skoda Çakıroğlu,Şarjon (TR),40.960522,29.281267,Sultanbeyli,Public - Membership Required,1
+203004,ŞARJON - İspark Salıpazarı,Şarjon (TR),40.9968767,29.048388,,Public - Membership Required,1
+203002,Şarjon - Maçka İspark Katlı Otopark ,Şarjon (TR),41.0480719,28.9903048,Şişli,Public - Membership Required,1
+203001,ŞARJON - Torunlar İspark,Şarjon (TR),41.0640763,28.9991748,Şişli,Public - Membership Required,1
+202319,ŞARJON - Six Senses Kocatas Mansion ,Şarjon (TR),41.165277,29.053994,Sarıyer,Public - Membership Required,1
+194306,Eşarj - Mengerler İzmir ,Eşarj (TR),38.3214002228147,27.137874976548005,Gaziemir,Public,2
+192132,ZES - Keşan Kipa AVM DC,ZES,40.87422926904679,26.637602442405296,Keşan,Public,1
+192123,Zes - TP Şarköy Maral Petrol,ZES,40.61806663301368,27.09919530299169,Şarköy,Public - Membership Required,1
+192122,Zes - Ramada By Wyndham ,ZES,40.945874785901424,27.465871590253983,Tekirdağ,Public - Membership Required,2
+192121,Zes-Tekira Avm,ZES,40.97838268061679,27.504028910159832,Tekirdağ,Public - Membership Required,2
+192120,Şaraphane Voltrun - Des Hotel,Voltrun,40.97310702828031,27.501771068868607,Tekirdağ,Public - Membership Required,1
+192119,Voltrun - Silivri Sahil Otopark,Voltrun,41.0712714823168,28.243890263654976,Silivri,Public - Membership Required,1
+191997,ZES - Oksijen O86 İzmir Yönü,ZES,40.28321764556952,28.99554417081549,Bursa,Public,6
+191996,ZES - O37 - İstanbul Yönü,ZES,40.52372002708404,29.34280096843122,Bursa,Public,8
+191984,O228 Istanbul yönü,ZES,39.65583222229756,27.76287581706856,Savastepe,Public,6
+191946,SHARZ - Ozcanlar Köfte Beyazköy,Sharz.Net,40.98964549057814,27.60307808376569,Tekirdağ,Public - Membership Required,2
+191311,Trugo - Oksijen O3,Trugo (TR),40.77346726861356,29.5203427172861,Dilovası,Public,6
+191310,ZES - O204 - İzmir Yönü,ZES,39.7578249919967,27.96012763087924,Balıkesir,Public,6
+191279,SHARZ - Karis Oto,Sharz.Net,38.450146256213145,27.190551193939427,Bornova,Public - Membership Required,1
+190794,Voltrun - E-Power Bursa,Voltrun,40.22371507198272,28.81481829762231,Görükle,Public - Membership Required,1
+188934,ZES - Edremit Akın AVM DC,ZES,39.597281491089205,26.97288813794989,,Public,1
+188930,EŞARJ - Otopratik Çorlu,Eşarj (TR),41.14815226341747,27.83832430160805,Çorlu,Public,0
+188929,EŞARJ - Mengerler Trakya,Eşarj (TR),41.13916883455374,27.87289300295663,Çorlu,Public,0
+188477,Voltrun - e-Power Balıkesir 1,Voltrun,39.60791622445191,27.902889791198614,Çayırhisar,Public - Membership Required,1
+188207,EŞARJ - Q Beach Club,Eşarj (TR),38.68418194708775,26.73999898630484,Foça,Public - Membership Required,1
+188206,EŞARJ - Q Beach Club,Eşarj (TR),38.68418194708775,26.73999898630484,Foça,Public - Membership Required,1
+188197,EŞARJ - Pilotcar,Eşarj (TR),40.239504133200825,28.93011167027032,Doğanköy,Public - Membership Required,1
+176241,SHARZ - Akvaryum Cafe & Restaurant,Sharz.Net,38.48855961724979,27.05298686367132,Çiğli,Public - Membership Required,1
+176240,SHARZ - Tektürk,Sharz.Net,40.86523276171849,29.3797338167127,Hamidiye,Public - Membership Required,1
+175267,SHARZ - Özdilek Avm,Sharz.Net,38.41068940651596,27.031634925261187,Balçova,Public - Membership Required,1
+175104,EŞARJ - Shell Acıbadem,Eşarj (TR),41.00332060955927,29.03392891175247,,Public,0
+174921,Zes - B.Yıldız Bosch Araç Servisi,ZES,40.095180740365095,29.514268315017148,İnegöl,Public - Membership Required,1
+174887,Zes - Pakt Plus Avm,ZES,40.22616777235078,27.24769804937705,Biga,Public - Membership Required,1
+174886,Zes - Paragon Avm,ZES,39.33330184189725,26.717617456345124,Ayvalık,Public - Membership Required,1
+174885,Zes - Palm Beach Otel,ZES,39.54666660621726,26.6108762738794,Küçükkuyu,Public - Membership Required,1
+174840,SHARZ - Lens Yaşam Merkezi,Sharz.Net,40.92690187331567,29.312707150601,Kurtköy,Public - Membership Required,1
+174818,Voltrun - Şile Belediye Otoparkı,Voltrun,41.172394998535566,29.60917405019154,Şile,Public - Membership Required,1
+174780,İzmir Çanakkale Yolu,ZES,38.67757033007905,27.01538966054613,Buruncuk Mahallesi,Public - Membership Required,1
+174779,İzmir Çanakkale Yolu,ZES,38.678840682543296,27.015269404284822,Buruncuk Mahallesi,Public - Membership Required,1
+174778,Zes - Apama Zeytinli Bahçe ,ZES,38.67667070926177,26.904829504122745,Bağarası,Public - Membership Required,1
+174777,Zes - Florat Çiftlik Hotel & Kahvaltı,ZES,39.207649546505,26.816618885400544,Bahçeli,Public - Membership Required,1
+174769,Voltrun - Kütahya Belediyesi ,Voltrun,39.42535864712815,29.98977064170242,Kütahya,Public - Membership Required,1
+174768,Zes - Oepsaş,ZES,39.426325935092,29.989486973303546,Kütahya,Public - Membership Required,1
+174752,Voltrun - Şile Belediye Otoparkı,Voltrun,41.17089597637104,29.609049199960964,,Public - Membership Required,1
+174661,SHARZ - Westpark Outlet 2,Sharz.Net,38.48176762247854,27.182836737701564,Laka,Public - Membership Required,1
+174660,SHARZ - West park Outlet 1,Sharz.Net,38.48119011504315,27.180506674880803,Laka,Public - Membership Required,1
+174659,SHARZ - Murat Reis ,Sharz.Net,39.28150477027663,26.66113293079968,Küçükköy,Public - Membership Required,1
+174658,SHARZ - Asude Tesisleri,Sharz.Net,39.45454150253411,26.88492170462416,Karaağaç,Public - Membership Required,1
+174641,SHARZ - Arasta Park AVM,Sharz.Net,40.7647620180897,29.976055207347255,Kocaeli,Public - Membership Required,1
+174639,Renault Ernaz ,Eşarj (TR),40.75500236871105,29.948539632079587,Kocaeli,"Private - For Staff, Visitors or Customers",1
+174596,SHARZ - Alptekin Butik Otel ,Sharz.Net,38.08021926670665,26.96753792786285,Ürkmez,Public - Membership Required,1
+174595,Zes Teos Marina ,ZES,38.1908877052266,26.783363436928425,Düzce,Public - Membership Required,1
+174594,Renault Mais,Eşarj (TR),40.213778246573526,28.95445251313913,,"Private - For Staff, Visitors or Customers",1
+174557,SHARZ - Yaylada AVM,Sharz.Net,39.6559789011059,27.90452786541482,Balıkesir,Public - Membership Required,1
+174447,ZES - Bahçıvanoğlu Otomotiv,ZES,39.08918918962368,27.12696700636502,Bergama,Public,4
+174400,ZES - O178 - İstanbul Yönü,ZES,39.9245940677641,28.13397400496308,Balıkesir,Public,8
+174399,ZES - O178 - İzmir Yönü,ZES,39.92465549006087,28.133658897699437,Balıkesir,Public,8
+174095,"EŞARJ - Hampton by Hilton, Gelibolu",Eşarj (TR),40.41282441491259,26.67877082742893,Gelibolu,Public,2
+172990,ZES - Metropol Istanbul DC,ZES,40.99401592659461,29.121954178827536,Istanbul,Public,5
+172249,Tire Park AVM,ZES,38.096172503829,27.72829252063002,Tire,Public - Membership Required,1
+172240,Renault Ordu A.Ş.,Eşarj (TR),38.625865917604585,27.43583041628972,Şehzadeler,Public - Membership Required,2
+172239,Ercoş Total,Sharz.Net,38.6231781782779,27.431605063114148,Şehzadeler,Public - Membership Required,1
+172238,Zorpet,ZES,38.61372178884508,27.380249238186707,Yunusemre,Public - Membership Required,1
+172237,45Park AVM,ZES,38.62910911014004,27.38821340126526,Yunusemre,Public - Membership Required,2
+172236,Meydan,Sharz.Net,41.02354289759106,29.12585402125194,Ümraniye,Public - Membership Required,1
+170963,EŞARJ - Aytemiz Koşuyolu,Eşarj (TR),41.00477883306317,29.03541279336855,,Public,0
+168359,EŞARJ - Otostat Sancaktepe,Eşarj (TR),40.98007208115362,29.21300398469657,Istanbul,Public,0
+167267,ZES O122 120 DC İzmir YÖNÜ,ZES,40.27378123791632,28.600534638519207,Taşpınar,Public,2
+167266,İstanbul İzmir Otoyolu,ZES,40.27228579990731,28.60182634996704,Taşpınar,Public,2
+165268,"Eşarj - KuveytTürk, Kocaeli",Eşarj (TR),40.868114,29.379469,Kocaeli,Public,0
+165267,"Eşarj - Öztorun Oto, Kocaeli",Eşarj (TR),40.773018,29.968559,Kocaeli,Public,0
+165266,"Eşarj - Doğuş Otomotiv, Kocaeli",Eşarj (TR),40.865818,29.39612,Kocaeli,Public,0
+165265,"Eşarj - ASF Otomotiv, Gebze",Eşarj (TR),40.786926,29.417063,Kocaeli,Public,0
+165264,"Eşarj - TÜBİTAK MAM, Kocaeli",Eşarj (TR),40.787437,29.458794,Kocaeli,Public,0
+165263,"Eşarj - Kilim Otel, İzmir",Eşarj (TR),38.426033,27.132443,İzmir,Public,0
+165262,Eşarj - İzmir Palas Otel,Eşarj (TR),38.431549,27.136526,İzmir,Public,1
+165261,"Eşarj - Hilltown AVM, Karşıyaka",Eşarj (TR),38.479324,27.074808,İzmir,Public,0
+165260,"Eşarj - Hilltown AVM, Karşıyaka",Eşarj (TR),38.479343,27.074918,İzmir,Public,0
+165259,"Rönesans Charger - Optimum Outlet ve Eğlence Merkezi, İzmir",Eşarj (TR),38.338852,27.135082,İzmir,Public,0
+165257,"Eşarj - Ege Perla, Konak",Eşarj (TR),38.44684,27.175578,İzmir,Public,0
+165254,"Eşarj - Özgörkey Otomotiv, Bornova",Eşarj (TR),38.453754,27.197189,İzmir,Public,0
+165253,"Eşarj - Otomol, Alsancak, İzmir",Eşarj (TR),38.43773756487738,27.160161012851404,İzmir,Public,0
+165252,"Eşarj - Mavibahçe AVM, İzmir",Eşarj (TR),38.474655,27.074982,İzmir,Public,0
+165250,"Eşarj - Aytemiz, Vadim, Kozyatağı",Eşarj (TR),40.967503,29.102757,İstanbul,Public,0
+165249,"Eşarj - Aytemiz, Kadıköy",Eşarj (TR),40.977543,29.09704,İstanbul,Public,0
+165248,"Eşarj - Modoko Çarşı, Ümraniye",Eşarj (TR),41.005756,29.157563,İstanbul,Public,0
+165247,"Eşarj - CarrefourSA, İstinye",Eşarj (TR),41.117741,29.049364,İstanbul,Public,0
+165245,"Eşarj - CarrefourSA, Anadoluhisarı",Eşarj (TR),41.080211,29.078853,İstanbul,Public,0
+165244,"Eşarj - Kanyon AVM, Levent",Eşarj (TR),41.078184,29.01131,İstanbul,Public,0
+165243,"Eşarj - Bi Mola Fenertepe, Eyüp",Eşarj (TR),41.198738,28.822584,İstanbul,Public,0
+165242,"Eşarj - Buyaka AVM, Ümraniye",Eşarj (TR),41.026295,29.125305,İstanbul,Public,0
+165241,"Eşarj - Bi Mola Işıklar, Eyüp",Eşarj (TR),41.196274,28.826164,İstanbul,Public,0
+165240,"Eşarj - Otopratik - Birlas, 4. Levent Sanayi Sitesi",Eşarj (TR),41.098945,29.005363,İstanbul,Public,0
+165237,"Eşarj - Kosifler Oto, Bostancı",Eşarj (TR),40.961561,29.112241,İstanbul,Public,0
+165236,"Eşarj - Buyaka AVM, Ümraniye",Eşarj (TR),41.026535,29.127829,İstanbul,Public,0
+165235,"Eşarj - Vadi İstanbul, Sarıyer",Eşarj (TR),41.108673,28.987551,İstanbul,Public,0
+165234,"Eşarj - The Marmara, Pera",Eşarj (TR),41.03117,28.974241,İstanbul,Public,0
+165233,"Eşarj - Aytemiz, Gaziosmanpaşa",Eşarj (TR),41.078148,28.899164,İstanbul,Public,0
+165232,"Eşarj - Tekfen Tower, 4. Levent",Eşarj (TR),41.081932,29.009003,İstanbul,Public,0
+165231,"Eşarj - Tekfen Tower, 4. Levent",Eşarj (TR),41.081924,29.009033,İstanbul,Public,0
+165230,"Eşarj - Tekfen Tower, 4. Levent",Eşarj (TR),41.081913,29.009064,İstanbul,Public,0
+165229,"Eşarj - İstanbul Oto, Yenibosna",Eşarj (TR),41.001305,28.822353,İstanbul,Public,0
+165228,"Eşarj - Kosifler Oto, Bostancı",Eşarj (TR),40.961121,29.11211,İstanbul,Public,0
+165227,"Eşarj - Borusan Oto (JLR), Avcılar",Eşarj (TR),40.993031,28.716864,İstanbul,Public,0
+165226,"Eşarj - Borusan Oto (JLR), Avcılar",Eşarj (TR),40.993011,28.71693,İstanbul,Public,0
+165225,"Eşarj - Borusan Oto, Samandıra",Eşarj (TR),40.975834,29.227957,İstanbul,Public,0
+165224,"Eşarj - Borusan Oto (JLR), Vadi, İstanbul",Eşarj (TR),41.102158,28.973856,İstanbul,Public,0
+165223,"Eşarj - Otomol, Merter, İstanbul",Eşarj (TR),41.002404,28.890553,İstanbul,Public,0
+165222,"Eşarj - Akasya AVM, Acıbadem",Eşarj (TR),41.001083,29.054726,İstanbul,Public,0
+165221,Eşarj - Uniq Istanbul,Eşarj (TR),41.108326,29.007746,İstanbul,Public,0
+165220,"Eşarj - Otopratik - Arıcıoğlu, Beyoğlu",Eşarj (TR),41.038273,28.969446,İstanbul,Public,0
+165219,"Eşarj - Aytemiz, Şişli",Eşarj (TR),41.058609,28.965727,İstanbul,Public,0
+165218,"Eşarj - Akbatı AVM, Esenyurt",Eşarj (TR),41.055424,28.666748,İstanbul,Public,0
+165217,"Eşarj - Bemcar Oto, Esenyurt",Eşarj (TR),41.04945,28.671661,İstanbul,Public,0
+165216,"Eşarj - Borusan Oto, Samandıra",Eşarj (TR),40.975578,29.22954,İstanbul,Public,0
+165215,"Eşarj - Trend Oto, Ümraniye",Eşarj (TR),41.009396,29.163401,İstanbul,Public,0
+165214,"Eşarj - Doğuş Otomotiv - Turkcell, Maltepe",Eşarj (TR),40.955299,29.118095,İstanbul,Public,0
+165213,"Eşarj - ASF Otomotiv, Kartal",Eşarj (TR),40.917294,29.17877,İstanbul,Public,0
+165212,"Eşarj - Ayedaş Genel Müdürlüğü, İstanbul",Eşarj (TR),40.92857,29.146574,İstanbul,Public,0
+165211,"Eşarj - StarCity Outlet Center, İstanbul",Eşarj (TR),41.011181,28.815447,İstanbul,Public,0
+165210,"Eşarj - Shangri-La Bosphorus Hotel, İstanbul",Eşarj (TR),41.040901,29.005075,İstanbul,Public,0
+165209,"Eşarj - Pendorya Alışveriş Merkezi, İstanbul",Eşarj (TR),40.865791,29.275307,İstanbul,Public,0
+165208,"Eşarj - Maltepe Park AVM, İstanbul",Eşarj (TR),40.919983,29.164553,İstanbul,Public,0
+165207,"Eşarj - The Grand Tarabya, İstanbul",Eşarj (TR),41.139877,29.05719,İstanbul,Public,0
+165206,Eşarj - Gayrettepe Taşyapı - Özgün Katlı Otopark,Eşarj (TR),41.064011,29.002472,İstanbul,Public,0
+165205,"Eşarj - Borusan Oto, İstinye",Eşarj (TR),41.119682,29.048466,İstanbul,Public,0
+165204,"Eşarj - Borusan Oto, Avcılar",Eşarj (TR),40.992699,28.717186,İstanbul,Public,0
+165203,"Eşarj - Akasya AVM, Acıbadem",Eşarj (TR),41.000813,29.054344,İstanbul,Public,0
+165202,Eşarj - Hilton İstanbul Bomonti Hotel and Conference Center,Eşarj (TR),41.058296,28.979471,İstanbul,Public,0
+165201,"Eşarj - Selenium, Fulya",Eşarj (TR),41.054211,29.000151,İstanbul,Public,0
+165200,"Eşarj - Optimum, Ataşehir",Eşarj (TR),40.988682,29.085714,İstanbul,Public,0
+165199,"Eşarj - Pelican Mall, Avcılar",Eşarj (TR),40.991127,28.714201,İstanbul,Public,0
+165198,"Eşarj - Tepe Nautilus, Kadıköy",Eşarj (TR),40.99984,29.030685,İstanbul,Public,0
+165197,"Eşarj - Flyinn AVM, Florya",Eşarj (TR),40.972824,28.804192,İstanbul,Public,0
+165196,"Eşarj - Kanyon AVM, Levent",Eşarj (TR),41.078171,29.011318,İstanbul,Public,0
+165195,"Eşarj - Palladium AVM, Ataşehir",Eşarj (TR),40.986126,29.100428,İstanbul,Public,0
+165194,"Eşarj - The Marmara, Taksim",Eşarj (TR),41.0364,28.986444,İstanbul,Public,0
+165193,"Eşarj - Polat Renaissance Hotel, Yeşilyurt",Eşarj (TR),40.960232,28.839064,İstanbul,Public,0
+165192,"Eşarj - Akbatı AVM, Esenyurt",Eşarj (TR),41.055676,28.667032,İstanbul,Public,0
+165191,"Eşarj - Sabancı Üniversitesi, Tuzla",Eşarj (TR),40.891113,29.378279,İstanbul,Public,0
+165190,"Eşarj - İspark, Balmumcu",Eşarj (TR),41.063892,29.010958,İstanbul,Public,0
+165184,"Eşarj - Aytemiz, Polatcan, Keşan",Eşarj (TR),40.875047,26.64221,Edirne,Public,0
+165181,"Eşarj - Otopratik - Grup Lastik, Nilüfer",Eşarj (TR),40.211777,28.93392,Bursa,Public,0
+165180,"Eşarj - Burmot Motorlu Vasıtalar, Nilüfer",Eşarj (TR),40.214622,28.9009,Bursa,Public,0
+165179,"Eşarj - Aytemiz - İzmir Otoyolu, Bursa",Eşarj (TR),40.233219,28.781492,Bursa,Public,0
+165178,"Eşarj - Teknik Oto, Nilüfer",Eşarj (TR),40.212379,28.927334,Bursa,Public,0
+165177,"Eşarj - Teknik Oto, Osmangazi",Eşarj (TR),40.306919,29.061878,Bursa,Public,0
+165134,ZES - O375 - İstanbul Yönü ,ZES,38.48610630420566,27.574409191323294,Manisa,Public,1
+160841,Eşarj - Özgörkey ( JLR & BMW),Eşarj (TR),38.45414839493819,27.197701430803363,Bornova,Private - Restricted Access,2
+157324,EŞARJ - Aytemiz Vadim Kadıköy,Eşarj (TR),40.96766369620363,29.10274806708981,Bostancı,Public - Membership Required,1
+154959,EŞARJ - Borusan Otomotiv Avcılar,Eşarj (TR),40.99269569198484,28.716895474739204,istanbul,Public - Notice Required,1
+148540,ZES - Gediz Petrol,ZES,38.93709431513989,29.31490697656284,Gediz,Public - Membership Required,1
+147934,ZES - Hotel La Bella Bergama,ZES,39.09211463858418,27.13551865043132,Bergama,Public - Membership Required,1
+147865,ZES- Oksijen O86 İzmir Yönü,ZES,40.28318505215475,28.995856599171702,Osmangazi ,Public - Membership Required,1
+147824,ZES - ICA Işıklar Bi' Mola DC,ZES,41.1971649893261,28.824461860074507,Istanbul,Public,1
+147823,ZES - O375 - İzmir Yönü ,ZES,38.48762248078637,27.57281254538884,Manisa,Public,2
+146324,EŞARJ - Carrefoursa Anadolu Hisarı,Eşarj (TR),41.080090729967736,29.079243549696912,Istanbul,Public - Membership Required,1
+135480,SHARZ - Tekirdağ Tekpark,Voltrun,40.97834390293176,27.515527748778368,Tekirdağ,Public - Membership Required,1
+135344,EŞARJ - Otomol Merter,Eşarj (TR),41.00241770210468,28.89054078200047,,Public - Membership Required,1
+135342,EŞARJ - BUYAKA AVM,Eşarj (TR),41.02634176611932,29.12743340890688,Istanbul,Public - Membership Required,1
+135338,EŞARJ - Shell Eyüp İçtur,Eşarj (TR),41.19820757011669,28.82235409217856,Istanbul,Public - Membership Required,1
+135229,ZES - Orion AVM Çorlu,ZES,41.150553394029714,27.83487201548735,Çorlu,Public - Membership Required,2
+131264,EŞARJ - Aytemiz Polatcan Petrol,Eşarj (TR),40.8748542595632,26.6398945344233,Keşan,Public - Membership Required,1
+129461,ZES - Oksijen O68 İstanbul Yönü,ZES,40.3900076839376,29.1416823261353,Bursa,Public,8
+127187,EŞARJ - Aytemiz Eyüp İçtur,Eşarj (TR),41.1969533583384,28.8259827204768,Istanbul,Public - Membership Required,1
+126195,ZES - Uşak Festiva Outlet,ZES,38.6774144789242,29.4407761949709,Uşak,Public,4
+126194,ZES - Akhisar Novada AVM,ZES,38.9435848923698,27.8328930435487,Manisa,Public,4
+126193,ZES - Susurluk Festiva Outlet,ZES,39.8416991139274,28.1426228071947,Sultançayırı,Public,2
+126104,ZES - Oksijen O37 İzmir Yönü,ZES,40.5243463356609,29.3415156945335,Bursa,Public,8
+126103,ZES - Oksijen O3,ZES,40.7739763674968,29.5193703556399,Dilovası,Public,4
+126102,ZES - Zorlu Center,ZES,41.0676580034195,29.0181421562716,Beşiktaş,Public,4
+107961,EŞARJ - Akbatı AVM,Eşarj (TR),41.0561316,28.6677377999999,Istanbul,Public - Membership Required,1
+107960,EŞARJ - Akasya AVM,Eşarj (TR),41.0016789,29.0548257,Istanbul,Public - Membership Required,1
+107959,EŞARJ - Aytemiz Petrol Kadıköy,Eşarj (TR),40.9776617283262,29.0971235276788,Istanbul,Public - Membership Required,2
+107958,EŞARJ - Aytemiz Petrol Şişli,Eşarj (TR),41.059464,28.9761063999999,Istanbul,Public - Membership Required,1
+107957,EŞARJ - Kanyon AVM,Eşarj (TR),41.0785168,29.0108798,Istanbul,Public - Membership Required,1
+107953,EŞARJ - Aytemiz Petrol İzmir Otoyolu,Eşarj (TR),40.2319338437845,28.7813703412681,Bursa,Public - Membership Required,1
+78883,"Akasya AVM, Acıbadem",Eşarj (TR),41.0003279,29.0551021,Üsküdar,Public - Membership Required,2
+78814,"EŞARJ - Ak-Tan Petrol, Karşıyaka",Eşarj (TR),38.4684675,27.1135585,Karşıyaka,Public - Membership Required,1
+62716,Uğur Mumcu Caddesi,Stadtwerke Clausthal-Zellerfeld,41.087936,29.017988,Beşiktaş,Bilinmiyor,1
+31451,Balmumcudere Sokak,Essent (NL),41.058854,29.007962,Beşiktaş,Bilinmiyor,1
+31450,Saray Caddesi 5,Essent (NL),41.047791,29.009475,Beşiktaş,Bilinmiyor,1
+31449,Acısu Sokak,Essent (NL),41.041178,28.996747,Beşiktaş,Bilinmiyor,1

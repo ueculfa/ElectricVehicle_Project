@@ -1,0 +1,883 @@
+﻿OCM_ID,Istasyon_Adi,Operator,Enlem,Boylam,Sehir,Kullanim_Tipi,Priz_Sayisi
+487075,CURB - Ketrész utcai parkolóház,Curb (Hungary),47.89866715565168,20.384351905314702,Eger,Public,7
+478197,CURB - Expo-Csemege Kft.,Curb (Hungary),47.768788,21.860171,Balkány,Public,1
+473107,E.ON Drive - Morohalom,E.ON (HU),46.221583278007984,19.900158429182852,Morahalom,Public,1
+472605,Dévaványa EV charger,Holtoltsek.hu,47.02808,20.95982,Dévaványa,Public,2
+471001,GTC Pillar Office Building (private),Mobiliti.hu,47.523303660625885,19.066153913126755,Budapest,"Private - For Staff, Visitors or Customers",8
+470167,CURB - Mi-Shop Bevásárlóközpont Miskolc,Curb (Hungary),48.053588,20.798598,Miskolc,Public,4
+462456,TEA. 60-as Fogadó Északi oldal Budapest felé,TEA.,47.6889884,19.7421634,Hort,Public,2
+462429,CURB - DH-Szerviz Debrecen,Curb (Hungary),47.54149122233571,21.606257445534652,Debrecen,Public,1
+462428,CURB - Kerekestelepi Kemping Debrecen,Curb (Hungary),47.50825055626376,21.63791509026396,Debrecen,Public,1
+462170,CURB - Polyduct Nádudvar,Curb (Hungary),47.417240581046286,21.175289942385007,Nádudvar,Public - Pay At Location,1
+461760,Tesla Supercharger Pécs,Tesla (including non-tesla),46.06431783089815,18.18236823197185,Pécs,Public - Membership Required,8
+461657,Mi Casa apartments,(Unknown Operator),47.87522324232074,17.274904084207947,Mosonmagyarovar,"Private - For Staff, Visitors or Customers",2
+461131,CURB - N-Trade Benzinkút Cigánd,Curb (Hungary),48.263497,21.894466,Cigánd,Public,1
+460523,Mobiliti Pasaréti tér,Mobiliti.hu,47.52338256767695,18.992905631684607,Budapest,Public - Membership Required,1
+460224,OMV eMotion töltőállomás,(Unknown Operator),46.96401313910059,18.890838342397274,Dunaújváros,Public,2
+459919,CURB - Horváth és Társa,Curb (Hungary),46.40256,20.356911,Hódmezővásárhely,Public,2
+459055,Vár-Liget Vendégház,Mobiliti.hu,47.85156839676958,20.145684750660735,Kisnána,Public - Membership Required,1
+458920,CURB - Csimborasszó Egészségügyi Központ,Curb (Hungary),47.246084,16.604407,Szombathely,Public,1
+457975,Lidl,Lidl,47.7928461423237,19.115667460324772,Vác,Public,4
+313310,McDonald's ,Mobiliti.hu,47.67710564762419,19.667077206580075,Hatvan,Public - Membership Required,2
+313307,Tesla Supercharger Obuda,Tesla (including non-tesla),47.56108,19.04912,,Public - Membership Required,12
+313306,Tesla Supercharger Szigetszentmiklós,Tesla (including non-tesla),47.38344,19.02683,,Public - Membership Required,20
+313305,Tesla Supercharger Székesfehérvár,Tesla (including non-tesla),47.14965,18.43133,,Public - Membership Required,12
+312979,evDirect 210 kW | Páhi,EV Direct,46.9261435463103,17.837953230973426,Aszófő,Public - Membership Required,2
+312978,World Mall DC charger,Mobiliti.hu,47.54882921019254,19.14646076269665,Budapest,Public,2
+312633,CURB - Mátyásföldi Jégcsarnok,Curb (Hungary),47.50310697035874,19.201576224570232,Budapest,Public,2
+311941,Penny,Mobiliti.hu,47.192662553456614,18.403310796661458,Székesfehérvár,Public - Membership Required,2
+311940,Krém,Elektromotive (UK),47.19551457622569,18.404334932372194,Székesfehérvár,Public - Membership Required,1
+311939,Zichy liget,Elektromotive (UK),47.19657105000573,18.40836685628517,Székesfehérvár,Public - Membership Required,2
+308462,13555 - e-Mobi,Mobiliti.hu,47.383347673469416,18.90532697187848,Érd,Public - Membership Required,1
+308053,CURB - Szent István út Ruzsa,Curb (Hungary),46.289959,19.747533,Ruzsa,Public,1
+308052,CURB - Alkotmány tér Ruzsa,Curb (Hungary),46.288466,19.748838,Ruzsa,Public,2
+304572,CURB - Hotel Pangea Nyíregyháza-Sóstó,Curb (Hungary),48.001085,21.727921,Nyíregyháza-Sóstó,Public,1
+303672,Ferihegyi repülőtérre vezető út,(Unknown Operator),47.438297923199656,19.22284612466359,,Public - Pay At Location,16
+302171,CURB - Móricz Zsigmond Színház Nyíregyháza,Curb (Hungary),47.95398653700684,21.711190403041,Nyíregyháza,Public,1
+301865,"Debrecen, Sas utcai mélygarázs",DV Parking (HU),47.529345,21.627406,Debrecen,Public,7
+301723,Ionity Sormas,Ionity,46.460536324455944,16.906579053314545,,Public - Pay At Location,4
+301641,CURB - Nyíregyháza Zoo,Curb (Hungary),48.002691,21.723911,Nyíregyháza,Public,2
+301619,CURB - Nyíregyháza Zoo,Curb (Hungary),48.002691,21.723911,Nyíregyháza-Sóstófürdő,Public,1
+300231,"Mád, Elektro Profi Mobility töltő",Elektro Profi Mobility (HU),48.19054150275642,21.276967730304932,Mád,Public,2
+300227,Munkácsy Mihály út 11.,Elektro Profi Mobility (HU),47.602133671296315,19.68770850071496,Boldog,Public,2
+300115,Feketerét utca,Mobiliti.hu,47.4510855781636,18.904215747898576,Törökbálint,Public - Membership Required,3
+300114,Dulácska utca,Mobiliti.hu,47.43910628474225,18.889709910726367,Törökbálint,Public - Membership Required,2
+299979,TEA. Lőrinci 50 kW DC ,TEA.,47.737279,19.67882,Lőrinci ,Public,3
+299254,TEA. Monor 75 kW DC ,TEA.,47.35148182181729,19.446115468734206,Monor ,Public,2
+298510,TEA. Tata Forbild M1,TEA.,47.630395729213234,18.31306397165247,Tata,Public,3
+297661,Tele Tank,(Unknown Operator),46.37455583711156,17.765693301255965,Kaposvár,Public,1
+297535,Némedi út,(Unknown Operator),47.346660935881914,19.117838707891565,Dunaharaszti,Public,1
+295809,CURB - Kéri Étterem és Pizzéria Szentkirály,Curb (Hungary),46.91253182904603,19.915258876641133,Szentkirály,Public,2
+279531,Körös Autó,Bilinmiyor,46.68186179,21.07196395,Békéscsaba,Public - Pay At Location,1
+279510,Audi Power 180 KW,Bilinmiyor,47.589149842190665,19.376876327729633,Debrecen,Public - Pay At Location,1
+272483,TEA. Angyalföld KMGY,TEA.,47.539909,19.074358,Budapest ,Public,2
+265389,TEA. Parád,TEA.,47.9235865,20.0526985,Parád,Public - Membership Required,2
+258657,Ilona utca,TEA.,47.3663556526179,18.99247297656325,Halásztelek,Public,3
+258479,TEA. Halásztelek iWELD 100kW DC,TEA.,47.367600547108054,18.996158573556613,Halásztelek ,Public,2
+258187,TEA. Balatonakali FÉK üzletház ,TEA.,46.88287,17.749456,Balatonakali ,Public,2
+235561,GRID (evDirect) Skoda AutóCity 150kW,EV Direct,46.08403010490531,18.27165150162,Pécs,Public - Membership Required,4
+235334,LIDL Sopron Lófuttató út,(Unknown Operator),47.67354615152459,16.601059994927596,Sopron,Public - Membership Required,4
+213431,Üzemanyagtöltő állomás - Akasztó,(Unknown Operator),46.6973073744596,19.199465211492452,Akasztó,Public - Membership Required,2
+213398,CURB - Zöldfa Üzletház Mátészalka,Curb (Hungary),47.947357,22.323067,Mátészalka,Public,3
+213098,CURB - Büttner Nagyatád,Curb (Hungary),46.21640020034772,17.35217660200945,Nagyatád,Public,1
+210129,"FreeCharger - Biatorbágy, Bevásárlóközpont, AC, 11 kW",(Unknown Operator),47.47341344409588,18.83908829095276,Biatorbágy,Public - Membership Required,1
+209649,Shell,Mobiliti.hu,47.41738924279488,19.25507618898814,,Public - Membership Required,2
+206033,TEA. Záhony ,TEA.,48.398511,22.177,Záhony,Public - Membership Required,1
+205268,HUFBAU Hajdúszoboszló,TEA.,47.4394,21.40214,Hajdúszoboszló,Public - Membership Required,2
+195326,Nova Futura - Verpelét ,TEA.,47.84663870259868,20.22536827999079,Verpelét ,Public,2
+194685,TEA. Badacsony,TEA.,46.789999,17.506818,Badacsony,Public,2
+194680,TEA. Badacsonytomaj,TEA.,46.80546,17.515451,Badacsonytomaj,Public,2
+194679,TEA. TetraPak Eco Smart 10,TEA.,47.455912,18.902285,Budaörs,Public - Membership Required,10
+194675,TEA. Rácalmás,TEA.,47.023753,18.938388,Rácalmás,Public,2
+194673,TEA. Józsefváros ,TEA.,47.486732,19.093084,Budapest,Public,2
+194672,TEA. Dömös,TEA.,47.763155,18.915826,Dömös,Public,2
+194669,TEA. Dobogómajor,TEA.,46.793439,17.202584,Cserszegtomaj,Public,2
+194668,TEA. Solt,TEA.,46.8009525,19.0029362,Solt,Public,2
+194667,TEA. Harta,TEA.,46.698329,19.021168,Harta,Public,2
+194665,TEA. Lajosmizse Fóliavarázs,TEA.,47.0307924,19.561805,Lajosmizse,Public,2
+194663,TEA. Pomáz Breier Farm,TEA.,47.6633125,18.9659219,Pomáz,Public,2
+194662,TEA. Vasvár,TEA.,47.0575602,16.8159592,Vasvár,Public,2
+194661,TEA. Hollóháza,TEA.,48.534735,21.418714,Hollóháza,Public,2
+194660,SKI II. Public,TEA.,47.7389466,18.0689237,Komárom,Public,4
+194659,TEA. Premier Outlet Nyugat,TEA.,47.4657668,18.8852717,Budaörs,Public,2
+194658,TEA. Premier Outlet Kelet,TEA.,47.4648865,18.8888763,Budaörs,Public,2
+194637,TEA. Siófok Centrum Autó,TEA.,46.884099,18.065458,Siófok,Public,3
+194635,TEA. Tisza-tavi Ökocentrum,TEA.,47.646287,20.660945,Poroszló,Public,2
+194634,TEA. Szfvár Interspar 5 AC,TEA.,47.191089075834356,18.42620720648995,Székesfehérvár,Public,1
+194633,TEA. Eplény Vibe Park,TEA.,47.214226,17.929103,Eplény,Public,1
+194632,TEA. Sobri Jóska ,TEA.,47.131544,17.629144,Kislőd,Public,1
+194631,TEA. Folly Arborétum,TEA.,46.8092635,17.544754,Badacsonytomaj,Public,6
+194626,TEA. Nyíregyháza Ledtechnika,TEA.,47.937061,21.749332,Nyíregyháza,Public,1
+194601,TEA. Szilvásvárad,TEA.,48.097234949499835,20.38743524741369,Szilvásvárad,Public,1
+194600,TEA. Orosháza 50 kW DC,TEA.,46.55882528017926,20.673291920992483,Orosháza,Public,1
+194589,TEA. Kapuvár 50 kW DC,TEA.,47.5975561,17.02991,Kapuvár,Public,1
+194588,TEA. Aréna IMO 75 kW DC,TEA.,47.49904734824722,19.09535721370412,Budapest,Public,1
+194580,TEA. AVIA Kápolnásnyék ,TEA.,47.245545747793216,18.695812686890577,Kápolnásnyék ,Public,1
+194579,TEA. Svábhegy Príma CBA 75 kW,TEA.,47.49729072822865,18.988911783954904,Budapest ,Public,1
+194578,TEA. Cegléd M4 Röfi Csárda ,TEA.,47.185201789425065,19.931527104478164,Cegléd ,Public,3
+194577,TEA. 60-as Fogadó Déli oldal Debrecen felé,TEA.,47.68790058964717,19.741632619638835,Hort ,Public,2
+194326,Bem József utca,Mobiliti.hu,47.74167431425562,18.133211166145202,Komárom,Public - Membership Required,2
+193709,TEA. Siklós,TEA.,45.8539227,18.2955948,Siklós,Public,2
+193410,McDonald's Mobiliti DC 50kW,Mobiliti.hu,48.23294618388286,22.06546706862582,Kisvárda,Public - Membership Required,1
+192026,TEA. SARPI Dorog Égetőmű,TEA.,47.730366498247776,18.709659764433923,Tokodaltáró,Public,1
+192018,"Szikszo, Angel Petrol, 20057 - Mobiliti",Mobiliti.hu,48.176472150659464,20.914364367890357,Szikszo,Public - Membership Required,2
+191367,Budakalász Auchan,Mobiliti.hu,47.61249112817666,19.061339692031424,Budakalász,Public - Membership Required,1
+191355,MOL Plugee Magyarcsanád M43,MOL,46.2217434044843,20.652820745274767,Magyarcsanád,Public - Membership Required,2
+191236,TEA. Nagykovácsi,TEA.,47.57834085219187,18.882771955796102,Nagykovácsi,Public,3
+191233,METRO Budakalász,Mobiliti.hu,47.617184181697155,19.06719086098917,Budakalász,"Private - For Staff, Visitors or Customers",4
+191232,Heltai Jenő tér MVM Mobiliti,Mobiliti.hu,47.59895238420856,19.056903380155518,Budapest,Public - Membership Required,2
+191064,TEA. Székesfehérvár Interspar,TEA.,47.191060607563145,18.426323747185393,Székesfehérvár,Public,10
+190957,Mobiliti e-töltőpont,Mobiliti.hu,47.95710387923296,21.719725838970362,Nyíregyháza,Public - Membership Required,2
+190554,IONITY Balatonkeresztúr (dir. Zagreb),Ionity,46.685418,17.379475,Balatonkeresztúr,Public,4
+190548,IONITY Balatonkeresztúr (dir. Budapest),Ionity,46.683272,17.379343,Balatonkeresztúr,Public,4
+189714,TEA. Mátrakeresztes,TEA.,47.904477,19.807883,Mátrakeresztes,Public,2
+189712,TEA. Lázbérc,TEA.,48.187762,20.486916,Dédestapolcsány,Public,2
+189711,TEA. Polgár,TEA.,47.84101660445128,21.13099470375562,Polgár,Public,2
+189682,Nova Futura Zrt.,Gyorstöltők,46.871569298162626,18.859634147181396,Daruszentmiklós,Public,1
+189681,OMV,(Unknown Operator),46.79491476261944,18.91845033070595,Dunaföldvár,Public - Membership Required,1
+189497,GRID (evDirect) Szekszárd M6 VW AutoCity,EV Direct,46.37405241084309,18.70865428015736,Szekszárd,Public,3
+189434,HBH Bajor Sörház Étterem és Panzió,(Unknown Operator),48.260517051548874,20.622389567200457,Kazincbarcika,Public,2
+189361,"Szolnok, Auchan, 20042",Mobiliti.hu,47.15895,20.19791,Szolnok,Public - Membership Required,1
+189360,"Szolnok, Auchan, 10185",Mobiliti.hu,47.15895,20.19791,Szolnok,Public - Membership Required,1
+189265,"Orosháza, Előd utca",Mobiliti.hu,46.55919,20.66821,Orosháza,Public - Membership Required,2
+189263,"Szolnok, Auchan, 10186",Mobiliti.hu,47.15895,20.19791,Szolnok,"Private - For Staff, Visitors or Customers",2
+189196,OMV Kiskunfélegyháza M5 Exit-114,(Unknown Operator),46.67528,19.820283,Kiskunfélegyháza,Public,2
+188933,Jánosháza ,(Unknown Operator),47.12074656487559,17.163716011430438,Jánosháza,Public,2
+188733,Almalomb ,Mobiliti.hu,46.15555886657845,18.353160901715565,Hosszúhetény,Public - Membership Required,4
+185560,"Kecskemét ALDI, Szent István körút",E.ON (HU),46.91108,19.719839,Kecskemét,Public,2
+185559,"Baja ALDI, Dózsa György út",E.ON (HU),46.19392011,18.95187419,Baja,Public,4
+185558,"Hódmezővásárhely ALDI, Kaszap utca",E.ON (HU),46.409142,20.324747,Hódmezővásárhely,Public,4
+185557,"Veresegyház, Ráday utca",E.ON (HU),47.657614,19.285083,Veresegyház,Public,4
+185556,"Kiskunhalas ALDI, Fűzér utca",E.ON (HU),46.417641,19.495941,Kiskunhalas,Public,4
+185555,"Budaörs ALDI, Kandó Kálmán út",E.ON (HU),47.462304,18.895412,Budaörs,Public,4
+185554,"Nagykőrös ALDI, Kossuth Lajos út",E.ON (HU),47.034777,19.767404,Nagykőrös,Public,2
+185552,"Cegléd ALDI, Pesti út",E.ON (HU),47.178019,19.774267,Cegléd,Public,4
+185551,"Ózd ALDI, Jászi Oszkár utca",E.ON (HU),48.219953,20.287969,Ózd,Public,4
+185550,"Ajka ALDI, Fő út",E.ON (HU),47.117734,17.54627,Ajka,Public,4
+176356,"Nagykanizsa ALDI, Dózsa György utca",E.ON (HU),46.46223,17.008631,Nagykanizsa,Public,2
+176354,"Keszthely ALDI, Tündérlak út",E.ON (HU),46.774776,17.277633,Keszthely,Public,4
+176347,"Dunaújváros ALDI, Eszperantó út",E.ON (HU),46.957428,18.946614,Dunaújváros,Public,2
+176346,"Budapest ALDI, Kerepesi út #1",E.ON (HU),47.503947,19.150409,Budapest,Public,4
+176344,"Jászberény ALDI, Nagykátai út",E.ON (HU),47.487617,19.887317,Jászberény,Public,4
+176297,Hotel Corvin Sissi,(Business Owner at Location),47.48340632040359,19.070607947145504,Budapest,"Private - For Staff, Visitors or Customers",1
+176068,TEA. Galyatető,TEA.,47.916747,19.924799,Mátraszentimre,Public,2
+176043,TEA. Eplény,(Unknown Operator),48.05816498413603,20.74998109499802,Eplény,Public - Membership Required,1
+176013,TEA. Miskolctapolca,TEA.,48.063653,20.750438,Miskolc,Public,10
+175391,MOL Plugee Kerekharaszt M3 S,MOL,47.66771033893508,19.62487444972669,Kerekharaszt,Public - Pay At Location,1
+175390,MOL Plugee Kerekharaszt M3 N,MOL,47.66896868669775,19.625184239112627,Kerekharaszt,Public - Pay At Location,1
+174964,MOL Plugee Görbeháza M3 S,MOL,47.80152213142131,21.19777933884029,Görbeháza,Public - Pay At Location,1
+174963,MOL Plugee Görbeháza M3 N,MOL,47.802458790772135,21.20031383352864,Görbeháza,Public - Pay At Location,1
+174375,Szilva utca,(Unknown Operator),47.78894136526242,20.578214261353423,Mezőkövesd,Public,1
+174045,MOL Plugee Szatymaz M5 E,MOL,46.3718403636247,19.998872573171525,Szatymaz,Public - Pay At Location,1
+174044,MOL Plugee Szatymaz M5 W,MOL,46.37260036023548,19.99691699130301,Szatymaz,Public - Pay At Location,1
+174043,MOL Plugee Kecskemét M5 E,MOL,46.8476001929067,19.66667126675179,Kecskemét,Public - Pay At Location,1
+174042,MOL Plugee Kecskemét M5 W,MOL,46.84784402628347,19.66463900079384,Kecskemét,Public - Pay At Location,1
+174041,MOL Plugee Zalakomár M7 S,MOL,46.51049791492616,17.190561292179837,Zalakomár,Public - Pay At Location,1
+174040,MOL Plugee Zalakomár M7 N,MOL,46.512182509766774,17.191351479670857,Zalakomár,Public - Pay At Location,1
+174038,MOL Plugee M7 Füle S,MOL,47.025424982735046,18.26092581394869,Füle,Public - Pay At Location,1
+174037,MOL Plugee M1 Győr N,MOL,47.63371329416225,17.665980626010878,Győr,Public - Pay At Location,1
+174036,MOL Plugee M1 Páty S,MOL,47.49449565663852,18.81743592836142,Páty,Public - Pay At Location,1
+174035,MOL Plugee M1 Páty N,MOL,47.49536005593933,18.818509975865368,Páty,Public - Pay At Location,2
+174034,MOL Plugee Rétság,MOL,47.93217724255726,19.138085990686022,Rétság,Public - Pay At Location,1
+174033,MOL Plugee M3 Kál N,MOL,47.72331207709567,20.318026467039772,Kál,Public - Membership Required,1
+174032,MOL Plugee M3 Kál S,MOL,47.72252281695242,20.315338885191068,Kál,Public - Pay At Location,1
+173086,MOL Plugee Mosonmagyaróvár M1 S,MOL,47.871453873211294,17.214976161640607,Mosonmagyaróvár,Public,2
+173085,MOL Plugee Mosonmagyaróvár M1 N,MOL,47.87153982838791,17.21696448841294,Mosonmagyaróvár,Public,2
+173084,M7,MOL,46.775711988073425,17.720535053798926,Balatonlelle,Public - Pay At Location,2
+173083,M7,MOL,46.77698053124354,17.72083887205588,Balatonlelle,Public - Pay At Location,2
+173036,NKM 22 kW DC Bártfai utca,NKM mobiliti,47.46739446036776,19.03176404016881,Budapest,Public - Pay At Location,1
+172616,IONITY Szigetszentmiklós,Ionity,47.38026067105821,19.055818725963718,Szigetszentmiklós,Public - Pay At Location,2
+172544,Lidl Nagytétényi út,Lidl,47.40013057084542,19.004680348348984,Budapest,Public - Membership Required,4
+172543,Penny Market Füredi utca,Volthero,47.50984600986726,19.144977614527306,Budapest,Public - Membership Required,2
+172542,Penny Market Pesti út,Volthero,47.484706630592854,19.235866986887004,Budapest,Public - Membership Required,2
+172493,TEA. Kaposvár Petőfi Center,TEA.,46.3650747,17.7850097,Kaposvár,Public,2
+171103,TEA. Wolf Autó,TEA.,47.21042014209908,18.364287957287843,Székesfehérvár,Public,2
+171028,TEA. Mosonmagyaróvár M1 Kisdeszka Étterem,TEA.,47.856024493575234,17.26489882095217,Mosonmagyaróvár,Public,2
+170988,ALDI Balatonalmádi,TEA.,47.04009300000061,18.019094000002724,Balatonalmádi,Public,2
+170760,TEA. Barcs,TEA.,45.9590962,17.4515385,Barcs,Public,2
+170565,"Siófok ALDI, Attila utca",E.ON (HU),46.892116,18.058608,Siófok,Public - Membership Required,2
+170564,"Szentendre ALDI, Kalászi út",E.ON (HU),47.64015,19.06652,Szentendre,Public - Membership Required,1
+170563,"Hajdúszoboszló ALDI, Kabai út",E.ON (HU),47.434681,21.374519,Hajdúszoboszló,Public - Membership Required,2
+170562,"Karcag ALDI, Kisújszállási út",E.ON (HU),47.299548,20.898551,Karcag,Public - Membership Required,2
+170561,"Nyíregyháza ALDI, Móricz Zsigmond utca",E.ON (HU),47.941706,21.714339,Nyíregyháza,Public - Membership Required,1
+170560,"Hajdúböszörmény ALDI, Szoboszlói utca",E.ON (HU),47.662454,21.502101,Hajdúböszörmény,Public - Membership Required,2
+170551,"Budapest ALDI, Pesti út 2",E.ON (HU),47.484931,19.225959,Budapest,Public - Membership Required,2
+168988,TEA. Budagyöngye,(Unknown Operator),47.516391,19.000031,Budapest,Public,2
+168987,Szilágyi Erzsébet fasor,(Unknown Operator),47.51620402791991,19.000393208334685,Budapest,Public - Membership Required,1
+168986,TEA. Csepel ,TEA.,47.423058,19.071654,Budapest,Public,2
+168820,"Sauska Borászat, Villány",(Unknown Operator),45.85899136818213,18.437722618244834,Villány,"Private - For Staff, Visitors or Customers",2
+168521,"Budapest ALDI, Tűzoltó utca",E.ON (HU),47.484257,19.07191,Budapest,Public,2
+168520,"Budapest ALDI, Szugló utca",E.ON (HU),47.515372,19.113057,Budapest,Public,2
+168518,"Budapest ALDI, Soroksári út",E.ON (HU),47.454056,19.088878,Budapest,Public,4
+168516,"Pápa ALDI, Celli út",E.ON (HU),47.322294,17.445081,Pápa,Public,4
+168514,"Kazincbarcika ALDI, Hadak útja",E.ON (HU),48.259087,20.622601,Kazinbarcika,Public,4
+167669,"Szentes ALDI, Csongrádi út",E.ON (HU),46.661393,20.241418,Szentes,Public,4
+167668,"Szeged ALDI, Móravárosi körút",E.ON (HU),46.244176,20.125048,Szeged,Public,4
+167667,"Vác ALDI, Gödöllői út",E.ON (HU),47.764647,19.141011,Gödöllő,Public,4
+167666,"Vecsés ALDI, Wass Albert utca",E.ON (HU),47.398671,19.248074,Vecsés,Public,2
+165289,"Gödöllő ALDI, Bossányi Krisztina utca",E.ON (HU),47.607959,19.340731,Budapest,Public,2
+165288,"Budapest ALDI, Erdőkerülő utca",E.ON (HU),47.540528,19.151978,Budapest,Public,2
+165287,"Budapest ALDI, Szalay utca",E.ON (HU),47.462666,19.131622,Budapest,Public,4
+165286,"Budapest ALDI, Rétköz utca",E.ON (HU),47.46693407503355,19.0050225725588,Budapest,Public,2
+165285,"Budapest ALDI, Háros utca",E.ON (HU),47.410992,19.023994,Budapest,Public,2
+165284,"Mosonmagyaróvár ALDI, Királyhidai út",E.ON (HU),47.878812,17.256647,Mosonmagyaróvár,Public,4
+163406,József Attila út,NKM mobiliti,48.10838550523604,20.834879526373925,Miskolc,Public,1
+163405,Táncsics Mihály utca,NKM mobiliti,47.17444864467686,20.197154652104928,Szolnok,Public,1
+162511,Városmajor utca 55.,E-Mobi,47.181075099217765,20.206438299354886,Szolnok,Public,2
+162509,TEA. Katica Tanya,TEA.,46.278714,17.71675,Patca,Public,2
+162507,Penny Market,(Unknown Operator),46.36483888695173,17.796594775581525,Kaposvár,Public,2
+162506,"Kaposvár, Honvéd utca",(Unknown Operator),46.362040793328845,17.787656475748236,Kaposvár,Public,2
+162505,"Kaposvár, Városház utca",(Unknown Operator),46.35536103101407,17.78982542551421,Kaposvár ,Public,2
+162504,"Kaposvár, Ady Endre utca",(Unknown Operator),46.356636368865566,17.786325005997014,Kaposvár,Public,2
+162503,"Kaposvár, Irányi Dániel utca",(Unknown Operator),46.355503745670404,17.792412647751007,Kaposvár ,Public,2
+162502,"Kaposvár, Budai Nagy Antal utca",(Unknown Operator),46.35308714102882,17.79624425249176,Kaposvár ,Public,2
+162501,"Kaposvár, Csík Ferenc sétány",(Unknown Operator),46.351560376786495,17.79737498135978,Kaposvár,Public,2
+162029,TEA. Hajdúszoboszló,TEA.,47.45559924496763,21.40058669843029,Hajdúszoboszló,Public,2
+161955,"Budapest ALDI, Rákóczi út",E.ON (HU),47.579419,19.050727,Budapest,Public,2
+161954,"Budapest ALDI, Régi Fóti út",E.ON (HU),47.562044,19.123201,Budapest,Public,2
+161952,"Budapest ALDI, Késmárk utca",E.ON (HU),47.534111,19.14198,Budapest,Public,2
+161949,"Budapest ALDI, Soproni út",E.ON (HU),47.461653,19.044028,Sopron,Public,2
+161948,"Kaposvár ALDI, Árpád utca",E.ON (HU),46.366059,17.806484,Kaposvár,Public,2
+161947,"Dunaharaszti ALDI, Jedlik Ányos út",E.ON (HU),47.347707,19.117628,Dunaharaszti,Public,4
+161944,"Győr ALDI, Malomszéki út",E.ON (HU),47.652007,17.630524,Győr,Public,2
+161943,"Győr ALDI, Csipkegyári út",E.ON (HU),47.677629,17.616661,Győr,Public,2
+161519,"Budapest ALDI, Pesti út 237",E.ON (HU),47.471037,19.283577,Budapest,Public,2
+161518,"Budapest ALDI, Nagytétényi út",E.ON (HU),47.399721,19.005304,Budapest,Public,4
+161516,"Székesfehérvár, ALDI Holland fasor",E.ON (HU),47.150549,18.430709,Székesfehérvár,Public,2
+161467,Irota EcoLodge,(Business Owner at Location),48.39954064329672,20.87832000279161,Irota,"Private - For Staff, Visitors or Customers",3
+161308,BP Golgota tér MOL,MOL,47.485919142374144,19.09366331241108,Budapest,Public - Pay At Location,1
+161307,BP Vágány MOL,MOL,47.522652965179844,19.081277446111812,Budapest,Public - Pay At Location,1
+161306,Vác Balassagyarmati út MOL,MOL,47.791938692064235,19.11635310817337,Vác,Public - Pay At Location,1
+161305,Kecskemét Izsáki MOL,MOL,46.89502245704625,19.665490283310305,Kecskemét,Public - Pay At Location,1
+161304,Szeged Csongrádi MOL,MOL,46.275360256422346,20.146511601132715,Szeged,Public - Pay At Location,1
+161303,Vásárosnamény Nyíregyházi út MOL,MOL,48.116645975954214,22.314235334396017,Vásárosnamény,Public - Pay At Location,1
+161302,Gödöllő Állomás út MOL,MOL,47.59935140173181,19.35512887764321,Gödöllő,Public - Pay At Location,1
+161301,Fót Keleti MOL,MOL,47.61585352080834,19.170999915497077,Fót,Public - Pay At Location,1
+161300,Pécel Köztársaság tér MOL,MOL,47.48994376427359,19.335687953677393,Pécel,Public - Pay At Location,1
+161299,Vecsés Fő út MOL,MOL,47.41917703394819,19.24616741062391,Vecsés,Public - Pay At Location,1
+161298,BP Fóti MOL,MOL,47.571315,19.111189,Budapest,Public - Pay At Location,1
+161297,BP Szentendrei 255 MOL,MOL,47.58136144849502,19.048808526339826,Budapest,Public - Pay At Location,1
+161296,BP Szentendrei 100 MOL,MOL,47.550492760876494,19.04328677287822,Budapest,Public - Pay At Location,1
+161295,BP Árpád fejedelem MOL,MOL,47.53606949986599,19.046456286114108,Budapest,Public - Pay At Location,1
+161293,BP Mészáros MOL,MOL,47.49444073544353,19.028516080458758,Budapest,Public - Pay At Location,1
+161292,BP Nagyszőlős MOL,MOL,47.474640287010374,19.024818865009706,Budapest,Public - Pay At Location,1
+161291,BP Hunyadi MOL,MOL,47.449001092172864,19.04928781390697,Budapest,Public - Pay At Location,1
+161290,BP Ócsai MOL,MOL,47.37902344045091,19.13049085247178,Budapest,Public - Pay At Location,1
+161289,Szigetszentmiklós Petőfi MOL,MOL,47.36356816897319,19.023795304907594,Szigetszentmiklós,Public - Pay At Location,1
+161288,Diósd Tétényi MOL,MOL,47.4110930267031,18.95765560167797,Diósd,Public - Pay At Location,1
+161287,Törökbálint M0 6 W MOL,MOL,47.41989281523473,18.921870835122604,Törökbálint,Public - Pay At Location,1
+161286,Érd Ercsi MOL,MOL,47.362110607982544,18.90967292588175,Érd,Public - Pay At Location,1
+161285,Budaörs METRO MOL,MOL,47.460636779808,18.89338425941196,Budaörs,Public - Pay At Location,1
+161284,Tatabánya Győri út MOL,MOL,47.596535002804046,18.386919851572657,Tatabánya,Public - Pay At Location,1
+161283,Győr Tatai MOL,MOL,47.674302399235785,17.67793834969268,Győr,Public - Pay At Location,1
+161282,Velence M7 II 45k S MOL,MOL,47.24145141035561,18.633042556503142,Velence,Public - Pay At Location,1
+161281,Velence M7 I 44k N MOL,MOL,47.24407810924703,18.637744539660844,Velence,Public - Pay At Location,1
+161280,Székesfehérvár Seregélyesi MOL,MOL,47.1898204063782,18.44841688295071,Székesfehérvár,Public - Pay At Location,1
+161278,Nagykanizsa Garay MOL,MOL,46.466973805511856,16.994574982694303,Nagykanizsa,Public - Pay At Location,1
+161277,Balatonakarattya 71 MOL,MOL,47.013495308340595,18.169508655010077,Balatonakarattya,Public - Pay At Location,1
+161276,Siófok Wesselényi MOL,MOL,46.919025125118935,18.087085690955178,Siófok,Public - Pay At Location,1
+160859,"Székesfehérvár, ALDI Holland fasor",E.ON (HU),47.150549,18.430709,Székesfehérvár,Public,2
+157574,"Jászberény, Szőlő utca",E.ON (HU),47.501618,19.907627,Jászberény,Public,2
+157572,"Budaörs, Szabadság út",E.ON (HU),47.46096937975841,18.94951008764133,Budaörs,"Private - For Staff, Visitors or Customers",2
+157571,"Budapest, Heltai Jenő tér",E.ON (HU),47.59860620796826,19.056564143766536,Budapest,"Private - For Staff, Visitors or Customers",4
+157568,"Budapest, Kunigunda útja",E.ON (HU),47.562012315901,19.035804134439104,Budapest,Private - Restricted Access,1
+157494,"Dunakeszi ALDI, Pallag utca",E.ON (HU),47.621658,19.121848,Dunakeszi,Public,2
+157493,"Budapest ALDI, Üllői út",E.ON (HU),47.451918,19.15974,Budapest,Public,2
+157492,"Budapest ALDI, Szent Imre tér",E.ON (HU),47.431172,19.066593,Budapest,Public,2
+157491,"Érd ALDI, Budafoki út",E.ON (HU),47.378082,18.940235,Érd,Public,4
+157490,"Budapest ALDI, Cziffra György utca",E.ON (HU),47.431488,19.172442,Budapest,Public,4
+157489,"Budapest ALDI, Székelyhíd utca",E.ON (HU),47.432609,19.118221,Budapest,Public,2
+157486,"Budapest ALDI, Köves út",E.ON (HU),47.416082,19.142566,Budapest,Public,2
+157484,"Budapest ALDI, Bökényföldi út",E.ON (HU),47.50344,19.215563,Budapest,Public,4
+157480,"Budapest ALDI, Rokolya utca",E.ON (HU),47.541945,19.087244,Budapest,Public,2
+157479,"Budapest ALDI, Haraszti út, Soroksár",E.ON (HU),47.386071,19.109597,Budapest,Public,4
+157478,"Szigetszentmiklós ALDI, Csepeli út",E.ON (HU),47.369484,19.047506,Szigetszentmiklós,Public,2
+157477,"Budapest ALDI, Hunyadi János  út",E.ON (HU),47.436825,19.03952,Budapest,Public,2
+157465,"Miskolc ALDI, Kiss Ernő utca",E.ON (HU),48.100056,20.746472,Miskolc,Public,4
+157460,"Miskolc ALDI, Forrás utca",E.ON (HU),48.05424,20.800901,Miskolc,Public,4
+157438,Decathlon,NKM mobiliti,47.2426233826703,16.657018598233094,Szombathely,Public,1
+156375,"Budapest ALDI, Hoffher Albert utca",E.ON (HU),47.438048,19.146531,Budapest,Public,4
+156309,"Esztergom ALDI, Dobogókői út",E.ON (HU),47.774249,18.755164,Esztergom,Public,4
+156307,SPAR Szupermarket (802.),Optimum Way,47.89048762873952,20.381743328469838,Eger,Public - Pay At Location,4
+156305,Somló Spirit,Optimum Way,47.128160680887675,17.37350136755083,Somlóvásárhely,Public - Pay At Location,2
+156304,COOP ABC (62.),Optimum Way,47.478625858290485,19.08723149194725,Budapest,Public - Pay At Location,2
+156301,Szombathely Center,Optimum Way,47.25550139342619,16.6227054876706,Szombathely,Public - Pay At Location,6
+156279,SPAR Szupermarket (802.),(Unknown Operator),47.378635499999994,18.8648913,Eger,"Private - For Staff, Visitors or Customers",1
+156278,COOP Domb áruház,Optimum Way,46.914007353128085,19.661913319756195,Kecskemét,Public,2
+156272,COOP Fórum supermarket,Optimum Way,47.19651557873331,18.41229955187606,Székesfehérvár ,Public,2
+156271,Szombathely Center,(Unknown Operator),47.255490316038845,16.622705901185327,Szombathely,Public - Pay At Location,3
+156216,"Kecskemét, Budai út",E.ON (HU),46.921823514716266,19.676866272306142,Kecskemét,"Private - For Staff, Visitors or Customers",2
+156059,"Tata, Alkotmány u.",E.ON (HU),47.650811,18.32512,Tata,Public,2
+156056,"Budapest, Tűzoltó u. ",E.ON (HU),47.48142810972885,19.078050774490066,Budapest,Public,2
+156055,"Budapest, Ráday u. ",E.ON (HU),47.48357,19.065726,Budapest,Public,2
+155902,"Szeged, Londoni körút",E.ON (HU),46.25475,20.136529,Szeged,Public,2
+155901,"Kazincbarcika, Mikszáth Kálmán u. ",E.ON (HU),48.255567,20.629644,Kazincbarcika,Public,2
+155899,"Kazincbarcika, Építők útja ",E.ON (HU),48.251162,20.617405,Kazincbarcika,Public,2
+155898,"Onga, Dózsa György u. ",E.ON (HU),48.121335,20.915705,Onga,Public,2
+155897,"Miskolc, Tapolcarét u.",E.ON (HU),48.098266956764206,20.68562262184912,Miskolc,Public,2
+155895,"Miskolc, Iglói u.",E.ON (HU),48.065863,20.739767,Miskolc,Public,2
+155894,"Tata, Fürdő u. 2. ",E.ON (HU),47.644474,18.314378,Tata,Public,2
+155893,"Tata,  Alkotmány u. ",E.ON (HU),47.52870669054053,19.057622181164334,Tata,Public,2
+155892,"Dunaharaszti, Fő út",E.ON (HU),47.358764,19.085962,Dunaharaszti,Public,2
+155891,"Szigethalom, Szabadkai u. ",E.ON (HU),47.325272,18.996654,Szigethalom,Public,2
+155890,"Szigethalom, Dunasor",E.ON (HU),47.30826,19.026426,Szigethalom,Public,2
+155889,"Gyömrő, Fő tér",E.ON (HU),47.421307,19.394908,Gyömrő,Public,2
+155888,"Fót, Dózsa György út 12.",E.ON (HU),47.612253,19.194819,Fót,Public,2
+155887,"Budaörs, Sport u. 2-4.",E.ON (HU),47.454086,18.940054,Budaörs,Public,8
+155884,"Szentendre, Rév u.",E.ON (HU),47.67179558478887,19.079724896902576,Szentendre,Public,2
+155883,"Szentendre, Paprikabíró u. ",E.ON (HU),47.66623744175024,19.071821255710915,Szentendre,Public,2
+155882,"Budapest, Árkád",E.ON (HU),47.50272198207355,19.137500652229846,Budapest,Public,2
+155881,"Budapest, Pápay István u. 14. ",E.ON (HU),47.474239,19.072079,Budapest,Public,2
+155880,"Budapest, Tűzoltó u. 39. ",E.ON (HU),47.477348,19.084385,Budapest,Public,2
+155879,"Budapest,  Csarnok tér 3-4.",E.ON (HU),47.486511,19.060314,Budapest,Public,2
+155878,"Budapest, Ráday u. 47.",E.ON (HU),47.5286323,19.0570652,Budapest,Public,2
+155877,"Budapest, Bakáts tér 12-13.",E.ON (HU),47.483628,19.067784,Budapest,Public,2
+155876,"Budapest, Tóth Aladár u. 16-18. ",E.ON (HU),47.582579465048184,19.10761394222368,Budapest,Public,2
+155875,"Újpest, Óceánárok u. 23",E.ON (HU),47.57968838993031,19.110112354038165,Budapest,Public,2
+155874,"Budapest, Szilágyi u.",E.ON (HU),47.57220165151358,19.1136605821099,Budapest,Public,2
+155841,"Szentendre, Vasúti villasor",E.ON (HU),47.6617317,19.0734077,Szentendre,Public,2
+155796,Szent István tér,E.ON (HU),47.56273962404458,19.09024911370591,Budapest,Public,2
+155795,"Ózd, Vasvár út 58.",E.ON (HU),48.218849,20.277254,Ózd,Public,2
+155794,"Ózd, Bajcsy-Zsilinszky Endre u. 1.",E.ON (HU),48.217001,20.296315,Ózd,Public,2
+155793,"Ózd, Bolyki főút 52",E.ON (HU),48.22471121870794,20.261259683962976,Ózd,Public,2
+155792,"Szigetszentmiklós, Apor Vilmos u. ",E.ON (HU),47.330918,19.005331,Szigetszentmiklós,Public,2
+155791,"Gödöllő, Szabadság út 6.",E.ON (HU),47.598059,19.350232,Gödöllő,Public,2
+155790,"Budapest, Mezőkövesd út",E.ON (HU),47.440632,19.041404,Budapest,Public,2
+155789,"Budapest, Lechner Ödön fasor 2.",E.ON (HU),47.477085,19.068119,Budapest,Public,2
+155788,"Budapest, Lechner Ödön fasor 10.",E.ON (HU),47.47198466835266,19.0718061522615,Budapest,Public,1
+155787,"Budapest, Lechner Ödön fasor 10.",E.ON (HU),47.471986,19.071791,Budapest,Public,1
+155785,"Újpest, Munkásotthon u. 72-74",E.ON (HU),47.5593646,19.0974721,Budapest,Public - Membership Required,1
+155782,"Budapest, Görgey Artúr utca",E.ON (HU),47.56523048184255,19.09984131355361,Budapest,Public,2
+155780,"Újpest, Görgey Artúr út",Innogy SE (RWE eMobility),47.556487499999996,19.0817078,Budapest,Public,1
+155277,Nova Futura Zrt. 003 50 kW DC + 22 kW AC Free WiFi ,(Unknown Operator),46.42078837423756,18.75913609928682,Tolna ,Public - Pay At Location,1
+150096,Nova Futura Zrt 002 (Free WiFi) 50 kW ,(Unknown Operator),47.872172222696804,21.031191630361377,Oszlár,Public - Pay At Location,3
+150018,SPAR Balatonfüred,(Private Residence/Individual),46.945764,17.874208,Balatonfüred,Public,1
+148327,"Győr ALDI, Szauter Ferenc utca",E.ON (HU),47.667701,17.651973,Győr,Public,2
+148326,"Győr ALDI, Fehérvári út",E.ON (HU),47.682398,17.6557,Győr,Public,4
+147830,Shell M3 142km direction towards Debrecen,(Unknown Operator),47.84148346599102,20.74418392279904,Gelej,Public - Pay At Location,1
+147828,"Shell M7 59km, direction towards Balaton",(Unknown Operator),47.17684336860091,18.47651035059664,Székesfehérvár,Public - Pay At Location,1
+146439,Szeged Supercharger,Tesla (including non-tesla),46.274868,20.1024638,Szeged,Public - Membership Required,8
+146243,"Igmánd Pihenöhely, E-mobi DC",NKM mobiliti,47.67324646780122,18.11408543969742,Kisigmánd,Public,3
+146241,"Igmánd Pihenöhely, E-mobi DC",NKM mobiliti,47.67375603494449,18.11389424388608,Mocsa,Public,3
+146052,Debrecen Supercharger,Tesla (Tesla-only charging),47.540955,21.5845038,Debrecen,Public - Membership Required,2
+146012,Miskolc Supercharger,Tesla (Tesla-only charging),48.058188,20.799288,Miskolc,Public - Membership Required,2
+135430,TEA. Harkány 50 kW DC,TEA.,45.84892809525908,18.23725823653365,Harkány,Public,2
+135149,"Székesfehérvár ALDI, Szent Flórián krt",E.ON (HU),47.21338,18.418128,Székesfehérvár,Public,4
+135132,"Szolnok Önkormányzat, MÁV Sporttelep",E.ON (HU),47.168972,20.198985,Szolnok,Public,2
+135120,Sólyom utca,E.ON (HU),47.17599167985921,20.19575738366302,Szolnok,Public,2
+135118,Szolnok COOP,E.ON (HU),47.121608,20.211994,Szolnok,Public,2
+135117,"Szolnok ALDI, Felső Szandai rét",E.ON (HU),47.158203,20.200059,Szolnok,Public,2
+135116,"Veszprém ALDI, Kistó utca",E.ON (HU),47.10672,17.895559,Veszprém,Public,2
+135115,"Tát ALDI, Bécsi út",E.ON (HU),47.738599,18.658067,Tát,Public,2
+135114,"Pécs ALDI, Zsolnay Vilmos utca",E.ON (HU),46.079663,18.256413,Pécs,Public,4
+135113,"Pécs ALDI, Tüzér utca",E.ON (HU),46.06885337918931,18.20772850768276,Pécs,Public,2
+135112,"Debrecen ALDI, Kishatár utca",E.ON (HU),47.542382,21.581407,Debrecen,Public,2
+135106,"Sopron ALDI, Ágfalvi út",E.ON (HU),47.686832,16.563848,Sopron,Public,2
+135103,"Sopron ALDI, Győri út",E.ON (HU),47.671062,16.616132,Sopron,Public,4
+135089,"Pécs ALDI, Árnyas út",E.ON (HU),46.050899,18.229802,Pécs,Public,4
+135081,"Veszprém ALDI, Észak-keleti útgyűrű",E.ON (HU),47.109343,17.927296,Veszprém,Public,4
+135065,"Székesfehérvár ALDI, Jancsár köz",E.ON (HU),47.181792,18.408284,Székesfehérvár,Public,4
+134463,Törökbálint Supercharger,Tesla (Tesla-only charging),47.43949,18.889644,Törökbálint,Public - Membership Required,4
+134402,FÓT Supercharger,Tesla (including non-tesla),47.581808,19.162384,Fót,Public - Membership Required,12
+133948,Nova Futura Zrt. 001 (Free WiFi) 50 kW ,(Business Owner at Location),47.690542591677485,20.105240719089807,Nagyfüged,Public,3
+133008,Nagyvárad tér,E-Mobi,47.477424601131,19.0906779140523,Budapest,Public,2
+132794,"ALDI, Szent Gellért utca",E.ON (HU),47.2158737,16.6195518,Szombathely,Public,4
+132792,"ALDI, Demeter utca",E.ON (HU),47.2538027,16.6173109,Szombathely,Public,4
+132791,"ALDI, Balatoni út",E.ON (HU),46.84273235,16.8690958237385,Zalaegerszeg,Public,4
+132715,Polgármesteri hivatal,(Unknown Operator),46.3494525212958,18.6983402803755,Szekszárd,Public,2
+132513,Óváros tér,E-Mobi,47.094549267825,17.9069898028678,Veszprém,Public,1
+132239,Szilas park,E-Mobi,47.5498009370806,19.139189614,Budapest,Public,1
+131202,PAKS eGUTS,Bilinmiyor,46.6235500860306,18.8568019661487,Paks,Public,2
+130955,"Decathlon Budaörs, 10059 - Mobiliti",NKM mobiliti,47.4530600094767,18.936692052999,Budaörs,Public - Membership Required,2
+130954,"Decathlon Budaörs, 10058 - Mobiliti",NKM mobiliti,47.4531835554159,18.9366945848882,Budaörs,Public - Membership Required,2
+130953,"Decathlon Budaörs, 10057 - Mobiliti",NKM mobiliti,47.4532843956106,18.9366872583563,Budaörs,Public - Membership Required,2
+130952,"Decathlon Budaörs, 20005 - Mobiliti",NKM mobiliti,47.4533880517222,18.9369618198491,Budaörs,Public - Membership Required,2
+130951,"Martonvásár, Brunszvik Kastély - AC - e-Mobi",E-Mobi,47.3149183014436,18.7865206835504,Martonvásár,Public,2
+130950,"Martonvásár, Brunszvik Kastély - DC - e-Mobi",E-Mobi,47.3149183014436,18.7865206835504,Martonvásár,Public,1
+130949,"Kajászó, M7 Váli Völgyi Pihenő IONITY",Ionity,47.3075919875228,18.7443356274053,Kajászó,Public,4
+130947,"Decathlon Székesfehérvár, 20007 - Mobiliti",NKM mobiliti,47.1497890729109,18.42755874053,Székesfehérvár,Public - Membership Required,2
+130946,"Kecskemét, Deák Ferenc tér - e-Mobi",E-Mobi,46.9066341491761,19.6892784570629,Kecskemét,Public,1
+130945,"Decathlon Kecskemét, 10064 - Mobiliti",NKM mobiliti,46.8852052744509,19.640227087588528,Kecskemét,Public - Membership Required,2
+130943,"Decathlon Miskolc, 10062 - Mobiliti",NKM mobiliti,48.1061222875352,20.8348897478851,Miskolc,Public - Membership Required,2
+130942,"Decathlon Miskolc, 20008 - Mobiliti",NKM mobiliti,48.1061316472858,20.8348274945464,Miskolc,Public - Membership Required,2
+130941,Knézich Károly utca,E-Mobi,47.90452506817388,20.376235063910997,,Public,2
+130940,"Gyöngyös, Kármán József utca - e-Mobi",E-Mobi,47.7839313481253,19.9315594123184,Gyöngyös,Public,1
+130839,M7 Alba Park restaurant,NKM mobiliti,47.1774784865806,18.4763033538661,Székesfehérvár,Public - Notice Required,2
+130769,"Hatvan, Decathlon",NKM mobiliti,47.6586619442115,19.717589458094,Heves megye,Public - Membership Required,2
+130356,"Tatabánya, ALDI, Szent Borbála út",E.ON (HU),47.5606527703777,18.4117374060947,Tatabánya,Public,2
+130355,"Göd, Nemeskéri-Kiss Miklós út",E.ON (HU),47.6791777400181,19.1490788790544,Göd,Public,2
+130354,"Göd, Penny Market",E.ON (HU),47.6910435241309,19.1339031993389,Göd,Public,2
+130353,"Tata, Old Lake Golf Club",E.ON (HU),47.6167493897732,18.3467853976766,Tata,Public,2
+130352,"Debrecen, ALDI, Ötvenhatosok tere",E.ON (HU),47.546939,21.6116703,Debrecen,"Private - For Staff, Visitors or Customers",2
+130351,"Debrecen, ALDI, Ozmán utca",E.ON (HU),47.4954759777103,21.6331122850565,Debrecen,Public,4
+130350,"Hatvan, Mártírok tere ",E.ON (HU),47.6666598,19.6679442,Hatvan,Public,2
+130349,"COOP, Búza tér",E.ON (HU),48.103198,20.7900162,Miskolc,Public,2
+130348,"Nyíregyháza, Kállói út, ALDI",E.ON (HU),47.9446170471835,21.7367642904152,Nyíregyháza,Public,4
+130347,"Zalaegerszeg, Zala Pláza",E.ON (HU),46.8469627807531,16.8522904056103,Zalaegerszeg,Public,2
+130016,IONITY Bábolna (dir. Budapest),Ionity,47.680553,17.976528,kmsz bal,Public - Pay At Location,4
+129728,"M7 Keresztúri pihenőhely, észak  (e-Mobi, 22 kW AC + 50 kW DC)",E-Mobi,46.6852245230108,17.3786367475816,Balatonkeresztúr,Public,1
+129727,"M7 Keresztúri pihenőhely, dél (e-Mobi, 22 kW AC + 50 kW DC)",E-Mobi,46.68342883352699,17.380107054612495,Balatonkeresztúr,Public,1
+128885,Győr Révai Miklós utca,E.ON (HU),47.685378,17.641922,Győr,"Private - For Staff, Visitors or Customers",1
+128814,Martinovics Ignác utca,E-Mobi,46.9744621275378,18.9349204383493,Fejér megye,Public,2
+128813,6219,NKM mobiliti,46.9621044852121,18.9062890359104,Fejér megye,Public,2
+128812,6219,NKM mobiliti,46.9621477797019,18.9065417726213,Fejér megye,Public,2
+128765,Polgármesteri Hivatal,E.ON (HU),47.668243,19.68437,Hatvan,"Private - For Staff, Visitors or Customers",1
+128763,ALDI Törzs utca,E.ON (HU),47.95299,21.74354,Nyíregyháza,"Private - For Staff, Visitors or Customers",1
+128762,ALDI Pazonyi út #2,E.ON (HU),47.97068,21.74071,Nyíregyháza,"Private - For Staff, Visitors or Customers",1
+128761,ALDI Pazonyi út #1,E.ON (HU),47.9706647609367,21.7407152471372,Nyíregyháza,"Private - For Staff, Visitors or Customers",1
+128758,COOP,E.ON (HU),47.969425,21.72484,Nyíregyháza,"Private - For Staff, Visitors or Customers",1
+128757,Parkerdő-Park Center,E.ON (HU),46.845792,16.863735,Zalaegerszeg,"Private - For Staff, Visitors or Customers",1
+128756,Sportcentrum,E.ON (HU),46.849733,16.835873,Zalaegerszeg,"Private - For Staff, Visitors or Customers",1
+128755,Dózsa György út,E.ON (HU),47.61253,21.33198,Balmazújváros,"Private - For Staff, Visitors or Customers",1
+128754,Fehér Palota ,E.ON (HU),47.189272719820394,18.402500758812494,Székesfehérvár,"Private - For Staff, Visitors or Customers",1
+128753,Szabadság tér #2,E.ON (HU),47.1053984891633,17.5638673323489,Ajka,"Private - For Staff, Visitors or Customers",1
+128752,Szabadság tér #1,E.ON (HU),47.1054062100014,17.5637151656542,Ajka,"Private - For Staff, Visitors or Customers",2
+128095,Kassai sor,E-Mobi,48.1046950233539,19.8043701901413,Salgótarján,Public,1
+127689,Fövényverem utca,(Unknown Operator),47.6899990007329,16.5939112844189,Sopron,Public - Pay At Location,2
+126937,Illatos út - Smart Digital Kft.,(Business Owner at Location),47.4554408,19.1054012,Budapest,"Private - For Staff, Visitors or Customers",1
+126658,Mömax parkoló,E.ON Drive,47.67238722501796,16.610302697962425,Sopron,Public,3
+118708,Optimum Solar,Optimum Way,46.1927483924779,18.9795280768461,Baja,Public - Pay At Location,4
+117955,"Decathlon Szombathely, AC",NKM mobiliti,47.2423796050863,16.6569964374696,Szombathely,Public - Membership Required,2
+117819,Alba Regia Sportcsarnok,E.ON (HU),47.1912059065302,18.4203772847442,Székesfehérvár,Public,2
+117818,"Székesfehérvár, Béke tér",E.ON (HU),47.1848876237719,18.4215532194613,Székesfehérvár,Public,2
+117817,Ybl Miklós lakótelep,E.ON (HU),47.1958515537129,18.407365828342,Székesfehérvár,Public,2
+117816,József Attila út,E.ON (HU),47.1929541457856,18.4152504712519,Székesfehérvár,Public,2
+117791,Mátyás király körút,E-Mobi,47.1912074837103,18.4070678520236,Székesfehérvár,Public,1
+117790,Király sor,E-Mobi,47.19636321549362,18.420296283911398,Székesfehérvár,Public,1
+117718,Záhony utca,E-Mobi,47.561411590727,19.0499912544483,Budapest,Public,1
+115188,"Pécs, University of Pécs - EVCC project",(Business Owner at Location),46.074515,18.203591,Pécs,Public - Notice Required,2
+114356,Zsókavár utca,NKM mobiliti,47.542045,19.14234,Budapest,Public - Membership Required,2
+114212,22kW DC,E-Mobi,47.677875,16.602452,Sopron,Public,1
+114118,Holiday Inn Alliance Hotel Budapest KFT.,Tesla (Tesla-only charging),47.45165,18.961052,Budaoers,Public - Membership Required,1
+113700,"Bátaszék, Budai utca",(Unknown Operator),46.1921518,18.7242515,Bátaszék,Public,1
+113618,Shopmark,(Unknown Operator),47.462421297530845,19.130143938091347,Budapest,Public,10
+113612,Orsolya utca e-Mobi,E-Mobi,47.428539801792496,19.127086374764986,Budapest,Public,2
+113607,Hoffher Albert utca e-Mobi,E-Mobi,47.43712972067478,19.14506888453616,Budapest,Public,2
+113606,Orsolya utca e-Mobi,E-Mobi,47.42901681720804,19.126272031207918,Budapest,Public,2
+113431,Mercure Buda Hotel,(Private Residence/Individual),47.49886079386627,19.02745149834186,Budapest,Public,1
+113428,M3 Outlet Polgár,(Private Residence/Individual),47.843491691772,21.1437058197505,Polgár,Public,2
+113354,Fő tér,(Unknown Operator),47.4209775418597,19.3940877090232,Pest megye,Public - Notice Required,2
+112928,Audi Hungaria Public Parking,(Business Owner at Location),47.70039498319224,17.679745292426883,Győr,(Unknown),2
+112922,Petnehàzy utcai töltö,E-Mobi,47.5314295384346,19.0862881785324,Budapest,Public,1
+109413,"Hajdúnánás, Ady Endre körút-Dorogi út kereszteződés",E.ON (HU),47.84364,21.43255,Hajdúnánás,Public,2
+108356,"Budapest, Köki Terminál",NKM mobiliti,47.462886,19.145705,Budapest,Public,8
+108340,4 Hollán Ernő utca,E-Mobi,47.2303784005785,16.61781402463282,Szombathely,Public,1
+108329,Frankel Leó út 53.,E-Mobi,47.522024,19.034188,Budapest,(Unknown),2
+108319,Sebi Zöldáram DC electric charger ,(Business Owner at Location),46.355179,18.704952,Szekszárd,Public,4
+108277,"Budapest, Asia Center Bevásárlóközpont felszíni töltők",Mobiliti.hu,47.5488096051945,19.1464803292047,Budapest,Public - Membership Required,6
+108272,"Dombóvár, Hunyadi tér",(Unknown Operator),46.374779,18.129964,Dombóvár,Public,2
+108234,Harcsa u. 2.,E-Mobi,47.521982,19.037168,Budapest,Public,2
+108165,"Székesfehérvár, Sütő utca",E-Mobi,47.186969,18.411196,Székesfehérvár,Public,2
+108164,"Székesfehérvár, Jankovich Ferenc utca 	",E-Mobi,47.19388,18.398622,Székesfehérvár,Public,2
+108163,"Székesfehérvár, Gyümölcs utca",E-Mobi,47.18694,18.418997,Székesfehérvár,Public,2
+108131,"Zalakaros, Gyógyfürdő tér",E-Mobi,46.55124,17.12413,Zalakaros,Public,2
+108130,"Szigetvár, Polgármesteri hivatal",E-Mobi,46.048221670796565,17.800374350015318,Szigetvár,Public,2
+108129,"Zalaegerszeg, Mártírok útja parkoló",E-Mobi,46.84074931227161,16.842453360437958,Zalaegerszeg,Public,2
+108081,"Budaörs, Ikea",(Business Owner at Location),47.453150834342956,18.93886748703312,Budaörs,Public,16
+108055,"Budapest, Pannónia utca (XIX. kerület)",E-Mobi,47.4630454,19.12718229999996,Budapest,Public,2
+108054,"Fertőd, Haydn sétány",E-Mobi,47.618050621388164,16.864502690203267,Fertőd,Public,2
+108053,"Csorna, Soproni út",E-Mobi,47.61202201017343,17.252269673389378,Csorna,Public,2
+108052,"Csurgó, Petőfi tér",E-Mobi,46.2526269,17.099739,Csurgó,Public,2
+108051,"Nagykanizsa, Kanizsai Kulturális Központ",E-Mobi,46.4539531,16.995790599999964,Nagykanizsa,Public,2
+108050,"Nagykanizsa, Hevesi Sándor utca",E-Mobi,46.4594592,17.00961510000002,Nagykanizsa,Public,2
+108049,"Balatonfenyves, Fenyves Yacht Club",E-Mobi,46.7128991,17.47715930000004,Balatonfenyves,Public,2
+108037,"Pápa, Fő utca",E-Mobi,47.330574658118834,17.466783403041063,Pápa,Public,2
+108036,"Veszprém, Aulich L. utca (Penny Market)",(Business Owner at Location),47.11297574166477,17.924046938138645,Veszprém,Public,2
+107984,"Keszthely, Yacht Kikötő",E-Mobi,46.76485950815973,17.265921715344234,Keszthely,Public,2
+107974,"Lenti, Hotel Balance",E-Mobi,46.6205996257084,16.5326280584053,Lenti,Public,2
+107943,"Kocs, Kocsi Múzeum",(Unknown Operator),47.60955955153355,18.212111300177753,Kocs,Public,2
+107940,"Szigetszentmiklós, Prologis Park",(Business Owner at Location),47.37770013769971,19.023078638805373,Szigetszentmiklós,Public,4
+107939,"Szigetszentmiklós, Ádám Jenő Általános Iskola",E.ON (HU),47.350334302986695,19.01767458028712,Szigetszentmiklós,Public,2
+107938,"Szigetszentmiklós, Losonczi utca 2",E.ON (HU),47.344058898035975,19.041515641733554,Szigetszentmiklós,Public,2
+107937,"Szekszárd, Strandfürdő",(Unknown Operator),46.348136118555004,18.714386374858123,Szekszárd,Public,2
+107932,"Kehidakustány, Termál Gyógy és Élményfürdő Hotel",E-Mobi,46.832727933195,17.1074933815673,Kehidakustány,Public,2
+107931,"Debrecen, Péterfia utca",DV Parking (HU),47.536161,21.625911,Debrecen,Public,2
+107930,"Debrecen, Bem tér",DV Parking (HU),47.541711,21.624651,Debrecen,Public,2
+107929,"Debrecen, Piac utca",DV Parking (HU),47.528531,21.625691,Debrecen,Public,2
+107928,"Debrecen, Piac utca",DV Parking (HU),47.528271,21.625461,Debrecen,Public,2
+107927,"Debrecen, Kálvin tér",DV Parking (HU),47.533321,21.625261,Debrecen,Public,2
+107926,"Debrecen, Hatvan utcai taxiállomás",DV Parking (HU),47.531651,21.623271,Debrecen,Public,4
+107925,"Debrecen, Nagyerdei körút",DV Parking (HU),47.554021,21.624331,Debrecen,Public,2
+107924,"Debrecen, Főnix Csarnok parkolója",DV Parking (HU),47.546637278237,21.64216455906552,Debrecen,Public,1
+107923,"Cegléd, Városi Könyvtár",NKM mobiliti,47.17050835966987,19.79906512166417,Cegléd,Public,2
+107918,"Fót, Városi Könyvtár, Ifjúsági ház",E.ON (HU),47.610707519179556,19.193484271163925,Fót,Public,2
+107917,"Budapest, Pesti út, McDonald's",E-Mobi,47.48394382492458,19.236529435720854,Budapest,Public,2
+107916,"Budapest, Rákoshegy P+R parkoló",E-Mobi,47.46978123982797,19.244716034137582,Budapest,Public,2
+107915,"Budapest, Hófehérke Óvoda",E-Mobi,47.48166714779075,19.218504993778993,Budapest,Public,2
+107913,"Székesfehérvár, Szent György Kórház",E-Mobi,47.1932057696924,18.4368902701142,Székesfehérvár,Public,2
+107912,"Budapest, Rákoscsaba vasútállomás P+R",E-Mobi,47.49164798061521,19.28267848266455,Budapest,Public,2
+107911,"Budapest, Hegyalatti utca",E-Mobi,47.46908073367837,19.29283027479937,Budapest,Public,2
+107910,"Budapest, Községház-Szabadság utca sarok",E-Mobi,47.5610615145349,18.9603299239426,Budapest,Public,2
+107909,"Sárvár, vár parkoló",E-Mobi,47.253207710858085,16.937860312828093,Sárvár,Public,2
+107888,"Szekszárd, Dr. Szentgáli Gyula utca",E-Mobi,46.3460078,18.701530400000024,Szekszárd,Public,2
+107887,"Szekszárd, Csokonai utca",E-Mobi,46.3470739,18.705390999999963,Szekszárd,Public,2
+107886,"Dunaújváros, Martinovics Ignác utca",E-Mobi,46.97443080564487,18.93493652949985,Dunaújváros,Public,2
+107854,CURB - Hild János park Mátészalka,Curb (Hungary),47.952789,22.323726,Mátészalka,Public,1
+107853,CURB - Kazinczy köz Mátészalka,Curb (Hungary),47.955401,22.318018,Mátészalka,Public,2
+107850,"Debrecen, Segner tér (MOL)",(Business Owner at Location),47.528225666434416,21.613762899613903,Debrecen,Public,2
+107849,"Cegléd, Kossuth tér",NKM mobiliti,47.169782170809,19.7947479410748,Cegléd,Public,2
+107848,"Siófok, Petőfi sétány",E-Mobi,46.91311083691209,18.060076888885533,Siófok,Public,2
+107847,"Dunaharaszti, Andrássy parkoló",E.ON (HU),47.35159924514,19.098829204515823,Dunaharaszti,Public,2
+107846,"Mosonmagyaróvár, Polgármesteri hivatal",(Unknown Operator),47.87932769348527,17.269665641525307,Mosonmagyaróvár,Public,2
+107829,"Budapest, Állatkerti körút",E.ON (HU),47.5176329,19.077870899999994,Budapest,Public,2
+107823,"Budapest, Rózsakert Bevásárlóközpont",E-Mobi,47.5225859,19.015259,Budapest,Public,2
+107785,"Budapest, Hamzsabégi út",E-Mobi,47.473199,19.026282,Budapest,Public,2
+107760,"Pécs, Állatkert",E-Mobi,46.093396,18.225816,Pécs,Public,2
+107759,"Pécs, Árnyas Liget utca",E-Mobi,46.050605,18.228535,Pécs,Public,2
+107758,"Pécs, Csontváry utcai parkoló",E-Mobi,46.039379,18.222576,Pécs,Public,2
+107757,"Pécs, Veress Endre utcai rendelőintézet",E-Mobi,46.06429,18.199826,Pécs,Public,2
+107756,"Pécs,  Felsővámház utca",E-Mobi,46.078675,18.245657,Pécs,Public,2
+107755,"Visegrád, Palotaház",E-Mobi,47.7897729601275,18.9709883755677,Visegrád,Public,2
+107703,"Budapest, Szent Imre Kórház",E-Mobi,47.467919390439235,19.0347177306885,Budapest,Public,2
+107702,"Székesfehérvár, Budai úti Interspar",E-Mobi,47.19009378950943,18.425161610944315,Székesfehérvár,Public,2
+107701,"Dunakeszi, Barátság útja",E.ON (HU),47.64009448294619,19.125536703041007,Dunakeszi,Public,2
+107675,"Sopron, Jereván lakótelep",MVM Partner Zrt.,47.691175239761414,16.57508601904908,Sopron,Public,2
+107672,"Budapest, Kispesti Egészségügyi Intézet",E-Mobi,47.453275374025,19.1440137067459,Budapest,Public,2
+107671,"Miskolc, Szinvapark",(Business Owner at Location),48.102944546605904,20.79230821904912,Miskolc,Public,4
+107670,"Sopron, Állomás utca",MVM Partner Zrt.,47.67779826886896,16.587877311458442,Sopron,Public,2
+107555,"Szombathely, Kormányhivatal",E-Mobi,47.7098833991582,19.2337141378898,Szombathely,Public,2
+107554,"Vácrátót, Szentháromság templom",E-Mobi,47.709883399158215,19.23371413788982,Vácrátót,Public,2
+107552,"Alsópáhok, Hévizi út",E-Mobi,46.77616287708574,17.173322039583127,Alsópáhok,Public,2
+107522,"Budapest, Külső Váci út (MOL)",MOL,47.574959048441386,19.080711352114804,Budapest,Public - Pay At Location,2
+107514,"Veszprém, Muskátli utca",E-Mobi,47.090085,17.915987,Veszprém,Public,2
+107513,"Veszprém, Völgyhíd alatti parkoló",E-Mobi,47.096807,17.895452,Veszprém,Public,2
+107512,"Veszprém, Budapest út-Almádi út körforgalom",E-Mobi,47.092456,17.914399,Veszprém,Public,2
+107509,TEA. AGT Székesfehérvár,TEA.,47.203108,18.431221,Székesfehérvár,Public,2
+107504,"Balmazújváros, Veres Péter Általános Művelődési Központ",E.ON (HU),47.6115002,21.3429833,Balmazújváros,Public,2
+107503,"Alcsútdoboz, Polgármesteri Hivatal",(Unknown Operator),47.42618419999999,18.602165499999956,Alcsútdoboz,Public,2
+107501,"Budapest, Rózsakert utcai lakótelep",E-Mobi,47.4060421483028,19.0085600097176,Budapest,Public,2
+107499,"Vecsés, Fő út",NKM mobiliti,47.40772851917529,19.281111695770278,Vecsés,Public,2
+107495,"Budapest, XVIII. kerület, Baross utca (Penny Market)",(Business Owner at Location),47.438665391484776,19.17146929272917,Budapest,Public,2
+107493,"Eger, Vincellériskola utca",E.ON (HU),47.88447755882968,20.37536748612206,Eger,Public,2
+107492,"Dunaújváros, Klub Hotel",(Business Owner at Location),46.9588831057168,18.9440726114227,Dunaújváros,"Private - For Staff, Visitors or Customers",2
+107488,"Kiskunhalas, Bethlen Gábor tér",E-Mobi,46.4304179025757,19.4820977109647,Kiskunhalas,Public,1
+107487,"Székesfehérvár, Nissan Fehérvár",(Business Owner at Location),47.2105316,18.42132570000001,Székesfehérvár,Public,1
+107485,"Budapest, Könyves Kálmán krt. (MOL)",(Business Owner at Location),47.485879885207005,19.107906078061546,Budapest,Public,1
+107484,"Budapest, Hunyadi János út (MOL)",(Business Owner at Location),47.44887580823465,19.049562235279268,Budapest,Public,1
+107483,"Kecskemét, Four Points by Sheraton Hotel",(Business Owner at Location),46.8982333,19.672767199999953,Kecskemét,Public,1
+107482,"Vác, Köztársaság út",NKM mobiliti,47.776526772003095,19.128393763754275,Vác,Public,2
+107481,"Vác, Görgey Arhúr utca",NKM mobiliti,47.77903741504129,19.13075016347659,Vác,Public,2
+107480,"Vác, Althann Mihály Frigyes utca",NKM mobiliti,47.7803215840003,19.125736437295473,Vác,Public,2
+107479,"Monor, Bocskai utca",NKM mobiliti,47.34982,19.44744,Monor,Public,2
+107478,"Monor, Polgármesteri Hivatal",NKM mobiliti,47.35223,19.44551,Monor,Public,2
+107477,"Sopron, Nissan Iniciál",(Unknown Operator),47.6813326,16.6156277,Sopron,"Private - For Staff, Visitors or Customers",1
+107476,"Mezőtúr, Földvári út",NKM mobiliti,47.00265372593419,20.61664645785072,Mezőtúr,Public,2
+107475,"Kiskunfélegyháza, Szent János tér 4.",NKM mobiliti,46.710558992408565,19.84939703439329,Kiskunfélegyháza,Public,2
+107474,"Kiskunfélegyháza, Kossuth Lajos utca",NKM mobiliti,46.71016602747138,19.843168708737153,Kiskunfélegyháza,Public,2
+107473,"Kiskunfélegyháza, Polgármesteri Hivatal",NKM mobiliti,46.71227131296908,19.84850069338097,Kiskunfélegyháza,Public,2
+107472,"Békéscsaba, Autó Dual",(Business Owner at Location),46.6854291011188,21.0527448104508,Békéscsaba,"Private - For Staff, Visitors or Customers",2
+107471,"Kecskemét, NKM Áramszolgáltató ügyfélszolgálat",NKM mobiliti,46.898755274632435,19.69055553975147,Kecskemét,Public,2
+107470,"Kalocsa, Bátyai út",NKM mobiliti,46.52079603918057,18.976800754749434,Kalocsa,Public,2
+107469,"Békéscsaba, Jézus Szíve templom",NKM mobiliti,46.66815668360209,21.06728744047541,Békéscsaba,Public,2
+107468,"Békéscsaba, Lencsési Általános Iskola",NKM mobiliti,46.66662454548664,21.114109943099947,Békéscsaba,Public,2
+107467,"Békéscsaba, Sportcsarnok",NKM mobiliti,46.68189960504007,21.113904108490033,Békéscsaba,Public,2
+107466,"Baja, Szegedi út",NKM mobiliti,46.18497028773356,18.974414878862262,Baja,Public,2
+107465,"Baja, Rókus utcai parkoló",NKM mobiliti,46.1742292,18.959515,Baja,Public,2
+107464,"Baja, Petőfi sziget",NKM mobiliti,46.1773541235095,18.9464971518677,Baja,Public,2
+107463,"Tihany, Kossuth Lajos utca",E-Mobi,46.9097552635262,17.8904070566223,Tihany,Public,2
+107462,"Tatabánya, Szent Borbála Kórház",E-Mobi,47.5786800771631,18.3929361672218,Tatabánya,Public,2
+107461,"Tatabánya, Vasútállomás",E-Mobi,47.5842728486222,18.3948201779099,Tatabánya,Public,2
+107460,"Tamási, Penny Market",E-Mobi,46.6363851923569,18.2815023299758,Tamási,Public,2
+107459,"Szigliget, Vitorlás Kikötő",E-Mobi,46.78569191081588,17.435925006866455,Szigliget,Public,2
+107458,"Szántód, Erdészeti Étterem",E-Mobi,46.8581570947468,17.9020390596329,Szántód,Public,2
+107457,"Sopron, Szent Imre Plébánia",E-Mobi,47.694058,16.578055,Sopron,Public,2
+107456,"Sopron, SVSE Sporttelep",E-Mobi,47.6746591594217,16.5827303806732,Sopron,Public,2
+107455,"Sopron, Egyetemi parkoló",E-Mobi,47.6826739574729,16.5770263450745,Sopron,Public,2
+107454,"Révfülöp, Polgármesteri Hivatal",E-Mobi,46.8279199519523,17.6264865492126,Révfülöp,Public,2
+107453,"Révfülöp, Kemping",E-Mobi,46.8297415893583,17.6389080552392,Révfülöp,Public,2
+107452,"Nagyatád, Városi Múzeum",E-Mobi,46.229865347409,17.3645137006354,Nagyatád,Public,2
+107450,"Mór, Szent István tér",E-Mobi,47.374362733774,18.2107578152898,Mór,Public,2
+107449,"Keszthely, Sopron utca",E-Mobi,46.772724,17.241544,Keszthely,Public,2
+107448,"Keszthely, Skála köz",E-Mobi,46.768707,17.247343,Keszthely,Public,2
+107447,"Karcag, Polgármesteri hivatal",E-Mobi,47.3171651,20.9250916,Karcag,Public,2
+107446,"Hosszúhetény, Fő út",E-Mobi,46.162448,18.35299,Hosszúhetény,Public,2
+107445,"Hortobágy, Hunyadi utca",E-Mobi,47.5830934213348,21.1508396348258,Hortobágy,Public,2
+107444,"Hévíz, Zrínyi utca",E-Mobi,46.7909703023082,17.1852351510086,Hévíz,Public,2
+107442,"Hévíz, Ady Endre utca",E-Mobi,46.7830561,17.1906111000001,Hévíz,Public,2
+107441,"Gyula, Várkert utca",E-Mobi,46.6449927242366,21.2847177941651,Gyula,Public,2
+107440,"Fonyód, Kormányablak",E-Mobi,46.7488398960812,17.5574389175295,Fonyód,Public,2
+107439,"Fertőrákos, Fő utca",E-Mobi,47.7154524035663,16.6547221006638,Fertőrákos,Public,2
+107438,"Budapest, Zsirai Miklós utca",Mobiliti.hu,47.6005377013,19.047389438248047,Budapest,Public,2
+107437,"Budapest, Topánka utca",E-Mobi,47.4371744747782,19.0976469756408,Budapest,Public,2
+107436,"Budapest, Pünkösdfürdői strand",E-Mobi,47.5943529157652,19.0676653127503,Budapest,Public,2
+107435,"Budapest, e-Mobi Látogatóközpont (Millenáris)",E-Mobi,47.5118773274712,19.0230674142083,Budapest,Public,2
+107434,"Budapest, Kubik utca",E-Mobi,47.5614740777373,19.0223728583359,Budapest,Public,2
+107433,Kontyfa utca,NKM mobiliti,47.546575341928005,19.13901326819223,Budapest,Public - Membership Required,2
+107432,"Budapest, Kerék utca",E-Mobi,47.5488116506873,19.0424962767212,Budapest,Public,2
+107427,"Zirc, Rákóczi tér",E-Mobi,47.2626854380071,17.8709429153442,Zirc,Public,2
+107426,"Budapest, Bácska utca",E-Mobi,47.5630901,19.1180867,Budapest,Public,2
+107425,"Budapest, Árpád fejedelem útja 12.",E-Mobi,47.5209694908042,19.0379265853195,Budapest,Public,2
+107424,"Zamárdi, Kiss Ernő utca",E-Mobi,46.884999,17.943008,Zamárdi,Public,2
+107422,"Budapest, Kiskorona utca",E-Mobi,47.5380197,19.0423996,Budapest,Public,2
+107421,"Budapest, Ágoston utca",E-Mobi,47.545977,19.031736,Budapest,Public,2
+107420,"Budapest, Csatárka utca",E-Mobi,47.530077,19.009047,Budapest,Public,2
+107419,"Kiskőrös, Petőfi Sándor utca",E-Mobi,46.620181,19.283878,Kiskőrös,Public,2
+107418,"Kecskemét, Akadémia körút",E-Mobi,46.916454,19.67979,Kecskemét,Public,2
+107417,"Kecskemét, Horváth Cirill tér",E-Mobi,46.91049,19.693884,Kecskemét,Public,2
+107416,"Kecskemét, Rákóczi út",E-Mobi,46.909816,19.698089,Kecskemét,Public,2
+107415,"Bicske, Kossuth Lajos utca",E-Mobi,47.49236825720904,18.634237144566328,Bicske,Public,2
+107414,"Békéscsaba, Szabó Dezső utca",E-Mobi,46.676543,21.0883109,Békéscsaba,Public,2
+107413,"Békéscsaba, Posta köz parkoló",E-Mobi,46.6789950480929,21.0971353152054,Békéscsaba,Public,2
+107412,"Balatonszemes, kikötő",E-Mobi,46.8112304142809,17.770820068786634,Balatonszemes,Public,2
+107411,"Balatonlelle, McDonald's",E-Mobi,46.7845153770867,17.6863576084595,Balatonlelle,Public,2
+107410,"Balatonkenese, Táncsics Mihály utca",E-Mobi,47.035032422546,18.1084860492126,Balatonkenese,Public,2
+107409,"Balatonföldvár, Budapest utcai parkoló",E-Mobi,46.8489381589972,17.8793760292222,Balatonföldvár,Public,2
+107408,"Balatonalmádi, Almádi Yacht Club",E-Mobi,47.0285453816304,18.0215969127808,Balatonalmádi,Public,2
+107407,"Balatonalmádi, Taksony utca",E-Mobi,47.037706245602,18.0203852390785,Balatonalmádi,Public,2
+107406,"Badacsonytomaj, kikötő parkoló",E-Mobi,46.7867229077162,17.5058029937755,Badacsonytomaj,Public,2
+107405,"Alsóörs, Vasút utca",E-Mobi,46.9853980801105,17.9789641217042,Alsóörs,Public,2
+107404,"Abádszalók, Arany János út",E-Mobi,47.47847928561205,20.59137068534642,Abádszalók,Public,2
+107403,"Hódmezővásárhely, Virág utca",E-Mobi,46.41656161161,20.3224401301636,Hódmezővásárhely,Public,2
+107402,"Hódmezővásárhely, Hódtói Sportcsarnok",E-Mobi,46.4148220477889,20.3291474252004,Hódmezővásárhely,Public,2
+107401,"Hódmezővásárhely, Stadion / Piac parkoló",E-Mobi,46.4223267162402,20.3315463400894,Hódmezővásárhely,Public,2
+107400,"Hódmezővásárhely, Uszoda parkoló",E-Mobi,46.4095387606829,20.3178045878357,Hódmezővásárhely,Public,2
+107399,"Hódmezővásárhely, Bessenyei Ferenc Művelődési Központ",(Unknown Operator),46.416055573639255,20.316948877662753,Hódmezővásárhely,Public,2
+107398,"Hódmezővásárhely, Szegfű utcai",(Unknown Operator),46.41589654570018,20.319357501358127,Hódmezővásárhely,Public,2
+107397,"Hódmezővásárhely, Zrínyi utca",(Unknown Operator),46.4143043915839,20.314556347221355,Hódmezővásárhely,Public,2
+107337,"Gyöngyös, AVIA benzinkút",(Business Owner at Location),47.7759405848498,19.9482454356049,Gyöngyös,Public,1
+107121,"Dunaújváros, Szabadság úti parkoló",E-Mobi,46.9656630281123,18.9166160924885,Dunaújváros,Public,2
+107058,"Pannonhalma, Főtér",E-Mobi,47.549493073352,17.75534927845,Pannonhalma,Public,2
+106906,"Szekszárd, Halász Klinika",(Business Owner at Location),46.3376949,18.6935429,Szekszárd,"Private - For Staff, Visitors or Customers",2
+106905,TEA. Tarcal,TEA.,48.128383,21.345945,Tarcal,Public,2
+106817,"Budapest, Budafoki MTE Sportegyesület",E-Mobi,47.4213738145638,19.0294920183726,Budapest,Public,2
+106816,"Budapest, Nagytétény, Szentháromság tér",E-Mobi,47.3928353488059,18.9865080672278,Budapest,Public,2
+106366,"Kápolnásnyék, Vörösmarty utca",E-Mobi,47.2386863309907,18.6739239749411,Kápolnásnyék,Public,2
+106364,"Velence, Velence Korzó",E-Mobi,47.228882996711,18.6633238842225,Velence,Public,2
+106359,"Agárd, Agárdi Gógy- és Termálfürdő",E-Mobi,47.1895052913369,18.6232796360243,Agárd,Public,2
+105500,Hotel Silvanus,Tesla (Tesla-only charging),47.793525,18.984294,Visegrad,Public - Membership Required,2
+105439,"Szabadbattyán, Avia kút",(Unknown Operator),47.1343248945396,18.382915335582,Szabadbattyán,Public,2
+105435,"Budapest, Penny Market - Sibrik Miklós út",(Business Owner at Location),47.4692318,19.156931,Budapest,Public,2
+105184,"Polgárdi, Avia benzinkút",(Unknown Operator),47.06919980800468,18.31019146560675,Polgárdi,Public,2
+104858,"Budapest, Lukács Fürdő",E-Mobi,47.5255069,19.0381889,Budapest,Public,2
+104855,"Baja, Nissan Hiezl",(Business Owner at Location),46.1848643943198,18.9357189074096,Baja,Public,1
+104396,Mjus World Resort & Thermal Park,Tesla (Tesla-only charging),47.008554,16.567232,Kormend,"Private - For Staff, Visitors or Customers",3
+103916,"Dunaújváros, Táncsics Mihály utca",(Business Owner at Location),46.96389498190683,18.933043585001087,Dunaújváros,Public,2
+103913,"Dunaújváros, Devecseri utca",(Business Owner at Location),46.96355649515809,18.939741439556656,Dunaújváros,Public,2
+103912,"Várpalota, Gál Gyula Sportcsarnok parkolója",E.ON (HU),47.1998211468905,18.1466209109891,Várpalota,Public,2
+103909,"Várpalota, Polgármesteri hivatal",E.ON (HU),47.2008308386592,18.1420446593163,Várpalota,Public,2
+103763,"Pécs, Kossuth téri mélygarázs",(Business Owner at Location),46.07382867812602,18.230794749306824,Pécs,Public,3
+103620,"Budapest, Népliget, Volánbusz pályaudvar",(Business Owner at Location),47.4737530116789,19.097424193633856,Budapest,Public,2
+103416,"Szeged, NKM Áramszolgáltató Ügyfélszolgálat - mobiliti",NKM mobiliti,46.262327,20.135731,Szeged,Public,2
+103415,"Csongrád, Dózsa György tér - mobiliti",NKM mobiliti,46.709937,20.147972,Csongrád,Public,2
+102069,Novotel Szeged,Tesla (Tesla-only charging),46.256238,20.156767,Szeged,Public - Notice Required,2
+101946,Dobosi Winery and Guesthouse,Tesla (Tesla-only charging),46.908835,17.675076,Szentantalfa,Public - Membership Required,1
+101762,Dunaújváros - Városháza ,(Business Owner at Location),46.9658195154938,18.9411216974258,Dunaújváros,Public,2
+101716,"Karcag, Bajcsy-Zsilinszky utca 2.",Bilinmiyor,47.316621,20.924743499999977,Karcag,Public,2
+101715,"Tiszafüred, Városi Strandfürdő",Bilinmiyor,47.6259732260388,20.7511399620407,Tiszafüred,Public,2
+101243,Nyír-Lift Kft,(Private Residence/Individual),47.922878,21.7190410000001,Nyíregyháza,"Private - For Staff, Visitors or Customers",1
+101228,Nyír-Lift Kft,(Unknown Operator),47.922878,21.719041,Nyíregyháza,"Private - For Staff, Visitors or Customers",1
+101226,Szalontai Rendszerintegrátor Kft.,(Business Owner at Location),46.9559606307694,17.8652764134224,Balatonfüred,"Private - For Staff, Visitors or Customers",1
+101021,"Budapest, Hungexpo - VIP charger",(Business Owner at Location),47.4930848928829,19.12165760602113,Budapest,"Private - For Staff, Visitors or Customers",2
+101020,"Budapest, Hungexpo - exhibitors' charger",(Business Owner at Location),47.494068143397776,19.128727908984388,Budapest,"Private - For Staff, Visitors or Customers",2
+101019,"Budapest, Hungexpo - visitors' charger",(Business Owner at Location),47.4930677559327,19.1294574698364,Budapest,"Private - For Staff, Visitors or Customers",2
+100819,Pannonia Hotel,Tesla (Tesla-only charging),47.683447,16.592119,Sopron,Public - Membership Required,2
+100562,"Szolnok, Pelikán Bevásárlóközpont",(Business Owner at Location),47.1778401,20.19343760000004,Szolnok,Public,2
+100443,"Hódmezővásárhely, NKM Áramszolgáltató Ügyfélszolgálat - mobiliti",NKM mobiliti,46.4127070902001,20.3172170888043,Hódmezővásárhely,Public,2
+99724,Sormas,Tesla (Tesla-only charging),46.460577,16.906868,215-ös kilométerkő,Public - Membership Required,4
+99702,"Budaörs, Metro áruház",(Business Owner at Location),47.45799540016183,18.901487009004207,Budaörs,Public,4
+99699,"Eger, Penny Market, II. Rákóczi Ferenc utca",(Business Owner at Location),47.92263817309603,20.36936039333796,Eger,Public,2
+99698,"Eger, Penny Market, Mátyás király út",(Business Owner at Location),47.874856403280944,20.382771438412423,Eger,Public,2
+99697,"Budapest, Penny Market, Csepel",(Business Owner at Location),47.4289067526534,19.070098346524,Budapest,Public,2
+99696,"Budapest, Penny Market, Kolozsvári utca",(Business Owner at Location),47.49094672723217,19.137207216076607,Budapest,Public,2
+99695,"Budapest, Penny Market, Huszti út",(Business Owner at Location),47.556578882298,19.0399503171966,Budapest,Public,2
+99694,"Budapest, Reál C+C, Kondorosi út",(Business Owner at Location),47.4505857701398,19.0417264754242,Budapest,Public,6
+99546,"Tatabánya, Vértes Center",(Business Owner at Location),47.5867925438632,18.393785558197,Tatabánya,Public,2
+99543,"Szeged, Szegedi Közlekedési Társaság telephely",(Business Owner at Location),46.2710355428877,20.1335276745606,Szeged,"Private - For Staff, Visitors or Customers",2
+97242,"Békéscsaba, NKM Áramszolgáltató Ügyfélszolgálat - mobiliti",NKM mobiliti,46.6747839440897,21.0872770122337,Békéscsaba,Public,2
+97213,"Mosonmagyaróvár, Adfexum Bevásárlóközpont",(Business Owner at Location),47.8732901,17.268472400000064,Mosonmagyaróvár,Public,1
+97149,"Szombathely, Haladás Sport Komplexum",(Business Owner at Location),47.2337858533855,16.6079398994751,Szombathely,Public - Membership Required,1
+96403,"Budapest, XVIII. kerület, Pestszentimre, Vasút utca",(Business Owner at Location),47.404126307568,19.1868411159386,Budapest,Public,1
+96402,"Budapest, XVIII. kerületi Városháza ",(Business Owner at Location),47.4446843139827,19.1757626869035,Budapest,Public,1
+96323,"Sormás, István Parkhotel Tesla Supercharger",Tesla (Tesla-only charging),46.45980502475187,16.901412254370133,Sormás,Public - Membership Required,4
+96201,"Győr, Nissan Iniciál",(Business Owner at Location),47.649915997392014,17.657823900085305,Győr,Private - Restricted Access,1
+96170,"Győr, M1 Arrabona pihenő, OMV",Tesla (Tesla-only charging),47.6333469475724,17.6609214250618,Győrújbarát,Public,4
+95680,"Győr, Penny Market",(Business Owner at Location),47.66900211978316,17.654034976859954,Győr,Public,2
+95658,"Balatongyörök, MVM Hotel Panoráma",(Business Owner at Location),46.75467099999999,17.355526000000054,Balatongyörök,Public,2
+95359,"Ópusztaszer, Erdei Vendégházak",(Business Owner at Location),46.4925179,20.06629399999997,Ópusztaszer,Public,1
+94151,"Hajdúszoboszló, Hotel Silver",(Business Owner at Location),47.454007,21.406044000000065,Hajdúszoboszló,"Private - For Staff, Visitors or Customers",2
+94150,"Budapest, Régi Fóti út Penny Market",(Business Owner at Location),47.56064592639334,19.121817193548637,Budapest,Public,2
+94148,"Nagykanizsa, E.ON telephely",(Business Owner at Location),46.45383308493244,16.98091358266449,Nagykanizsa,Private - Restricted Access,1
+93475,"Köveskál, Káli Art Inn",(Business Owner at Location),46.8812453718476,17.6080423593521,Köveskál,"Private - For Staff, Visitors or Customers",1
+92943,Espana Thermal Aqua Hotel,Bilinmiyor,46.78201159771862,17.188654948576527,Heviz,"Private - For Staff, Visitors or Customers",1
+92942,"Pécs, Hotel Palatinus City Center",MVM Partner Zrt.,46.0764401,18.2294862,Pécs,Public - Pay At Location,1
+92941,"Győr, Hotel Rába City Center",MVM Partner Zrt.,47.684717,17.635014,Győr,Public - Pay At Location,1
+92940,"Hévíz, Danubius Health Spa Resort Hévíz Superior",MVM Partner Zrt.,46.787225,17.1860810000001,Hévíz,Public - Pay At Location,1
+92939,"Budapest, Radisson Blu Béke Hotel Superior",MVM Partner Zrt.,47.5081833,19.0595691,Budapest,Public - Pay At Location,1
+92938,"Budapest, Danubius Hotel Gellért",MVM Partner Zrt.,47.4835708,19.0532999,Budapest,Public - Pay At Location,1
+92932,Spirit Hotel Thermal Spa,Tesla (Tesla-only charging),47.243913,16.942967,,Public - Notice Required,2
+92881,CURB - Autó Széles Nyíregyháza,Curb (Hungary),47.962299223130884,21.724130430385316,Nyíregyháza,Public,1
+92831,"Balatonfüred, Hotel Annabella Superior",MVM Partner Zrt.,46.9577105,17.9014551,Balatonfüred,Public - Pay At Location,2
+92830,"Budapest, Hotel Hungaria City Center",MVM Partner Zrt.,47.499553,19.078737,Budapest,Public - Pay At Location,1
+92829,"Budapest, Hotel Hilton Budapest",MVM Partner Zrt.,47.5027754,19.0332578,Budapest,Public - Pay At Location,1
+92828,"Budapest, Danubius Hotel Flamenco",MVM Partner Zrt.,47.4784246,19.0398087,Budapest,Public - Pay At Location,1
+92825,"Budapest, Green Point 7 Irodaház, -1 parkoló szint",MVM Partner Zrt.,47.498125,19.066379,Budapest,"Private - For Staff, Visitors or Customers",1
+92822,"Budapest, Ökumenikus Segélyszervezet",MVM Partner Zrt.,47.4240737,19.0395725999999,Budapest,"Private - For Staff, Visitors or Customers",1
+92821,"Budapest, Haller Garden Irodaház, -1 parkoló szint",MVM Partner Zrt.,47.4744896,19.0707475,Budapest,"Private - For Staff, Visitors or Customers",1
+92820,"Budapest, Váci Corner Offices, -2 parkoló szint",MVM Partner Zrt.,47.538142,19.0689629,Budapest,"Private - For Staff, Visitors or Customers",2
+92819,"Budapest, BME - J épület előtti parkoló",MVM Partner Zrt.,47.4815808,19.0557865000001,Budapest,Private - Restricted Access,1
+92818,"Budapest, MAVIR",MVM Partner Zrt.,47.5773688429452,19.0495020031512,Budapest,"Private - For Staff, Visitors or Customers",3
+92760,"Bátaszék, Budai utca",(Unknown Operator),46.19184144375481,18.724534226983693,Bátaszék,Public,1
+92741,"Vác, Vörösház - Lavina Szerviz",E-Mobi,47.7791597431173,19.1345509687866,Vác,Public,2
+92736,"Budapest, MVM",MVM Partner Zrt.,47.5780315293412,19.0503768583873,Budapest,"Private - For Staff, Visitors or Customers",1
+92735,"Zirc, Hotel Szarvaskút",MVM Partner Zrt.,47.2314018,17.848303,Zirc,"Private - For Staff, Visitors or Customers",1
+92732,"Budapest, Toyota Buda",MVM Partner Zrt.,47.4615404,18.9987515,Budapest,"Private - For Staff, Visitors or Customers",1
+92674,"Szeged, SZTE József Attila TIK",(Business Owner at Location),46.24664019999999,20.142490899999984,Szeged,Public,1
+92673,"Veszprém, Bagolyvári Parkolóház",(Business Owner at Location),47.09403216454314,17.909234386230523,Veszprém,Public,2
+92191,"Alsópetény, Prónay-kastély",(Business Owner at Location),47.8712853,19.245540699999992,Alsópetény,Public - Notice Required,1
+92108,TEA. Nyáregyháza ÖKOVI,TEA.,47.262619,19.50003,Nyáregyháza,Public,1
+92067,"Sárvár, Spirit Hotel",(Business Owner at Location),47.2465111,16.9482669,Sárvár ,"Private - For Staff, Visitors or Customers",3
+91936,"Szolnok, Ring Autóház",(Business Owner at Location),47.1775601180424,20.163015190213,Szolnok,Public,1
+91766,"Somlójenő, Tornai Pincészet",(Business Owner at Location),47.13727305302919,17.364210639217394,Somlójenő,Public,2
+91760,"Gödöllő, Gablini szalon",(Business Owner at Location),47.61639215168197,19.348277703041056,Gödöllő,Public,1
+91757,"Sárvár,  Vadkert Major",(Business Owner at Location),47.2438207,16.9469315,Sárvár ,"Private - For Staff, Visitors or Customers",1
+91577,"Boldogkőváralja, Boldogkő vára",(Business Owner at Location),48.3450164543583,21.2321205428223,Boldogkőváralja,Public,2
+90906,"Budapest, Lidl, Lőrinc Center",(Business Owner at Location),47.4335732241183,19.2009922477463,Budapest,Public,2
+90504,Keszthelyi Városi Piac ,(Unknown Operator),46.7661703,17.2457336,Keszthely,Public,1
+90150,"Budapest, Helia Hotel",(Business Owner at Location),47.52599991091903,19.056391613491773,Budapest,Public,4
+90136,"Budapest, Könyves Kálmán Krt., Penny Market",(Business Owner at Location),47.48201281629561,19.103090438735748,Budapest,Public,2
+90135,"Budapest, Hős utca, Penny Market",(Business Owner at Location),47.4962214982894,19.10776119668116,Budapest,Public,2
+89014,Lukoil Miskolc,Optimum Way,48.1279211,20.7853893,Miskolc,Public - Pay At Location,2
+88686,"Budapest, Soroksári IKEA",(Business Owner at Location),47.4124369023977,19.1604137620407,Budapest,Public,4
+88539,"Lukoil Gödöllő, M3-as Dél",Optimum Way,47.606015695799,19.2950115287666,Mogyoród,Public - Pay At Location,2
+88538,"Lukoil Gödöllő, M3-as Észak",Optimum Way,47.6076177569169,19.2949785152596,Gödöllő,Public - Pay At Location,2
+88451,"Zsámbék, Drivingcamp Hungary",Tesla (Tesla-only charging),47.517493,18.732786,Zsámbék,Public - Membership Required,2
+87257,"Budapest, Mile Kft",(Business Owner at Location),47.4851268,19.147845800000027,Budapest,"Private - For Staff, Visitors or Customers",1
+87256,"Budapest, Átrium Park mélygarázs",(Business Owner at Location),47.5271693,19.0661923,Budapest,Private - Restricted Access,2
+87254,"Felcsút, Faluháza",(Unknown Operator),47.45788077149304,18.585638197518524,Felcsút,"Private - For Staff, Visitors or Customers",1
+87250,"Nyíregyháza, Korzó Bevásárlóközpont",(Business Owner at Location),47.9582475,21.7175602,Nyíregyháza,Public,6
+87178,"Mátraszentistván, Montem vendégház",(Unknown Operator),47.92642499999999,19.862212,Mátraszentistván,"Private - For Staff, Visitors or Customers",1
+87177,MOL Plugee M7 Füle N,MOL,47.026952057494746,18.26230535170897,Füle,Public - Pay At Location,1
+87176,CURB - Hotel InterContinental Budapest,Curb (Hungary),47.497702,19.047661,Budapest,Public,2
+87175,"Budapest, Corinthia Hotel",(Business Owner at Location),47.502665,19.06676600000003,Budapest,"Private - For Staff, Visitors or Customers",1
+87174,"Budapest, Porsche Centrum",(Business Owner at Location),47.449546,19.043900000000008,Budapest,Public,1
+87173,"Budapest, Rózsakert Bevásárlóközpont",(Business Owner at Location),47.522506800000116,19.014869684655753,Budapest,Public,2
+87172,"Hévíz, Lotus Therme Hotel & Spa",(Business Owner at Location),46.77999853924659,17.193873584686354,Hévíz,"Private - For Staff, Visitors or Customers",1
+87171,"Pannonhalma, Apátsági Viator Étterem és Borbár",(Business Owner at Location),47.5550794536538,17.7600521667606,Pannonhalma,Public,1
+86063,"Budapest, Volvo Galéria és Szerviz, Váci út",(Business Owner at Location),47.5700942,19.0804608,Budapest,"Private - For Staff, Visitors or Customers",1
+85935,"Kecskemét, Malom Központ",(Business Owner at Location),46.9076456,19.689063799999985,Kecskemét,Public,2
+85933,"Szombathely, Rákóczi Ferenc utca",(Unknown Operator),47.228949642297856,16.623098619712902,Szombathely,Public,2
+85931,"Hatvan, Hyundai Hatvan",(Business Owner at Location),47.66606516852942,19.6428612367706,Hatvan,Public,2
+85849,"Veszprém, Cserhát utca 2.",(Unknown Operator),47.09570275245504,17.911533447399165,Veszprém,Public,1
+85756,Janus Boutique Hotel & SPA,(Business Owner at Location),46.90864,18.05769,Siofok,Public - Pay At Location,2
+85528,"Budakalász, Schieszl Vendéglő és Borház",(Business Owner at Location),47.615779657422,19.0522500882912,Budakalász,Public,1
+85222,"Villány, Crocus Gere Borhotel",TEA.,45.861808,18.44499,Villány,"Private - For Staff, Visitors or Customers",2
+85221,"Kunszállás, Önkormányzat",(Business Owner at Location),46.7632693,19.752700600000026,Kunszállás,Public,1
+85220,"Budapest, Westend City Center, A service road",(Business Owner at Location),47.5129688065161,19.0592811506535,Budapest,Public - Membership Required,2
+85204,TEA. Győr M1 Hedoti Autohof 75 kW DC ,TEA.,47.64938181136765,17.704850354163113,Győr Töltéstava ,Public,2
+84615,"Budapest, Nissan Centrum Őrmező",(Business Owner at Location),47.4627356,19.0115114,Budapest,Public,1
+84572,"Budapest, Aquaworld Resort",(Unknown Operator),47.60133655608755,19.112406159802298,Budapest,"Private - For Staff, Visitors or Customers",3
+84570,"Zalaegerszeg, Dísz tér",Bilinmiyor,46.84214,16.84673,Zalaegerszeg,Public,1
+84544,"Budapest, Lidl, Teleki tér",(Business Owner at Location),47.4931050897592,19.0841005356607,Budapest,Public,2
+84396,"Érd, Interspar",(Business Owner at Location),47.413447,18.882976,Érd,Public,4
+84372,"Budapest, Asia Center Bevásárlóközpont",(Business Owner at Location),47.5486725339946,19.1477252601883,Budapest,Public,6
+84313, Herendi Porcelánium Látogatóközpont ,(Business Owner at Location),47.1305802,17.7529291,Herend,Public,2
+83489,"Budapest, CBA Prima, Újpest központ",(Business Owner at Location),47.559806871163104,19.089925066864787,Budapest,Public,2
+81462,Apponyi Kiskastély,(Business Owner at Location),46.468131,18.6459575,Medina,Privately Owned - Notice Required,2
+79693,"Dunaharaszti, Fő út 8-10.",(Unknown Operator),47.3668547,19.093529999999987,Dunaharaszti,Public,1
+78617,"Budapest, IKEA",(Business Owner at Location),47.5055604,19.1382302,Budapest,Public,8
+77392,Fenyőharaszt Kastélyszálló,(Business Owner at Location),47.6972273503137,19.5822715759277,Verseg-Fenyőharaszt,(Unknown),1
+77352,"Sopron, Interspar",(Business Owner at Location),47.6892458,16.5837811,Sopron,Public,2
+77236,"Budapest, Lehel Csarnok",(Business Owner at Location),47.5184179,19.06107499999996,Budapest,Public,2
+77152,"Pécs, Centrum parkoló",(Business Owner at Location),46.0714573732612,18.2286853979393,Pécs,Public,2
+77132,"Budapest, Vincellér utca",(Business Owner at Location),47.476674,19.036733,Budapest,Public,2
+77115,"Felsőlajos, Hungary Aliment Kft.",(Business Owner at Location),47.06382645515395,19.49632663656234,Felsőlajos,Public,1
+77111,"Budapest, Allee Bevásárlóközpont",(Business Owner at Location),47.4740686,19.0487147,Budapest,Public,1
+77110,"Budapest, Kerepesi út (MOL)",(Business Owner at Location),47.499397,19.087156,Budapest,Public - Pay At Location,2
+77079,"Budapest, Módusz Irodaház parkoló",(Business Owner at Location),47.48276864464898,19.103983263893152,Budapest,Public,2
+77048,"Budapest, MOM Park Bevásárlóközpont mélygarázs",E.ON (HU),47.490274,19.022921,Budapest,Public,16
+77047,"Szekszárd, Piactéri parkolóház",(Unknown Operator),46.35016,18.701298,Szekszárd,Public,2
+77046,"Budapest, Media Markt Stop Shop",(Business Owner at Location),47.54354470026304,19.02856580230788,Budapest,Public,2
+74981,Budapesti Elektromos Sportegyesület,(Business Owner at Location),47.5320889538417,19.0582001209259,Budapest,"Private - For Staff, Visitors or Customers",1
+74980,"Budapest, ELMŰ Észak-pesti régió",(Business Owner at Location),47.5885859934946,19.0971350669861,Budapest,"Private - For Staff, Visitors or Customers",1
+74780,"Eger, Parkolóhaz  Árva Köz",(Business Owner at Location),47.9047346,20.3731018,Eger,Public,4
+73130,"Lillafüred, Hunguest Hotel Palota",(Business Owner at Location),48.1044759410547,20.6242722272873,Lillafüred,"Private - For Staff, Visitors or Customers",1
+73028,"Magyarszombatfa, Kosbor panzió",(Business Owner at Location),46.7589372176025,16.3354682922363,Magyarszombatfa,"Private - For Staff, Visitors or Customers",2
+72541,"Mályi, Móra Ferenc Általános Iskola",(Private Residence/Individual),48.0181221,20.8236336,Mályi,Public,2
+72539,"Dunakiliti, Hotel Diamant",(Business Owner at Location),47.9749842847919,17.2953987121582,Dunakiliti,"Private - For Staff, Visitors or Customers",2
+72493,"Balatonfüred,  Megújuló Energia Központ",(Business Owner at Location),46.93948,17.864603,Balatonfüred,Public,1
+72105,"Cegléd, Hotel Aquarell",(Business Owner at Location),47.201289142917844,19.73677234022829,Cegléd,Public,1
+72088,"Paks, Forráspont Paksi Energiaház",(Business Owner at Location),46.611718,18.837545,Paks,Public,2
+72051,"Tapolca, Hotel Gabriella",(Business Owner at Location),46.8812768895271,17.4414253920959,Tapolca,"Private - For Staff, Visitors or Customers",1
+72050,"Veszprém, Jutasi úti parkoló",(Unknown Operator),47.0937251761342,17.9142719828034,Veszprém,Public,2
+71819,"Fülöpszállás, Kígyósi Csárda Panzió",(Business Owner at Location),46.806653542368174,19.158168141435663,Fülöpszállás,Public,3
+71816,"Budapest, Nissan Sales CEE",(Business Owner at Location),47.4702832428105,19.0601443816147,Budapest,Private - Restricted Access,1
+71120,"Kőszeg, Gyöngy Autómosó",(Business Owner at Location),47.4020412847199,16.5389777747299,Kőszeg,Public,1
+71057,"Hévíz, Palace Hotel****",(Business Owner at Location),46.7907512960347,17.1893806497376,Hévíz,"Private - For Staff, Visitors or Customers",1
+70704,"Halásztelek, Somogyi Béla u. 53.",(Unknown Operator),47.36233226282243,18.982033459524484,Halásztelek,Public,1
+70692,"Miskolc, Avalon park ",(Business Owner at Location),48.064368658259184,20.731824883322247,Miskolc ,Public,4
+70631,"Budapest, Hajógyár u.",E.ON (HU),47.54155336541994,19.045660204789346,Budapest,Public,2
+70588,"Budapest, Lidl, Hungária krt.",(Business Owner at Location),47.495602,19.108746,Budapest,Public,2
+70587,"Budapest, Lidl, XVI. kerület János u.",(Business Owner at Location),47.53471277141764,19.160431271550014,Budapest,Public,2
+70401,"Székesfehérvár, Albapark Restaurant",NKM mobiliti,47.17752486206558,18.47579510740104,Székesfehérvár,Public,2
+70191,Balatonfüredi Yacht Club,(Business Owner at Location),46.953069804442485,17.89211638518064,Balatonfüred,Public,1
+70128,"Budapest, Lánchíd u. 5.",E.ON (HU),47.4973661853181,19.0410252376122,Budapest,Public,2
+70038,"Budapest, Duna Autó Nissan",(Business Owner at Location),47.5539147118933,19.0335795426056,Budapest,Public,1
+69997,"Herceghalom, Abacus Hotel",(Business Owner at Location),47.4996537807508,18.7530729681839,Herceghalom,Privately Owned - Notice Required,1
+69996,"Budapest, Nissan Gablini Zugló",(Business Owner at Location),47.5175203,19.1449646999999,Budapest,Public,1
+69985,"Budapest, Nissan Gablini M3",(Business Owner at Location),47.566311471492,19.1518682786431,Budapest,Public,1
+68700,"Budapest, Aréna Pláza",(Business Owner at Location),47.4983887,19.0918872,Budapest ,Public,4
+68698,"Nyíradony, Tuning Kézi Mosó és Kozmetika",(Business Owner at Location),47.686,21.894805,Nyíradony,Public,1
+68645,"Pécs, Nissan Ste-Ba",(Business Owner at Location),46.0847144231488,18.2665893222291,Pécs,Public - Membership Required,1
+67828,"Tatabánya, Delphi factory",(Business Owner at Location),47.585916,18.358243,Tatabánya,Public,4
+66722,"Kisoroszi, Temető utca",(Private Residence/Individual),47.8107555655226,19.0054558636932,Kisoroszi ,Privately Owned - Notice Required,3
+66184,"Felcsút, Hungaro Petrol benzinkút",(Business Owner at Location),47.4679977,18.5816718,Felcsút,Public,1
+65897,TEA. Pásztó,TEA.,47.920307,19.697704,Pásztó,Public,2
+61348, MnM Szerviz,(Business Owner at Location),47.3438825,16.962841,Jákfa,Public - Pay At Location,1
+60624,"Budapest, Bálna mélygarázs",(Business Owner at Location),47.4838301574749,19.0608263186073,Budapest,Public,1
+60499,"Szombathely, Körmendi út 40.",(Unknown Operator),47.22314,16.617371,Szombathely,Public,1
+60454,"Budapest, Green Taxi telephely",(Business Owner at Location),47.442039,19.08317199999999,Budapest,"Private - For Staff, Visitors or Customers",5
+60453,"Balatonfüred, Flamingó Wellness és Konferencia Hotel",(Business Owner at Location),46.950523649934404,17.886261405487843,Balatonfüred,Public,1
+60452,"Fonyód, Torony étterem",(Business Owner at Location),46.7368767716951,17.5345703187966,Fonyód,Public,1
+60451,"Keszthely, Vadászati múzeum",(Business Owner at Location),46.7724275227596,17.23822537116815,Keszthely,Public,1
+60450,"Tata, Old Lake Golf Club & Hotel",(Business Owner at Location),47.616647,18.347728,Tata,Public,0
+60449,"Győr, Révai Parkolóház",E.ON (HU),47.6853217013063,17.6422009811678,Győr,Public,1
+60448,"Győr, Jókai Parkolóház",(Business Owner at Location),47.684078,17.631275,Győr,Public,1
+60447,"Sopron, Full Energy benzinkút",(Business Owner at Location),47.6849289954886,16.5723879854584,Sopron,Public,1
+60445,"Mosonmagyaróvár, Corvina Hotel",(Business Owner at Location),47.861527,17.275594,Mosonmagyaróvár,Public,1
+60359,"Budapest, Hegyvidék Bevásárlóközpont",(Business Owner at Location),47.4906950563166,19.0118971539673,Budapest,Public,1
+57581,"Budapest, Liszt Ferenc Nemzetközi Repülőtér",E.ON (HU),47.4310459530567,19.2632593293483,Budapest,Public,2
+56896,Dunaújvárosi Főiskola,(Business Owner at Location),46.9601778052331,18.9342928375732,Dunaújváros,Public,2
+56895,"Budapest, Széna tér 1.",E.ON (HU),47.507763915479586,19.027033780957595,Budapest,Public,1
+56826,Meder utca,(Business Owner at Location),47.548878669423,19.0726246550475,Budapest,Public,2
+56337,"Budapest, Symbol étterem",(Unknown Operator),47.5298642,19.0376883,Budapest,"Private - For Staff, Visitors or Customers",1
+54557,"Budapest, Káldy Gyula utcai mélygarázs",(Business Owner at Location),47.4996259,19.057682800000066,Budapest,Public,1
+54556,"Sárvár, VitalMed Hotel",(Business Owner at Location),47.2477901380629,16.9493467449829,Sárvár,Public,1
+54324,"Szolnok, Belváros",(Unknown Operator),47.1759597726627,20.1958090232788,Szolnok,Public,2
+52522,"Budapest, Várkert Bazár mélygarázs",(Unknown Operator),47.4931542,19.0431004,Budapest,Public,2
+52521,"Budapest, Bécsi kapu",(Unknown Operator),47.505564,19.029001,Budapest,Public,2
+52039,"Budapest, Alkotmány u. 8.",(Unknown Operator),47.5075353,19.050459,Budapest,Public,2
+48933,"Bükkábrány, Polgármesteri Hivatal",Bilinmiyor,47.887192,20.683761,Bükkábrány,Public,1
+48932,"Bükkábrány, sportpálya",Bilinmiyor,47.886591860457,20.6804053054184,Bükkábrány,Public,1
+48924,"Zalaegerszeg, Városi Sportcsarnok",Bilinmiyor,46.846195,16.852258,Zalaegerszeg,Public,1
+47917,"Győr, Dunakapu téri mélygarázs",(Unknown Operator),47.6898003,17.6337599,Győr,Public,1
+47896,"Felsőtárkány, Általános Iskola",Bilinmiyor,47.97359,20.416294,Felsőtárkány,Public,1
+47552,"Pápa, E.ON telep",(Business Owner at Location),47.337316600804414,17.467042542297367,Pápa,Public,1
+47339,"Debrecen, Nagyerdei Stadion Mélygarázsa",(Business Owner at Location),47.5505937638619,21.6303634643555,Debrecen,Public,1
+47237,"Pécs, Fordan Hotel",(Business Owner at Location),46.0696368,18.2302795,Pécs,"Private - For Staff, Visitors or Customers",4
+47236,"Szikszó, Polgármesteri Hivatal",(Business Owner at Location),48.2007223,20.9280968,Szikszó,Public,1
+47220,"Budapest, Westend City Center, A parkoló szint",(Business Owner at Location),47.5128534545867,19.0597611871719,Budapest,Public - Membership Required,1
+47219,"Budapest, Westend City Center, P1 parkoló szint",(Business Owner at Location),47.5143982459365,19.0607963783693,Budapest,Public - Membership Required,1
+47218,"Budapest, Audi dealership",(Business Owner at Location),47.5361328726051,19.076111104195,Budapest,"Private - For Staff, Visitors or Customers",2
+47217,"Budapest, Volkswagen dealership",(Business Owner at Location),47.5362895860651,19.077456232016,Budapest,"Private - For Staff, Visitors or Customers",2
+47174,"Szikszó, Inkubátor ház",(Business Owner at Location),48.198113,20.928313,Szikszó,Public - Notice Required,2
+47152,"Budapest, Westend City Center, P3 parkoló szint",(Business Owner at Location),47.5144033688283,19.0607737999703,Budapest,Public - Membership Required,2
+47151,"Nyíregyháza, LEGO factory",(Business Owner at Location),47.9525071657213,21.6466303243286,Nyíregyháza,"Private - For Staff, Visitors or Customers",18
+47150,"Székesfehérvár, Jancsár Hotel",(Business Owner at Location),47.18279251872548,18.406718367459117,Székesfehérvár,Public - Pay At Location,1
+47149,"Siófok, Hotel Azúr",(Business Owner at Location),46.906483004910136,18.04199214512482,Siófok,Public - Pay At Location,2
+47147,"Fót, Lovasterápiás Központ 2",(Business Owner at Location),47.6049233850278,19.1801699021858,Fót,Public - Notice Required,2
+47146,"Fót, Lovasterápiás Központ 1",(Business Owner at Location),47.6045777439299,19.1811945060294,Fót,Public - Notice Required,1
+47145,"Budapest, Lurdy ház",(Business Owner at Location),47.4711831289164,19.0835422698365,Budapest,Public,1
+47102,"Budapest, Hotel Kempinski Corvinus",(Business Owner at Location),47.4974135445689,19.0524793435859,Budapest,Public,4
+47101,"Budapest, Magyar Autóklub",(Business Owner at Location),47.5561803433574,19.0849668488266,Budapest,"Private - For Staff, Visitors or Customers",2
+47078,"Budapest, Mammut II",(Business Owner at Location),47.5088879735494,19.0263081180688,Budapest,Public,2
+46724,"Bükkaranyos, központ",(Business Owner at Location),47.986331,20.77936,Bükkaranyos,Public - Notice Required,1
+46723,"Budaörs, Auchan (2)",(Business Owner at Location),47.4537546219913,18.9424095845211,Budaörs,Public,2
+46722,"Budaörs, Auchan (1)",(Business Owner at Location),47.454318,18.945015,Budaörs,Public,2
+46721,"Törökbálint, Telenor Magyarország",(Business Owner at Location),47.4292895835592,18.9357877581623,Törökbálint,Public,1
+46720,"Budapest, Záhony utca",E.ON (HU),47.5606654110372,19.0531379401283,Budapest,Public,2
+46719,"Mogyoród, Hungaroring főbejárat",(Business Owner at Location),47.5831102062939,19.2429404138127,Mogyoród,Public,2
+46718,"Bükkaranyos, szélkerék",(Business Owner at Location),47.9668674106639,20.7997384001526,Bükkaranyos,Public,1
+46717,"Mogyoród, Hungaroring, Tanpálya",(Business Owner at Location),47.5860735981356,19.2517943857708,Mogyoród,Public,1
+46716,"Budaörs, Nissan Gablini",(Business Owner at Location),47.4516799857838,18.9700418026246,Budaörs,Public,1
+46715,"Budapest, Graphisoft Park",(Business Owner at Location),47.5604432680345,19.0551696489697,Budapest,"Private - For Staff, Visitors or Customers",1
+46712,"Budapest, Istenhegyi úti (MOL)",MOL,47.503567,19.003534,Budapest,Public - Pay At Location,4
+31682,"Miskolc, Dózsa György út 13.",E.ON (HU),48.106965477548954,20.779865741062736,Miskolc,Public,2
+31651,"Sopron, Lackner Kristóf utca 35",E.ON (HU),47.69755,16.578841,Sopron,Public,1
+31639,"Budapest, Flórián tér 6-9.",E.ON (HU),47.542572,19.040146,Budapest,Public,1
+31638,"Budapest, Margit sziget (Grand Hotel Margitsziget)",E.ON (HU),47.53279032350869,19.053065072915388,Budapest,Public,2
+31637,"Budapest, Bécsi út 60.",E.ON (HU),47.530281,19.03778,Budapest,Public,2
+31636,ELMŰ székház,E.ON (HU),47.52400176991438,19.06248161465271,Budapest,Public,2
+31635,"Budapest, Kacsóh Pongrác út (P+R)",E.ON (HU),47.52043899619653,19.09147673767461,Budapest,Public,2
+31632,"Budapest, Jászai Mari tér",E.ON (HU),47.5137935701584,19.0470111879472,Budapest,Public,2
+31626,"Budapest, Mammut I",(Business Owner at Location),47.5089215793817,19.025616645813,Budapest,Public,2
+31624,"Budapest, Fő utca 44-55.",E.ON (HU),47.505521,19.038063,Budapest,Public,2
+31623,"Budapest, Oktogon",E.ON (HU),47.504959,19.063392,Budapest,Public,2
+31621,"Budapest, Szent István Bazilika",E.ON (HU),47.50088883869441,19.05497160018035,Budapest,Public,2
+31620,"Budapest, Erzsébet krt. 13.",E.ON (HU),47.498958215789145,19.07016228318321,Budapest,Public,2
+31619,"Budapest, Istenhegyi út 1-3",E.ON (HU),47.498019,19.020279,Budapest,Public,2
+31617,"Budapest, Bartók Béla út 1.",E.ON (HU),47.483195,19.052905,Budapest,Public,2
+31615,"Budapest, Etele tér 3.",E.ON (HU),47.465555,19.023444,Budapest,Public,2
+31613,"Budapest, Regina köz P+R",E.ON (HU),47.4642048520337,19.1444512380981,Budapest,Public,2
+31195,"Budapest, Graphisoft Park (Entrance 2)",Bilinmiyor,47.561702,19.053664,Budapest,Public - Notice Required,2
+31194,"Budapest, Akadémia utca",E.ON (HU),47.501086065712,19.0471128712681,Budapest,Public,2
+23660,"Elek, D'motors - Csökmei és Társa Bt",(Business Owner at Location),46.53528914290456,21.252083375555003,Elek,"Private - For Staff, Visitors or Customers",1
